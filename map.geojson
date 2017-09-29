@@ -1,0 +1,1111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Votes Without Violence",
+        "URL": "voteswithoutviolence.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.017576,
+          38.901048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "U.S. Department of Health and Human Services (USA)",
+        "URL": "healthdata.gov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.017576,
+          38.901048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "National Democratic Institute",
+        "URL": "nditech.org/project/dkan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.017576,
+          38.901048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "USDA National Agricultural Library",
+        "URL": "data.nal.usda.gov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.921752,
+          39.022775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "California",
+        "URL": "data.ca.gov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.493245,
+          38.576587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Oklahoma",
+        "URL": "data.ok.gov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.503317,
+          35.492106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "North Dakota",
+        "URL": "gis.nd.gov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.792981,
+          46.82791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Georgia (Governor's Office of Student Achievement)",
+        "URL": "schoolgrades.ga.gov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.386129,
+          33.750127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Louisville, KY",
+        "URL": "data.louisvilleky.gov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.760337,
+          38.254196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "OpenOakland",
+        "URL": "data.openoakland.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.272286,
+          37.805344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "San Diego, CA",
+        "URL": "data.sandiego.gov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.162969,
+          32.716915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Cambridgeshire, UK",
+        "URL": "opendata.cambridgeshireinsight.org.uk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.112802,
+          52.213009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Marine Scotland, UK",
+        "URL": "marinedata.scotland.gov.uk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.070518,
+          57.137909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Detail Data Northern Ireland, UK",
+        "URL": "data.nicva.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.829319,
+          54.599072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "UK Financial Conduct Authority",
+        "URL": "Internal site - no public access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.020052,
+          51.505617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Bank of England",
+        "URL": "Internal site - no public access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08647,
+          51.514304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Bonn, Germany",
+        "URL": "opendata.bonn.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.09447,
+          50.737103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Cologne, Germany",
+        "URL": "offenedaten-koeln.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.959121,
+          50.938103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Dusseldorf, Germany",
+        "URL": "offenedaten-duesseldorf.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.771482,
+          51.225691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Mannheim, Germany",
+        "URL": "opendata.mannheim.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.462785,
+          49.489397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "M�lheim an der Ruhr, Germany",
+        "URL": "geo.muelheim-ruhr.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.877627,
+          51.428735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Bielefeld University, Germany",
+        "URL": "dszbo-portal.uni-bielefeld.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.49347,
+          52.037689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Wuppertal, Germany",
+        "URL": "offenedaten-wuppertal.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.200039,
+          51.272093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "RNV, Germany",
+        "URL": "opendata.rnv-online.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.61471,
+          49.4416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "KDZV Frechen Rhein Erft Rur, Germany",
+        "URL": "offenedaten.kdvz-frechen.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.827938,
+          50.912761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Montpellier, France",
+        "URL": "data.montpellier3m.fr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.896837,
+          43.598544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Italy",
+        "URL": "dati.gov.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47982,
+          41.901221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Genova, Italy",
+        "URL": "dati.comune.genova.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.937435,
+          44.410875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Pompeii, Italy",
+        "URL": "open.pompeiisites.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.498934,
+          40.746157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Formia, Italy",
+        "URL": "dati.comune.formia.lt.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.605963,
+          41.255651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Torino, Italy",
+        "URL": "aperto.comune.torino.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.68159,
+          45.03999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Confiscati Bene, Italy",
+        "URL": "http://www.confiscatibene.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.345575,
+          38.13092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Donneche Contano, Italy",
+        "URL": "http://donnechecontano.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.18717,
+          45.490646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Data Hub, Hungary",
+        "URL": "http://data-hub.hu/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.051717,
+          47.477705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Ministry of Finance, Czech Republic",
+        "URL": "data.mfcr.cz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.407199,
+          50.089153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Ministry of Defence, Czech Republic",
+        "URL": "data.army.cz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.403504,
+          50.09533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Ministry of Regional Development, Czech Republic",
+        "URL": "data.mmr.cz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.421123,
+          50.088226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Czech Telecommunications Office, Czech Republic",
+        "URL": "data.ctu.cz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.499049,
+          50.110656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "D���n Municipality, Czech Republic",
+        "URL": "data.mmdecin.cz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.195649,
+          50.77377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Opava Municipality, Czech Republic",
+        "URL": "kod.opava-city.cz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.902516,
+          49.93887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Decentralised Administration of Crete, Greece",
+        "URL": "apdkritis.gov.gr/en"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.133336,
+          35.337249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Bosnia and Herzegovina",
+        "URL": "opendata.ba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.410895,
+          43.861751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Belarus",
+        "URL": "opendata.by"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.561524,
+          53.90454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Ukraine",
+        "URL": "data.gov.ua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.533414,
+          50.447967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Russia",
+        "URL": "data.gov.ru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.617499,
+          55.752023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Moscow Region, Russia",
+        "URL": "data.mosreg.ru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.381104,
+          55.815974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Saudi Arabia",
+        "URL": "data.gov.sa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.721259,
+          24.725188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Transport for New South Wales, Australia",
+        "URL": "opendata.transport.nsw.gov.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.00574,
+          -33.819007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Maps and Data, Cape York, Australia",
+        "URL": "maps.capeyorknrm.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.484882,
+          -17.258578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "G0V, Taiwan",
+        "URL": "data.g0v.tw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.564008,
+          25.033141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Ikoma, Japan",
+        "URL": "data.code4ikoma.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.709804,
+          34.706789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Kyoto, Japan",
+        "URL": "data.city.kyoto.lg.jp/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.768167,
+          35.011874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Urban Data Challenge, Japan",
+        "URL": "udct-data.aigid.jp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.138099,
+          35.116585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Banda Aceh City Council, Indonesia",
+        "URL": "data.bandaacehkota.go.id/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.319775,
+          5.548458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Gerakan Anti Corruption Project, Indonesia",
+        "URL": "data.gerakaceh.id/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.353557,
+          5.569559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Hutanriau, Indonesia",
+        "URL": "hutanriau.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.448429,
+          0.512497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Jamaica",
+        "URL": "data.gov.jm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.792488,
+          18.004526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Puerto Rico",
+        "URL": "abrepr.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.06713,
+          18.449707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "El Salvador",
+        "URL": "datoselsalvador.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.22036,
+          13.692643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Buenos Aires, Argentina",
+        "URL": "dkan.puertasdebuenosaires.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.376049,
+          -34.616606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Rosario, Argentina",
+        "URL": "datos.rosario.gob.ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.646319,
+          -32.944505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "IT PAMI, Argentina",
+        "URL": "it.pami.org.ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.724216,
+          -34.673708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Bogot� Secretariat of Culture, Recreation, and Sport, Colombia",
+        "URL": "sispru.scrd.gov.co/siscred/dataset"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.076746,
+          4.595954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Narino, Colombia",
+        "URL": "datos.narino.gov.co/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.486038,
+          1.297813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "IMSS, Mexico",
+        "URL": "datos.imss.gob.mx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.172788,
+          19.42347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "CONCYTEC, Peru",
+        "URL": "datos.concytec.gob.pe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.025647,
+          -12.125395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Ministry of Education, Peru",
+        "URL": "datos.minedu.gob.pe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.000901,
+          -12.085152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Ministry of Health, Peru",
+        "URL": "datos.minsa.gob.pe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.041584,
+          -12.072693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "National Jury of Elections, Peru",
+        "URL": "jnedatosabiertos.pe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.042433,
+          -12.04672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Ministry of Labor, Peru",
+        "URL": "datos.trabajo.gob.pe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.040704,
+          -12.071367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Open Data Windsor Essex, Canada",
+        "URL": "odwe.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.035269,
+          42.317422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "City of Fredericton, Canada",
+        "URL": "data.fredericton.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.642513,
+          45.963498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Sierra Leone",
+        "URL": "opendata.gov.sl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.234093,
+          8.486488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Nigeria",
+        "URL": "dataportal.visualdata.com.ng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.366578,
+          6.51909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Ghana",
+        "URL": "data.gov.gh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.187564,
+          5.603645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Namibia",
+        "URL": "namopendata.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.085585,
+          -22.564051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "South Africa",
+        "URL": "data.gov.za"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.198118,
+          -25.759015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Local Development Research Initiative, Kenya",
+        "URL": "transformagriculture.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.778374,
+          -1.292508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Desa": "Sayada, Tunisia",
+        "URL": "opendata.sayada.tn/fr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.904751,
+          35.660986
+        ]
+      }
+    }
+  ]
+}

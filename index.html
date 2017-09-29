@@ -1,0 +1,39 @@
+<html>
+<head>
+  <title>Daftar Website Desa</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.js"></script>
+  <script src="app.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+</head>
+<body>
+	<div class="container">
+		<h1>Daftar Website Desa</h1>
+
+		<p>Daftar Website Desa di seluruh Indonesia. Jangan ragu untuk <a href="https://github.com/siayi/website-desa/issues/new">mengirimkan issue</a> agar bisa menambahkan Website Desa yang Anda ketahui yang masuk ke dalam daftar ini.</p>
+		<div id="count">
+			<h2>Daftar</h2>
+			<p>Ini adalah daftar Website Desa se Indonesia.</p>
+			<div class="row">
+				<div class="col-md-4 col-sm-12">
+					<h2><span class="counter" id="total"></span>+</h2>
+					<p>Bawah Total</p>
+				</div>
+				<div class="col-md-4 col-sm-12">
+					<h2><span class="counter" id="provinsi"></span>+</h2>
+					<p>Bawah Provinsi</p>
+				</div>
+				<div class="col-md-4 col-sm-12">
+					<h2><span class="counter" id="kecamatan"></span>+</h2>
+					<p>Bawah Kecamatan</p>
+				</div>
+			</div>
+		</div>
+		<div id="map">
+			<h2>Peta Sebaran Website Desa</h2>
+			<iframe height="420" width="100%" frameborder="0" src="https://render.githubusercontent.com/view/geojson?url=https://github.com/siayi/website-desa/master/map.geojson"  title="map.geojson"></iframe>
+
+		</div>
+		<div id="tables"><h2>Daftar</h2></div>
+	</div>
+</body>
+</html>
