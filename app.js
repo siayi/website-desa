@@ -17,9 +17,9 @@ function WebsiteTable(data) {
   var tables = [];
   var headers = ["Desa", "Kecamatan", "Kabkot"]
   var formatted = {
-    "WIT": [],
-    "WITA": [],
-    "WIB": [],
+    "Jawa Barat": [],
+    "Jawa Tengah": [],
+    "Jawa Timur": [],
    };
 
   $.each(data, function(key,site) {
