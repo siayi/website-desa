@@ -1,11 +1,14 @@
 {
 	"type": "FeatureCollection",
-	"features": [{
+	"features": [
+		{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
-			"coordinates": [107.440124,
-			-7.120412]
+			"coordinates": [
+				107.440124,
+				-7.120412
+			]
 		},
 		"properties": {
 			"Desa": "PANUNDAAN",
@@ -375,7 +378,9 @@
 	{
 		"type": "Feature",
 		"geometry": {
-			
+		"type": "Point",
+			"coordinates": [107.566000,
+			-7.128000]	
 		},
 		"properties": {
 			"Desa": "WARJABAKTI",
@@ -625,7 +630,9 @@
 	{
 		"type": "Feature",
 		"geometry": {
-			
+			"type": "Point",
+			"coordinates": [107.683044,
+			-7.164603]
 		},
 		"properties": {
 			"Desa": "Resmi Tingal",
@@ -1139,7 +1146,9 @@
 	{
 		"type": "Feature",
 		"geometry": {
-			
+			"type": "Point",
+			"coordinates": [107.826847,
+			-7.040069]
 		},
 		"properties": {
 			"Desa": "MANDALASARI",
@@ -1245,7 +1254,9 @@
 	{
 		"type": "Feature",
 		"geometry": {
-			
+			"type": "Point",
+			"coordinates": [107.833776,
+			-7.003326]
 		},
 		"properties": {
 			"Desa": "WALUYA",
@@ -1280,8 +1291,8 @@
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
-			"coordinates": [107.501,
-			65.911]
+			"coordinates": [107.836258,
+			-6.98247]
 		},
 		"properties": {
 			"Desa": "CICALENGKA KULON",
@@ -1939,7 +1950,9 @@
 	{
 		"type": "Feature",
 		"geometry": {
-			
+			"type": "Point",
+			"coordinates": [107.686531,
+			-7.031549]
 		},
 		"properties": {
 			"Desa": "MEKARLAKSANA",
@@ -1949,7 +1962,9 @@
 	{
 		"type": "Feature",
 		"geometry": {
-			
+			"type": "Point",
+			"coordinates": [107.686531,
+			-7.031549]
 		},
 		"properties": {
 			"Desa": "BUMIWANGI",
@@ -2057,7 +2072,7 @@
 		"geometry": {
 			"type": "Point",
 			"coordinates": [107.617038,
-			-70.343363]
+			-7.061639]
 		},
 		"properties": {
 			"Desa": "WARGALUYU",
@@ -2248,8 +2263,8 @@
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
-			"coordinates": [4,
-			4]
+			"coordinates": [107.585529,
+			-7.038923]
 		},
 		"properties": {
 			"Desa": "PASIRMULYA",
@@ -2583,7 +2598,9 @@
 	{
 		"type": "Feature",
 		"geometry": {
-			
+			"type": "Point",
+			"coordinates": [107.526705,
+			-7.025026]
 		},
 		"properties": {
 			"Desa": "PARUNGSERAB",
@@ -2593,7 +2610,9 @@
 	{
 		"type": "Feature",
 		"geometry": {
-			
+			"type": "Point",
+			"coordinates": [107.526705,
+			-7.025026]
 		},
 		"properties": {
 			"Desa": "SEKARWANGI",
@@ -2603,7 +2622,9 @@
 	{
 		"type": "Feature",
 		"geometry": {
-			
+			"type": "Point",
+			"coordinates": [107.526705,
+			-7.025026]
 		},
 		"properties": {
 			"Desa": "CINGCIN",
@@ -2613,7 +2634,9 @@
 	{
 		"type": "Feature",
 		"geometry": {
-			
+			"type": "Point",
+			"coordinates": [107.503917,
+			-7.024973]
 		},
 		"properties": {
 			"Desa": "CILAME",
@@ -2623,7 +2646,9 @@
 	{
 		"type": "Feature",
 		"geometry": {
-			
+			"type": "Point",
+			"coordinates": [107.503917,
+			-7.024973]
 		},
 		"properties": {
 			"Desa": "BUNINAGARA",
@@ -2633,7 +2658,9 @@
 	{
 		"type": "Feature",
 		"geometry": {
-			
+			"type": "Point",
+			"coordinates": [107.503917,
+			-7.024973]
 		},
 		"properties": {
 			"Desa": "PADASUKA",
@@ -2643,7 +2670,9 @@
 	{
 		"type": "Feature",
 		"geometry": {
-			
+			"type": "Point",
+			"coordinates": [107.503917,
+			-7.024973]
 		},
 		"properties": {
 			"Desa": "SUKAMULYA",
@@ -2653,7 +2682,9 @@
 	{
 		"type": "Feature",
 		"geometry": {
-			
+			"type": "Point",
+			"coordinates": [107.503917,
+			-7.024973]
 		},
 		"properties": {
 			"Desa": "KUTAWARINGIN",
@@ -2663,7 +2694,9 @@
 	{
 		"type": "Feature",
 		"geometry": {
-			
+			"type": "Point",
+			"coordinates": [107.503917,
+			-7.024973]
 		},
 		"properties": {
 			"Desa": "KOPO",
@@ -2673,7 +2706,9 @@
 	{
 		"type": "Feature",
 		"geometry": {
-			
+			"type": "Point",
+			"coordinates": [107.503917,
+			-7.024973]
 		},
 		"properties": {
 			"Desa": "CIBODAS",
@@ -2683,7 +2718,9 @@
 	{
 		"type": "Feature",
 		"geometry": {
-			
+			"type": "Point",
+			"coordinates": [107.503917,
+			-7.024973]
 		},
 		"properties": {
 			"Desa": "JATISARI",
@@ -2693,7 +2730,9 @@
 	{
 		"type": "Feature",
 		"geometry": {
-			
+			"type": "Point",
+			"coordinates": [107.503917,
+			-7.024973]
 		},
 		"properties": {
 			"Desa": "JELEGONG",
@@ -2703,7 +2742,9 @@
 	{
 		"type": "Feature",
 		"geometry": {
-			
+			"type": "Point",
+			"coordinates": [107.503917,
+			-7.024973]
 		},
 		"properties": {
 			"Desa": "GAJAHMEKAR",
@@ -2713,7 +2754,9 @@
 	{
 		"type": "Feature",
 		"geometry": {
-			
+			"type": "Point",
+			"coordinates": [107.503917,
+			-7.024973]
 		},
 		"properties": {
 			"Desa": "PAMEUNTASAN",
@@ -2833,7 +2876,7 @@
 		"geometry": {
 			"type": "Point",
 			"coordinates": [107.572705,
-			-69.592463]
+			-6.592463]
 		},
 		"properties": {
 			"Desa": "MARGAHAYU TENGAH",
@@ -3196,7 +3239,7 @@
 			-6.850098]
 		},
 		"properties": {
-			"Desa": "CIBURIAL   ",
+			"Desa": "CIBURIAL",
 			"URL": "ciburial.desa.id"
 		}
 	}]
