@@ -391,8 +391,8 @@
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
-			"coordinates": [107.617,
-			7.245]
+			"coordinates": [107.566000,
+			-7.128000]
 		},
 		"properties": {
 			"Desa": "WANASUKA",
@@ -3056,7 +3056,7 @@
 		"geometry": {
 			"type": "Point",
 			"coordinates": [107.445003,
-			6.561134]
+			-6.561134]
 		},
 		"properties": {
 			"Desa": "CILEUNYI KULON",
