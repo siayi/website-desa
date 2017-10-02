@@ -1508,7 +1508,7 @@
 		"geometry": {
 			"type": "Point",
 			"coordinates": [107.797795,
-			-69.656298]
+			-6.656298]
 		},
 		"properties": {
 			"Desa": "LINGGAR",
@@ -1976,7 +1976,7 @@
 		"geometry": {
 			"type": "Point",
 			"coordinates": [107.606239,
-			-70.081892]
+			-7.081892]
 		},
 		"properties": {
 			"Desa": "MALAKASARI",
@@ -2924,7 +2924,7 @@
 		"geometry": {
 			"type": "Point",
 			"coordinates": [107.623009,
-			-69.844421]
+			-6.844421]
 		},
 		"properties": {
 			"Desa": "CITEUREUP",
