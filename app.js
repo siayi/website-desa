@@ -1,4 +1,4 @@
-url = 'http://github.com/siayi/website-desa/sites.json';
+url = 'https://github.com/siayi/website-desa/sites.json';
 $.getJSON(url, function (json) {
     count = new WebsiteCounter(json);
     $("#total").html(count.count);
