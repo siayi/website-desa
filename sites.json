@@ -1,13 +1,1892 @@
-[{
-	"title": "Ciburial",
-	"url": "http://ciburial.desa.id",
-	"kecamatan": "Cimenyan",
-	"kabkot": "Kabupaten Bandung",
-	"provinsi": "Jawa Barat"
-}, {
-	"title": "",
-	"url": "",
-	"kecamatan": "",
-	"kabkot": "",
-	"provinsi": "Jawa Barat"
-}]
+[
+ {
+   "title": "PANUNDAAN",
+   "url": "",
+   "kecamatan": "Ciwidey",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIWIDEY",
+   "url": "http://ciwidey.desa.id",
+   "kecamatan": "Ciwidey",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "PANYOCOKAN",
+   "url": "http://panyocokan.desa.id",
+   "kecamatan": "Ciwidey",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "LEBAKMUNCANG",
+   "url": "http://lebakmuncang.desa.id",
+   "kecamatan": "Ciwidey",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "RAWABOGO",
+   "url": "http://rawabogo.desa.id",
+   "kecamatan": "Ciwidey",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "NENGKELAN",
+   "url": "http://negkelan.desa.id",
+   "kecamatan": "Ciwidey",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SUKAWENING",
+   "url": "http://sukawening.desa.id",
+   "kecamatan": "Ciwidey",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIPELAH",
+   "url": "http://cipelah.desa.id",
+   "kecamatan": "Rancabali",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SUKARESMI",
+   "url": "http://sukaresmi-rancabali.desa.id",
+   "kecamatan": "Rancabali",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "INDRAGIRI",
+   "url": "",
+   "kecamatan": "Rancabali",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "PATENGAN",
+   "url": "http://patengan.desa.id",
+   "kecamatan": "Rancabali",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "ALAMENDAH",
+   "url": "http://alamendah.desa.id",
+   "kecamatan": "Rancabali",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SUGIHMUKTI",
+   "url": "http://sugihmukti.desa.id",
+   "kecamatan": "Pasirjambu",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MARGAMULYA",
+   "url": "http://margamulya.desa.id",
+   "kecamatan": "Pasirjambu",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "TENJOLAYA",
+   "url": "http://tenjolaya-pasirjambu.desa.id",
+   "kecamatan": "Pasirjambu",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CISONDARI",
+   "url": "http://cisondari.desa.id",
+   "kecamatan": "Pasirjambu",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MEKARSARI",
+   "url": "http://mekarsari.desa.id",
+   "kecamatan": "Pasirjambu",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIBODAS",
+   "url": "http://cibodas.desa.id",
+   "kecamatan": "Pasirjambu",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CUKANGGENTENG",
+   "url": "http://cukanggenteng.desa.id",
+   "kecamatan": "Pasirjambu",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "PASIRJAMBU",
+   "url": "http://pasirjambu.desa.id",
+   "kecamatan": "Pasirjambu",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MEKARMAJU",
+   "url": "http://mekarmaju.desa.id",
+   "kecamatan": "Pasirjambu",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIKONENG",
+   "url": "http://cikoneng.desa.id",
+   "kecamatan": "Pasirjambu",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIKALONG",
+   "url": "http://cikalong.desa.id",
+   "kecamatan": "Cimaung",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MEKARSARI ",
+   "url": "http://mekarsari-cimaung.desa.id",
+   "kecamatan": "Cimaung",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIPINANG",
+   "url": "http://cipinang.desa.id",
+   "kecamatan": "Cimaung",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIMAUNG",
+   "url": "http://cimaung.desa.id",
+   "kecamatan": "Cimaung",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CAMPAKAMULYA",
+   "url": "http://campakamulya.desa.id",
+   "kecamatan": "Cimaung",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "PASIRHUNI",
+   "url": "http://pasirhuni.desa.id",
+   "kecamatan": "Cimaung",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "JAGABAYA",
+   "url": "http://jagabaya.desa.id",
+   "kecamatan": "Cimaung",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MALASARI ",
+   "url": "http://malasari-cimaung.desa.id",
+   "kecamatan": "Cimaung",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SUKAMAJU",
+   "url": "http://sukamaju-bandung.desa.id",
+   "kecamatan": "Cimaung",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "WARJABAKTI",
+   "url": "http://warjabakti.desa.id",
+   "kecamatan": "Cimaung",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "WANASUKA",
+   "url": "",
+   "kecamatan": "Pangalengan",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "BANJARSARI",
+   "url": "",
+   "kecamatan": "Pangalengan",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MARGALUYU",
+   "url": "",
+   "kecamatan": "Pangalengan",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SUKALUYU",
+   "url": "",
+   "kecamatan": "Pangalengan",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "WARNASARI",
+   "url": "http://warnasari.desa.id",
+   "kecamatan": "Pangalengan",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "PULOSARI",
+   "url": "http://pulosari.desa.id",
+   "kecamatan": "Pangalengan",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MARGAMEKAR",
+   "url": "",
+   "kecamatan": "Pangalengan",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SUKAMANAH",
+   "url": "",
+   "kecamatan": "Pangalengan",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MARGAMUKTI",
+   "url": "http://margamukti.desa.id",
+   "kecamatan": "Pangalengan",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "PANGALENGAN",
+   "url": "http://pangalengan.desa.id",
+   "kecamatan": "Pangalengan",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MARGAMULYA",
+   "url": "",
+   "kecamatan": "Pangalengan",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "TRIBAKTIMULYA",
+   "url": "",
+   "kecamatan": "Pangalengan",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "LAMAJANG",
+   "url": "",
+   "kecamatan": "Pangalengan",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "NEGLAWANGI",
+   "url": "http://neglawangi.desa.id",
+   "kecamatan": "Kertasari",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SANTOSA",
+   "url": "http://santosa.desa.id",
+   "kecamatan": "Kertasari",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "TARUMAJAYA",
+   "url": "http://tarumajaya.desa.id",
+   "kecamatan": "Kertasari",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIKEMBANG",
+   "url": "http://cikembang.desa.id",
+   "kecamatan": "Kertasari",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIBEUREUM",
+   "url": "http://cibeureum.desa.id",
+   "kecamatan": "Kertasari",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIHAWUK",
+   "url": "http://cihawuk.desa.id",
+   "kecamatan": "Kertasari",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SUKAPURA",
+   "url": "http://sukapura-kertasari.desa.id",
+   "kecamatan": "Kertasari",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "Resmi Tingal",
+   "url": "http://resmi tingal.desa.id",
+   "kecamatan": "Kertasari",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIKITU",
+   "url": "http://cikitu.desa.id",
+   "kecamatan": "Pacet",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "GIRIMULYA",
+   "url": "http://girimulya.desa.id",
+   "kecamatan": "Pacet",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SUKARAME",
+   "url": "http://sukarame-pacet.desa.id",
+   "kecamatan": "Pacet",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIKAWAO",
+   "url": "http://cikawao.desa.id",
+   "kecamatan": "Pacet",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "NAGRAK",
+   "url": "http://nagrak.desa.id",
+   "kecamatan": "Pacet",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MANDALAHAJI",
+   "url": "http://mandalahaji.desa.id",
+   "kecamatan": "Pacet",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MARUYUNG",
+   "url": "http://maruyung.desa.id",
+   "kecamatan": "Pacet",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "PANGAUBAN",
+   "url": "http://pangauban.desa.id",
+   "kecamatan": "Pacet",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CINANGGELA",
+   "url": "http://cinanggela.desa.id",
+   "kecamatan": "Pacet",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MEKARJAYA",
+   "url": "http://mekarjaya.desa.id",
+   "kecamatan": "Pacet",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MEKARSARI",
+   "url": "http://mekarsari-pacet.desa.id",
+   "kecamatan": "Pacet",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIPEUJEUH",
+   "url": "http://cipeujeuh.desa.id",
+   "kecamatan": "Pacet",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "TANJUNGWANGI",
+   "url": "http://tanjungwangi-pacet.desa.id",
+   "kecamatan": "Pacet",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "NEGLASARI",
+   "url": "http://neglasari.desa.id",
+   "kecamatan": "Ibun",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "DUKUH",
+   "url": "http://dukuh.desa.id",
+   "kecamatan": "Ibun",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "IBUN",
+   "url": "http://ibun.desa.id",
+   "kecamatan": "Ibun",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "LAKSANA",
+   "url": "http://laksana.desa.id",
+   "kecamatan": "Ibun",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MEKARWANGI",
+   "url": "http://mekarwangi-ibun.desa.id",
+   "kecamatan": "Ibun",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SUDI",
+   "url": "http://sudi.desa.id",
+   "kecamatan": "Ibun",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIBEET",
+   "url": "http://cibeet.desa.id",
+   "kecamatan": "Ibun",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "PANGGUH",
+   "url": "http://pangguh.desa.id",
+   "kecamatan": "Ibun",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "KARYALAKSANA",
+   "url": "http://karyalaksana.desa.id",
+   "kecamatan": "Ibun",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "LAMPEGAN",
+   "url": "http://lampegan-ibun.desa.id",
+   "kecamatan": "Ibun",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "TALUN",
+   "url": "http://talun.desa.id",
+   "kecamatan": "Ibun",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "TANGGULUN",
+   "url": "http://tanggulun.desa.id",
+   "kecamatan": "Ibun",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "LOA",
+   "url": "http://loa.desa.id",
+   "kecamatan": "Paseh",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "DRAWATI",
+   "url": "http://drawati.desa.id",
+   "kecamatan": "Paseh",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIPAKU",
+   "url": "http://cipaku.desa.id",
+   "kecamatan": "Paseh",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SINDANGSARI",
+   "url": "http://sindangsari.desa.id",
+   "kecamatan": "Paseh",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SUKAMANTRI",
+   "url": "http://sukamantri.desa.id",
+   "kecamatan": "Paseh",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SUKAMANAH",
+   "url": "http://sukamanah-paseh.desa.id",
+   "kecamatan": "Paseh",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MEKARPAWITAN",
+   "url": "http://mekarpawitan.desa.id",
+   "kecamatan": "Paseh",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIJAGRA",
+   "url": "http://cijagra.desa.id",
+   "kecamatan": "Paseh",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "TANGSIMEKAR",
+   "url": "http://tangsimekar.desa.id",
+   "kecamatan": "Paseh",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIPEDES",
+   "url": "http://cipedes.desa.id",
+   "kecamatan": "Paseh",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "KARANGTUNGGAL",
+   "url": "http://karangtunggal.desa.id",
+   "kecamatan": "Paseh",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIGENTUR",
+   "url": "http://cigentur.desa.id",
+   "kecamatan": "Paseh",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SRIRAHAYU",
+   "url": "http://srirahayu.desa.id",
+   "kecamatan": "Cikancung",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CILULUK",
+   "url": "http://ciluluk.desa.id",
+   "kecamatan": "Cikancung",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MEKARLAKSANA",
+   "url": "http://mekarlaksana-cikancung.desa.id",
+   "kecamatan": "Cikancung",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIHANYIR",
+   "url": "http://cihanyir.desa.id",
+   "kecamatan": "Cikancung",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIKANCUNG",
+   "url": "http://cikancung.desa.id",
+   "kecamatan": "Cikancung",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MANDALASARI",
+   "url": "http://mandalasari.desa.id",
+   "kecamatan": "Cikancung",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "HEGARMANAH",
+   "url": "http://hegarmanah-cikancung.desa.id",
+   "kecamatan": "Cikancung",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIKASUNGKA",
+   "url": "http://cikasungka.desa.id",
+   "kecamatan": "Cikancung",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "TANJUNGLAYA",
+   "url": "http://tanjunglaya.desa.id",
+   "kecamatan": "Cikancung",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "NAGROG",
+   "url": "http://nagrog.desa.id",
+   "kecamatan": "Cicalengka",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "NARAWITA",
+   "url": "http://narawita.desa.id",
+   "kecamatan": "Cicalengka",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MARGAASIH",
+   "url": "http://margaasih-cicalengka.desa.id",
+   "kecamatan": "Cicalengka",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CICALENGKA WETAN",
+   "url": "http://cicalengkawetan.desa.id",
+   "kecamatan": "Cicalengka",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIKUYA",
+   "url": "http://cikuya.desa.id",
+   "kecamatan": "Cicalengka",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "WALUYA",
+   "url": "http://waluya.desa.id",
+   "kecamatan": "Cicalengka",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "PANENJOAN",
+   "url": "http://panenjoan.desa.id",
+   "kecamatan": "Cicalengka",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "TENJOLAYA",
+   "url": "http://tenjolaya-cicalengka.desa.id",
+   "kecamatan": "Cicalengka",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CICALENGKA KULON",
+   "url": "http://cicalengkakulon.desa.id",
+   "kecamatan": "Cicalengka",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "BABAKANPEUTEUY",
+   "url": "http://babakanpeuteuy.desa.id",
+   "kecamatan": "Cicalengka",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "DAMPIT",
+   "url": "http://dampit.desa.id",
+   "kecamatan": "Cicalengka",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "TANJUNGWANGI",
+   "url": "http://tanjungwangi-cicalengka.desa.id",
+   "kecamatan": "Cicalengka",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MANDALAWANGI",
+   "url": "http://mandalawangi-nagreg.desa.id",
+   "kecamatan": "Nagreg",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "BOJONG",
+   "url": "http://bojong-nagreg.desa.id",
+   "kecamatan": "Nagreg",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIHERANG",
+   "url": "http://ciherang-nagreg.desa.id",
+   "kecamatan": "Nagreg",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIARO",
+   "url": "http://ciaro.desa.id",
+   "kecamatan": "Nagreg",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "NAGREG",
+   "url": "http://nagreg.desa.id",
+   "kecamatan": "Nagreg",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CITAMAN",
+   "url": "http://citaman.desa.id",
+   "kecamatan": "Nagreg",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "GANJAR SABAR",
+   "url": "http://ganjarsabar.desa.id",
+   "kecamatan": "Nagreg",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "KENDAN",
+   "url": "http://nagregkendan.desa.id",
+   "kecamatan": "Nagreg",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SUKAMANAH",
+   "url": "http://sukamanah-rancaekek.desa.id",
+   "kecamatan": "Rancaekek",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "TEGALSUMEDANG",
+   "url": "http://tegalsumedang.desa.id",
+   "kecamatan": "Rancaekek",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "RANCAEKEK KULON",
+   "url": "http://rancaekekkulon.desa.id",
+   "kecamatan": "Rancaekek",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "RANCAEKEK WETAN",
+   "url": "http://rancaekekwetan.desa.id",
+   "kecamatan": "Rancaekek",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "BOJONGLOA",
+   "url": "http://bojongload.desa.id",
+   "kecamatan": "Rancaekek",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "JELEGONG",
+   "url": "http://bojongsalam.desa.id",
+   "kecamatan": "Rancaekek",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "LINGGAR",
+   "url": "http://linggar.desa.id",
+   "kecamatan": "Rancaekek",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SUKAMULYA",
+   "url": "http://sukamulya-rancaekek.desa.id",
+   "kecamatan": "Rancaekek",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "HAURPUGUR",
+   "url": "http://haurpugur.desa.id",
+   "kecamatan": "Rancaekek",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SANGIANG",
+   "url": "http://sangiang.desa.id",
+   "kecamatan": "Rancaekek",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "BOJONGSALAM",
+   "url": "http://bojongsalam.desa.id",
+   "kecamatan": "Rancaekek",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CANGKUANG",
+   "url": "http://cangkuang.desa.id",
+   "kecamatan": "Rancaekek",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "NANJUNGMEKAR",
+   "url": "http://nanjungmekar.desa.id",
+   "kecamatan": "Rancaekek",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "NEGLASARI",
+   "url": "http://neglasari-majalaya.desa.id",
+   "kecamatan": "Majalaya",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "WANGISAGARA",
+   "url": "http://wangisagara.desa.id",
+   "kecamatan": "Majalaya",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "PADAMULYA",
+   "url": "",
+   "kecamatan": "Majalaya",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SUKAMUKTI",
+   "url": "http://sukamukti.desa.id",
+   "kecamatan": "Majalaya",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "PADAULUN",
+   "url": "http://padaulun.desa.id",
+   "kecamatan": "Majalaya",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "BIRU",
+   "url": "http://biru.desa.id",
+   "kecamatan": "Majalaya",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SUKAMAJU",
+   "url": "",
+   "kecamatan": "Majalaya",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MAJASETRA",
+   "url": "http://majasetra.desa.id",
+   "kecamatan": "Majalaya",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MAJALAYA",
+   "url": "",
+   "kecamatan": "Majalaya",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MAJAKERTA",
+   "url": "",
+   "kecamatan": "Majalaya",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "BOJONG",
+   "url": "",
+   "kecamatan": "Majalaya",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "PANYADAP",
+   "url": "http://panyadap.desa.id",
+   "kecamatan": "Solokan Jeruk",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "PADAMUKTI",
+   "url": "http://padamukti.desa.id",
+   "kecamatan": "Solokan Jeruk",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIBODAS",
+   "url": "http://cibodas-solokanjeruk.desa.id",
+   "kecamatan": "Solokan Jeruk",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "LANGENSARI",
+   "url": "http://langensari.desa.id",
+   "kecamatan": "Solokan Jeruk",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SOLOKANJERUK",
+   "url": "http://solokanjeruk.desa.id",
+   "kecamatan": "Solokan Jeruk",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "RANCAKASUMBA",
+   "url": "http://rancakasumba.desa.id",
+   "kecamatan": "Solokan Jeruk",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "BOJONGEMAS",
+   "url": "http://bojongemas.desa.id",
+   "kecamatan": "Solokan Jeruk",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "BABAKAN",
+   "url": "",
+   "kecamatan": "Ciparay",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIKONENG",
+   "url": "",
+   "kecamatan": "Ciparay",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SAGARACIPTA",
+   "url": "http://sagaracipta.desa.id",
+   "kecamatan": "Ciparay",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "PAKUTANDANG",
+   "url": "http://pakutandang.desa.id",
+   "kecamatan": "Ciparay",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MANGGUNGHARJA",
+   "url": "http://manggungharja.desa.id",
+   "kecamatan": "Ciparay",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MEKARSARI",
+   "url": "http://mekarsari-ciparay.desa.id",
+   "kecamatan": "Ciparay",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIPARAY",
+   "url": "",
+   "kecamatan": "Ciparay",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SUMBERSARI",
+   "url": "",
+   "kecamatan": "Ciparay",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SARIMAHI",
+   "url": "",
+   "kecamatan": "Ciparay",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SERANGMEKAR",
+   "url": "",
+   "kecamatan": "Ciparay",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "GUNUNGLEUTIK",
+   "url": "",
+   "kecamatan": "Ciparay",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIHEULANG",
+   "url": "http://ciheulang.desa.id",
+   "kecamatan": "Ciparay",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MEKARLAKSANA",
+   "url": "",
+   "kecamatan": "Ciparay",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "BUMIWANGI",
+   "url": "http://bumiwangi.desa.id",
+   "kecamatan": "Ciparay",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MALAKASARI",
+   "url": "http://malakasari.desa.id",
+   "kecamatan": "Baleendah",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "BOJONGMALAKA",
+   "url": "http://bojongmalaka.desa.id",
+   "kecamatan": "Baleendah",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "RANCAMANYAR",
+   "url": "http://rancamanyar.desa.id",
+   "kecamatan": "Baleendah",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "BATUKARUT",
+   "url": "http://batukarut.desa.id",
+   "kecamatan": "Arjasari",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MANGUNJAYA",
+   "url": "http://mangunjaya.desa.id",
+   "kecamatan": "Arjasari",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MEKARJAYA",
+   "url": "http://mekarjaya-arjasari.desa.id",
+   "kecamatan": "Arjasari",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "BAROS",
+   "url": "",
+   "kecamatan": "Arjasari",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "LEBAKWANGI",
+   "url": "http://lebakwangi.desa.id",
+   "kecamatan": "Arjasari",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "WARGALUYU",
+   "url": "",
+   "kecamatan": "Arjasari",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "ARJASARI",
+   "url": "",
+   "kecamatan": "Arjasari",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "PINGGIRSARI",
+   "url": "http://pinggirsari.desa.id",
+   "kecamatan": "Arjasari",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "PATROLSARI",
+   "url": "http://patrolsari.desa.id",
+   "kecamatan": "Arjasari",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "RANCAKOLE",
+   "url": "http://rancakole-arjasari.desa.id",
+   "kecamatan": "Arjasari",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "ANCOLMEKAR",
+   "url": "",
+   "kecamatan": "Arjasari",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MEKARJAYA",
+   "url": "http://mekarjaya-banjaran.desa.id",
+   "kecamatan": "Banjaran",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "BANJARAN WETAN",
+   "url": "http://banjaranwetan.desa.id",
+   "kecamatan": "Banjaran",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIAPUS",
+   "url": "http://ciapus.desa.id",
+   "kecamatan": "Banjaran",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SINDANGPANON",
+   "url": "http://sindangpanon.desa.id",
+   "kecamatan": "Banjaran",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "NEGLASARI",
+   "url": "http://neglasari.desa.id",
+   "kecamatan": "Banjaran",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MARGAHURIP",
+   "url": "http://margahurip.desa.id",
+   "kecamatan": "Banjaran",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "KIANGROKE",
+   "url": "http://kiangroke.desa.id",
+   "kecamatan": "Banjaran",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "KAMASAN",
+   "url": "http://kamasan-banjaran.desa.id",
+   "kecamatan": "Banjaran",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "BANJARAN",
+   "url": "http://banjaran.desa.id",
+   "kecamatan": "Banjaran",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "TARAJUSARI",
+   "url": "http://tarajusari.desa.id",
+   "kecamatan": "Banjaran",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "PASIRMULYA",
+   "url": "http://pasirmulya.desa.id",
+   "kecamatan": "Banjaran",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "JATISARI",
+   "url": "",
+   "kecamatan": "Cangkuang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "NAGRAK",
+   "url": "",
+   "kecamatan": "Cangkuang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "BANDASARI",
+   "url": "",
+   "kecamatan": "Cangkuang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "PANANJUNG",
+   "url": "http://pananjung.desa.id",
+   "kecamatan": "Cangkuang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CILUNCAT",
+   "url": "http://ciluncat.desa.id",
+   "kecamatan": "Cangkuang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CANGKUANG",
+   "url": "http://cangkuang.desa.id",
+   "kecamatan": "Cangkuang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "TANJUNGSARI",
+   "url": "",
+   "kecamatan": "Cangkuang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "BOJONGMANGGU",
+   "url": "http://bojongmanggu.desa.id",
+   "kecamatan": "Pameungpeuk",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "LANGONSARI",
+   "url": "http://langonsari.desa.id",
+   "kecamatan": "Pameungpeuk",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SUKASARI",
+   "url": "http://sukasari.desa.id",
+   "kecamatan": "Pameungpeuk",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "RANCAMULYA",
+   "url": "http://rancamulya.desa.id",
+   "kecamatan": "Pameungpeuk",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "RANCATUNGKU",
+   "url": "http://rancatungku.desa.id",
+   "kecamatan": "Pameungpeuk",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "BOJONGKUNCI",
+   "url": "http://bojongkunci.desa.id",
+   "kecamatan": "Pameungpeuk",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "GANDASARI",
+   "url": "",
+   "kecamatan": "Katapang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "KATAPANG",
+   "url": "http://katapang.desa.id",
+   "kecamatan": "Katapang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CILAMPENI",
+   "url": "",
+   "kecamatan": "Katapang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "PANGAUBAN",
+   "url": "",
+   "kecamatan": "Katapang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "BANYUSARI",
+   "url": "",
+   "kecamatan": "Katapang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SANGKANHURIP",
+   "url": "http://sangkanhurip.desa.id",
+   "kecamatan": "Katapang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SUKAMUKTI",
+   "url": "",
+   "kecamatan": "Katapang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SADU",
+   "url": "http://sadu.desa.id",
+   "kecamatan": "Soreang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SUKAJADI",
+   "url": "http://sukajadi.desa.id",
+   "kecamatan": "Soreang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SUKANAGARA",
+   "url": "http://sukanagara.desa.id",
+   "kecamatan": "Soreang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "PANYIRAPAN",
+   "url": "http://panyirapan.desa.id",
+   "kecamatan": "Soreang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "KARAMATMULYA",
+   "url": "http://karamatmulya.desa.id",
+   "kecamatan": "Soreang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SOREANG",
+   "url": "http://soreang.desa.id",
+   "kecamatan": "Soreang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "PAMEKARAN",
+   "url": "http://pamekaran.desa.id",
+   "kecamatan": "Soreang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "PARUNGSERAB",
+   "url": "http://prungserab.desa.id",
+   "kecamatan": "Soreang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SEKARWANGI",
+   "url": "http://sekarwangi.desa.id",
+   "kecamatan": "Soreang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CINGCIN",
+   "url": "http://cingcin.desa.id",
+   "kecamatan": "Soreang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CILAME",
+   "url": "http://cilame.desa.id",
+   "kecamatan": "Kutawaringin",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "BUNINAGARA",
+   "url": "http://buninagara.desa.id",
+   "kecamatan": "Kutawaringin",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "PADASUKA",
+   "url": "http://padasuka.desa.id",
+   "kecamatan": "Kutawaringin",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SUKAMULYA",
+   "url": "http://sukamulya.desa.id",
+   "kecamatan": "Kutawaringin",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "KUTAWARINGIN",
+   "url": "http://kutawaringin.desa.id",
+   "kecamatan": "Kutawaringin",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "KOPO",
+   "url": "http://kopo.desa.id",
+   "kecamatan": "Kutawaringin",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIBODAS",
+   "url": "http://cibodas-kutawaringin.desa.id",
+   "kecamatan": "Kutawaringin",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "JATISARI",
+   "url": "http://jatisari-kutawaringin.desa.id",
+   "kecamatan": "Kutawaringin",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "JELEGONG",
+   "url": "http://jelegong-kutawaringin.desa.id",
+   "kecamatan": "Kutawaringin",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "GAJAHMEKAR",
+   "url": "http://gajahmekar.desa.id",
+   "kecamatan": "Kutawaringin",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "PAMEUNTASAN",
+   "url": "http://pameuntasan.desa.id",
+   "kecamatan": "Kutawaringin",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "NANJUNG",
+   "url": "http://nanjung.desa.id",
+   "kecamatan": "Margaasih",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MEKAR RAHAYU",
+   "url": "http://mekarrahayu.desa.id",
+   "kecamatan": "Margaasih",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "RAHAYU",
+   "url": "http://rahayu.desa.id",
+   "kecamatan": "Margaasih",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIGONDEWAH HILIR",
+   "url": "http://cigondewahhilir.desa.id",
+   "kecamatan": "Margaasih",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MARGAASIH",
+   "url": "",
+   "kecamatan": "Margaasih",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "LAGADAR",
+   "url": "",
+   "kecamatan": "Margaasih",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SUKAMENAK",
+   "url": "http://sukamenak.desa.id",
+   "kecamatan": "Margahayu",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SAYATI",
+   "url": "http://sayati.desa.id",
+   "kecamatan": "Margahayu",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MARGAHAYU SELATAN",
+   "url": "http://margahayuselatan.desa.id",
+   "kecamatan": "Margahayu",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MARGAHAYU TENGAH",
+   "url": "http://margahayutengah.desa.id",
+   "kecamatan": "Margahayu",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CANGKUANG KULON",
+   "url": "",
+   "kecamatan": "Dayeuhkolot",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CANGKUANG WETAN",
+   "url": "",
+   "kecamatan": "Dayeuhkolot",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "DAYEUHKOLOT",
+   "url": "",
+   "kecamatan": "Dayeuhkolot",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CITEUREUP",
+   "url": "http://citeureup.desa.id",
+   "kecamatan": "Dayeuhkolot",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SUKAPURA",
+   "url": "http://sukapura.desa.id",
+   "kecamatan": "Dayeuhkolot",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "BOJONGSARI",
+   "url": "http://bojongsari.desa.id",
+   "kecamatan": "Bojong Soang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "BOJONGSOANG",
+   "url": "http://bojongsoang.desa.id",
+   "kecamatan": "Bojong Soang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "LENGKONG",
+   "url": "http://lengkong.desa.id",
+   "kecamatan": "Bojong Soang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIPAGALO",
+   "url": "http://cipagalo.desa.id",
+   "kecamatan": "Bojong Soang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "BUAHBATU",
+   "url": "http://buahbatu.desa.id",
+   "kecamatan": "Bojong Soang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "TEGALLUAR",
+   "url": "",
+   "kecamatan": "Bojong Soang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIBIRU HILIR",
+   "url": "http://cibiruhilir.desa.id",
+   "kecamatan": "Cileunyi",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CINUNUK",
+   "url": "http://cinunuk.desa.id",
+   "kecamatan": "Cileunyi",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIMEKAR",
+   "url": "http://cimekar.desa.id",
+   "kecamatan": "Cileunyi",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CILEUNYI KULON",
+   "url": "http://cileunyikulon.desa.id",
+   "kecamatan": "Cileunyi",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CILEUNYI WETAN",
+   "url": "http://cileunyiwetan.desa.id",
+   "kecamatan": "Cileunyi",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIBIRU WETAN",
+   "url": "http://cibiruwetan.desa.id",
+   "kecamatan": "Cileunyi",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "GIRIMEKAR",
+   "url": "http://girimekar.desa.id",
+   "kecamatan": "Cilengkrang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "JATIENDAH",
+   "url": "http://jatiendah.desa.id",
+   "kecamatan": "Cilengkrang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MELATIWANGI",
+   "url": "http://melatiwangi.desa.id",
+   "kecamatan": "Cilengkrang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIPANJALU",
+   "url": "http://cipanjalu.desa.id",
+   "kecamatan": "Cilengkrang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIPOREAT",
+   "url": "http://ciporeat.desa.id",
+   "kecamatan": "Cilengkrang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CILENGKRANG",
+   "url": "http://cilengkrang.desa.id",
+   "kecamatan": "Cilengkrang",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MANDALAMEKAR",
+   "url": "http://mandalamekar-cimenyan.desa.id",
+   "kecamatan": "Cimenyan",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIKADUT",
+   "url": "http://cikadut.desa.id",
+   "kecamatan": "Cimenyan",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "SINDANGLAYA",
+   "url": "http://sindanglaya.desa.id",
+   "kecamatan": "Cimenyan",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MEKARMANIK",
+   "url": "http://mekarmanik.desa.id",
+   "kecamatan": "Cimenyan",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIMENYAN",
+   "url": "http://cimenyan.desa.id",
+   "kecamatan": "Cimenyan",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "MEKARSALUYU",
+   "url": "http://mekarsaluyu.desa.id",
+   "kecamatan": "Cimenyan",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ },
+ {
+   "title": "CIBURIAL",
+   "url": "http://ciburial.desa.id",
+   "kecamatan": "Cimenyan",
+   "kabkot": "Bandung",
+   "provinsi": "Jawa Barat"
+ }
+]
