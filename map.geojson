@@ -1,3246 +1,2975 @@
 {
-	"type": "FeatureCollection",
-	"features": [
-		{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [
-				107.440124,
-				-7.120412
-			]
-		},
-		"properties": {
-			"Desa": "PANUNDAAN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.45631,
-			-7.105863]
-		},
-		"properties": {
-			"Desa": "CIWIDEY",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.457924,
-			-7.086463]
-		},
-		"properties": {
-			"Desa": "PANYOCOKAN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.430053,
-			-7.101418]
-		},
-		"properties": {
-			"Desa": "LEBAKMUNCANG",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.442234,
-			-7.059138]
-		},
-		"properties": {
-			"Desa": "RAWABOGO",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.46471,
-			-7.063518]
-		},
-		"properties": {
-			"Desa": "NENGKELAN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.475964,
-			-7.069168]
-		},
-		"properties": {
-			"Desa": "SUKAWENING",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.286617,
-			-7.162106]
-		},
-		"properties": {
-			"Desa": "CIPELAH",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.341209,
-			-7.162685]
-		},
-		"properties": {
-			"Desa": "SUKARESMI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.353649,
-			-7.114093]
-		},
-		"properties": {
-			"Desa": "INDRAGIRI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.389171,
-			-7.148774]
-		},
-		"properties": {
-			"Desa": "PATENGAN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.424011,
-			-7.145632]
-		},
-		"properties": {
-			"Desa": "ALAMENDAH",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.407795,
-			-7.19077]
-		},
-		"properties": {
-			"Desa": "SUGIHMUKTI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.460441,
-			-7.133406]
-		},
-		"properties": {
-			"Desa": "MARGAMULYA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.481033,
-			-7.17709]
-		},
-		"properties": {
-			"Desa": "TENJOLAYA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.480286,
-			-7.093101]
-		},
-		"properties": {
-			"Desa": "CISONDARI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.505489,
-			-7.141027]
-		},
-		"properties": {
-			"Desa": "MEKARSARI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.511673,
-			-7.102233]
-		},
-		"properties": {
-			"Desa": "CIBODAS",
-			"URL": "cibodas.desa.id"
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.502395,
-			-7.074721]
-		},
-		"properties": {
-			"Desa": "CUKANGGENTENG",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.48674,
-			-7.088757]
-		},
-		"properties": {
-			"Desa": "PASIRJAMBU",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.476154,
-			-7.091674]
-		},
-		"properties": {
-			"Desa": "MEKARMAJU",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.482475,
-			-7.064575]
-		},
-		"properties": {
-			"Desa": "CIKONENG",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.560558,
-			-7.115803]
-		},
-		"properties": {
-			"Desa": "CIKALONG",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.610531,
-			-7.125114]
-		},
-		"properties": {
-			"Desa": "MEKARSARI ",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.558487,
-			-7.105562]
-		},
-		"properties": {
-			"Desa": "CIPINANG",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.572639,
-			-7.101701]
-		},
-		"properties": {
-			"Desa": "CIMAUNG",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.594334,
-			-7.105829]
-		},
-		"properties": {
-			"Desa": "CAMPAKAMULYA",
-			"URL": "desacampakamulya.com"
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.575977,
-			-7.085813]
-		},
-		"properties": {
-			"Desa": "PASIRHUNI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.562679,
-			-7.072114]
-		},
-		"properties": {
-			"Desa": "JAGABAYA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.540538,
-			-7.083242]
-		},
-		"properties": {
-			"Desa": "MALASARI ",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.531974,
-			-7.109825]
-		},
-		"properties": {
-			"Desa": "SUKAMAJU",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-		"type": "Point",
-			"coordinates": [107.566000,
-			-7.128000]	
-		},
-		"properties": {
-			"Desa": "WARJABAKTI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.566000,
-			-7.128000]
-		},
-		"properties": {
-			"Desa": "WANASUKA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.59571,
-			-7.236889]
-		},
-		"properties": {
-			"Desa": "BANJARSARI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.559986,
-			-7.224268]
-		},
-		"properties": {
-			"Desa": "MARGALUYU",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.520336,
-			-7.219053]
-		},
-		"properties": {
-			"Desa": "SUKALUYU",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.523163,
-			-7.17949]
-		},
-		"properties": {
-			"Desa": "WARNASARI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.5396,
-			-7.168702]
-		},
-		"properties": {
-			"Desa": "PULOSARI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.574928,
-			-7.188449]
-		},
-		"properties": {
-			"Desa": "MARGAMEKAR",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.594344,
-			-7.190618]
-		},
-		"properties": {
-			"Desa": "SUKAMANAH",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.610069,
-			-7.182963]
-		},
-		"properties": {
-			"Desa": "MARGAMUKTI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.610109,
-			-7.163416]
-		},
-		"properties": {
-			"Desa": "PANGALENGAN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.585212,
-			-7.158166]
-		},
-		"properties": {
-			"Desa": "MARGAMULYA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.59325,
-			-7.141364]
-		},
-		"properties": {
-			"Desa": "TRIBAKTIMULYA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.542179,
-			-7.123632]
-		},
-		"properties": {
-			"Desa": "LAMAJANG",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.69474,
-			-7.275229]
-		},
-		"properties": {
-			"Desa": "NEGLAWANGI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.635406,
-			-7.270023]
-		},
-		"properties": {
-			"Desa": "SANTOSA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.66674,
-			-7.229394]
-		},
-		"properties": {
-			"Desa": "TARUMAJAYA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.688709,
-			-7.211685]
-		},
-		"properties": {
-			"Desa": "CIKEMBANG",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.657497,
-			-7.18952]
-		},
-		"properties": {
-			"Desa": "CIBEUREUM",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.70504,
-			-7.199879]
-		},
-		"properties": {
-			"Desa": "CIHAWUK",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.683044,
-			-7.164603]
-		},
-		"properties": {
-			"Desa": "SUKAPURA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.683044,
-			-7.164603]
-		},
-		"properties": {
-			"Desa": "Resmi Tingal",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.692182,
-			-7.142642]
-		},
-		"properties": {
-			"Desa": "CIKITU",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.672092,
-			-7.156669]
-		},
-		"properties": {
-			"Desa": "GIRIMULYA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.716144,
-			-7.161855]
-		},
-		"properties": {
-			"Desa": "SUKARAME",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.730129,
-			-7.115849]
-		},
-		"properties": {
-			"Desa": "CIKAWAO",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.720043,
-			-7.11621]
-		},
-		"properties": {
-			"Desa": "NAGRAK",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.707162,
-			-7.11854]
-		},
-		"properties": {
-			"Desa": "MANDALAHAJI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.696606,
-			-7.106769]
-		},
-		"properties": {
-			"Desa": "MARUYUNG",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.664165,
-			-7.139962]
-		},
-		"properties": {
-			"Desa": "PANGAUBAN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.658348,
-			-7.131857]
-		},
-		"properties": {
-			"Desa": "CINANGGELA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.663811,
-			-7.117605]
-		},
-		"properties": {
-			"Desa": "MEKARJAYA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.698973,
-			-7.093209]
-		},
-		"properties": {
-			"Desa": "MEKARSARI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.704791,
-			-7.094505]
-		},
-		"properties": {
-			"Desa": "CIPEUJEUH",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.714138,
-			-7.091851]
-		},
-		"properties": {
-			"Desa": "TANJUNGWANGI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.741415,
-			-7.141203]
-		},
-		"properties": {
-			"Desa": "NEGLASARI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.749969,
-			-7.135469]
-		},
-		"properties": {
-			"Desa": "DUKUH",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.760338,
-			-7.129879]
-		},
-		"properties": {
-			"Desa": "IBUN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.779896,
-			-7.132247]
-		},
-		"properties": {
-			"Desa": "LAKSANA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.772392,
-			-7.106945]
-		},
-		"properties": {
-			"Desa": "MEKARWANGI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.771091,
-			-7.08656]
-		},
-		"properties": {
-			"Desa": "SUDI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.754051,
-			-7.095347]
-		},
-		"properties": {
-			"Desa": "CIBEET",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.740055,
-			-7.10438]
-		},
-		"properties": {
-			"Desa": "PANGGUH",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.744541,
-			-7.088761]
-		},
-		"properties": {
-			"Desa": "KARYALAKSANA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.748514,
-			-7.08058]
-		},
-		"properties": {
-			"Desa": "LAMPEGAN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.762516,
-			-7.075882]
-		},
-		"properties": {
-			"Desa": "TALUN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.756871,
-			-7.069692]
-		},
-		"properties": {
-			"Desa": "TANGGULUN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.792633,
-			-7.107722]
-		},
-		"properties": {
-			"Desa": "LOA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.804829,
-			-7.081416]
-		},
-		"properties": {
-			"Desa": "DRAWATI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.781448,
-			-7.064669]
-		},
-		"properties": {
-			"Desa": "CIPAKU",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.777471,
-			-7.072394]
-		},
-		"properties": {
-			"Desa": "SINDANGSARI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.768207,
-			-7.061034]
-		},
-		"properties": {
-			"Desa": "SUKAMANTRI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.765338,
-			-7.048601]
-		},
-		"properties": {
-			"Desa": "SUKAMANAH",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.775505,
-			-7.03924]
-		},
-		"properties": {
-			"Desa": "MEKARPAWITAN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.775896,
-			-7.035685]
-		},
-		"properties": {
-			"Desa": "CIJAGRA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.776977,
-			-7.029091]
-		},
-		"properties": {
-			"Desa": "TANGSIMEKAR",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.784712,
-			-7.029633]
-		},
-		"properties": {
-			"Desa": "CIPEDES",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.791837,
-			-7.051013]
-		},
-		"properties": {
-			"Desa": "KARANGTUNGGAL",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.786136,
-			-7.019929]
-		},
-		"properties": {
-			"Desa": "CIGENTUR",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.801794,
-			-7.054929]
-		},
-		"properties": {
-			"Desa": "SRIRAHAYU",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.804203,
-			-7.038097]
-		},
-		"properties": {
-			"Desa": "CILULUK",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.825527,
-			-7.065618]
-		},
-		"properties": {
-			"Desa": "MEKARLAKSANA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.811931,
-			-7.032851]
-		},
-		"properties": {
-			"Desa": "CIHANYIR",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.826847,
-			-7.040069]
-		},
-		"properties": {
-			"Desa": "CIKANCUNG",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.826847,
-			-7.040069]
-		},
-		"properties": {
-			"Desa": "MANDALASARI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.820866,
-			-7.011346]
-		},
-		"properties": {
-			"Desa": "HEGARMANAH",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.811908,
-			-7.013017]
-		},
-		"properties": {
-			"Desa": "CIKASUNGKA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.802845,
-			-7.004793]
-		},
-		"properties": {
-			"Desa": "TANJUNGLAYA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.863373,
-			-7.001113]
-		},
-		"properties": {
-			"Desa": "NAGROG",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.8446,
-			-7.029436]
-		},
-		"properties": {
-			"Desa": "NARAWITA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.839973,
-			-7.018341]
-		},
-		"properties": {
-			"Desa": "MARGAASIH",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.840743,
-			-7.00182]
-		},
-		"properties": {
-			"Desa": "CICALENGKA WETAN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.833776,
-			-7.003326]
-		},
-		"properties": {
-			"Desa": "CIKUYA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.833776,
-			-7.003326]
-		},
-		"properties": {
-			"Desa": "WALUYA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.815815,
-			-6.975701]
-		},
-		"properties": {
-			"Desa": "PANENJOAN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.836258,
-			-6.98247]
-		},
-		"properties": {
-			"Desa": "TENJOLAYA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.836258,
-			-6.98247]
-		},
-		"properties": {
-			"Desa": "CICALENGKA KULON",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.849625,
-			-6.991004]
-		},
-		"properties": {
-			"Desa": "BABAKANPEUTEUY",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.857237,
-			-6.974957]
-		},
-		"properties": {
-			"Desa": "DAMPIT",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.893476,
-			-6.969566]
-		},
-		"properties": {
-			"Desa": "TANJUNGWANGI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.851261,
-			-7.038352]
-		},
-		"properties": {
-			"Desa": "MANDALAWANGI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.866317,
-			-7.039678]
-		},
-		"properties": {
-			"Desa": "BOJONG",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.890377,
-			-7.032489]
-		},
-		"properties": {
-			"Desa": "CIHERANG",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.913593,
-			-7.040175]
-		},
-		"properties": {
-			"Desa": "CIARO",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.889919,
-			-7.011486]
-		},
-		"properties": {
-			"Desa": "NAGREG",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.880287,
-			-7.009495]
-		},
-		"properties": {
-			"Desa": "CITAMAN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.876789,
-			-7.222825]
-		},
-		"properties": {
-			"Desa": "GANJAR SABAR",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.895357,
-			-7.012784]
-		},
-		"properties": {
-			"Desa": "KENDAN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.724476,
-			-6.99314]
-		},
-		"properties": {
-			"Desa": "SUKAMANAH",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.716129,
-			-6.981577]
-		},
-		"properties": {
-			"Desa": "TEGALSUMEDANG",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.738605,
-			-6.974466]
-		},
-		"properties": {
-			"Desa": "RANCAEKEK KULON",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.747962,
-			-6.9693]
-		},
-		"properties": {
-			"Desa": "RANCAEKEK WETAN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.753937,
-			-6.977509]
-		},
-		"properties": {
-			"Desa": "BOJONGLOA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.764087,
-			-6.980484]
-		},
-		"properties": {
-			"Desa": "JELEGONG",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.7747368,
-			-6.9747786]
-		},
-		"properties": {
-			"Desa": "LINGGAR",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.776049,
-			-6.990207]
-		},
-		"properties": {
-			"Desa": "SUKAMULYA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.77911,
-			-6.993786]
-		},
-		"properties": {
-			"Desa": "HAURPUGUR",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.784725,
-			-7.003098]
-		},
-		"properties": {
-			"Desa": "SANGIANG",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.803112,
-			-6.993878]
-		},
-		"properties": {
-			"Desa": "BOJONGSALAM",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.792339,
-			-6.972774]
-		},
-		"properties": {
-			"Desa": "CANGKUANG",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.808479,
-			-6.970665]
-		},
-		"properties": {
-			"Desa": "NANJUNGMEKAR",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.720121,
-			-7.078719]
-		},
-		"properties": {
-			"Desa": "NEGLASARI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.737019,
-			-7.07597]
-		},
-		"properties": {
-			"Desa": "WANGISAGARA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.742777,
-			-7.05836]
-		},
-		"properties": {
-			"Desa": "PADAMULYA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.734641,
-			-7.063912]
-		},
-		"properties": {
-			"Desa": "SUKAMUKTI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.727985,
-			-7.054971]
-		},
-		"properties": {
-			"Desa": "PADAULUN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.71909,
-			-7.056324]
-		},
-		"properties": {
-			"Desa": "BIRU",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.743446,
-			-7.05397]
-		},
-		"properties": {
-			"Desa": "SUKAMAJU",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.747016,
-			-7.042592]
-		},
-		"properties": {
-			"Desa": "MAJASETRA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.750561,
-			-7.058031]
-		},
-		"properties": {
-			"Desa": "MAJALAYA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.76288,
-			-7.041468]
-		},
-		"properties": {
-			"Desa": "MAJAKERTA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.767288,
-			-7.039586]
-		},
-		"properties": {
-			"Desa": "BOJONG",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.759487,
-			-7.032269]
-		},
-		"properties": {
-			"Desa": "PANYADAP",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.761844,
-			-7.016687]
-		},
-		"properties": {
-			"Desa": "PADAMUKTI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.752544,
-			-7.023706]
-		},
-		"properties": {
-			"Desa": "CIBODAS",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.745437,
-			-7.016889]
-		},
-		"properties": {
-			"Desa": "LANGENSARI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.734172,
-			-7.013142]
-		},
-		"properties": {
-			"Desa": "SOLOKANJERUK",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.728275,
-			-7.025259]
-		},
-		"properties": {
-			"Desa": "RANCAKASUMBA",
-			"URL": "rancakasumba.com"
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.713123,
-			-7.00311]
-		},
-		"properties": {
-			"Desa": "BOJONGEMAS",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.68993,
-			-7.074324]
-		},
-		"properties": {
-			"Desa": "BABAKAN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.706272,
-			-7.075108]
-		},
-		"properties": {
-			"Desa": "CIKONENG",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.704338,
-			-7.064206]
-		},
-		"properties": {
-			"Desa": "SIGARACIPTA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.700985,
-			-7.047443]
-		},
-		"properties": {
-			"Desa": "PAKUTANDANG",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.710697,
-			-7.043444]
-		},
-		"properties": {
-			"Desa": "MANGGUNGHARJA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.723724,
-			-7.032727]
-		},
-		"properties": {
-			"Desa": "MEKARSARI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.711258,
-			-7.029027]
-		},
-		"properties": {
-			"Desa": "CIPARAY",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.696037,
-			-7.011453]
-		},
-		"properties": {
-			"Desa": "SUMBERSARI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.701765,
-			-7.024256]
-		},
-		"properties": {
-			"Desa": "SARIMAHI",
-			"URL": "pemerintahdesasarimahi.desa.id"
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.691921,
-			-7.02447]
-		},
-		"properties": {
-			"Desa": "SERANGMEKAR",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.697513,
-			-7.03891]
-		},
-		"properties": {
-			"Desa": "GUNUNGLEUTIK",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.686531,
-			-7.031549]
-		},
-		"properties": {
-			"Desa": "CIHEULANG",
-			"URL": "pemerintahdesaciheulang.desa.id"
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.686531,
-			-7.031549]
-		},
-		"properties": {
-			"Desa": "MEKARLAKSANA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.686531,
-			-7.031549]
-		},
-		"properties": {
-			"Desa": "BUMIWANGI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.606239,
-			-7.081892]
-		},
-		"properties": {
-			"Desa": "MALAKASARI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.616481,
-			-6.998034]
-		},
-		"properties": {
-			"Desa": "BOJONGMALAKA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.599928,
-			-6.994849]
-		},
-		"properties": {
-			"Desa": "RANCAMANYAR",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.609424,
-			-7.067591]
-		},
-		"properties": {
-			"Desa": "BATUKARUT",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.623088,
-			-7.097001]
-		},
-		"properties": {
-			"Desa": "MANGUNJAYA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.630008,
-			-7.095989]
-		},
-		"properties": {
-			"Desa": "MEKARJAYA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.626837,
-			-7.083952]
-		},
-		"properties": {
-			"Desa": "BAROS",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.613235,
-			-7.061639]
-		},
-		"properties": {
-			"Desa": "LEBAKWANGI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.617038,
-			-7.061639]
-		},
-		"properties": {
-			"Desa": "WARGALUYU",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.638397,
-			-7.084083]
-		},
-		"properties": {
-			"Desa": "ARJASARI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.654716,
-			-7.081385]
-		},
-		"properties": {
-			"Desa": "PINGGIRSARI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.672443,
-			-7.05484]
-		},
-		"properties": {
-			"Desa": "PATROLSARI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.675644,
-			-7.069035]
-		},
-		"properties": {
-			"Desa": "RANCAKOLE",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.665797,
-			-7.094988]
-		},
-		"properties": {
-			"Desa": "ANCOLMEKAR",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.600357,
-			-7.093495]
-		},
-		"properties": {
-			"Desa": "MEKARJAYA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.602642,
-			-7.070993]
-		},
-		"properties": {
-			"Desa": "BANJARAN WETAN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.595638,
-			-7.071829]
-		},
-		"properties": {
-			"Desa": "CIAPUS",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.584307,
-			-7.079154]
-		},
-		"properties": {
-			"Desa": "SINDANGPANON",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.575061,
-			-7.059199]
-		},
-		"properties": {
-			"Desa": "NEGLASARI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.565929,
-			-7.053062]
-		},
-		"properties": {
-			"Desa": "MARGAHURIP",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.568569,
-			-7.046427]
-		},
-		"properties": {
-			"Desa": "KIANGROKE",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.577522,
-			-7.050468]
-		},
-		"properties": {
-			"Desa": "KAMASAN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.593995,
-			-7.061434]
-		},
-		"properties": {
-			"Desa": "BANJARAN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.585529,
-			-7.038923]
-		},
-		"properties": {
-			"Desa": "TARAJUSARI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.585529,
-			-7.038923]
-		},
-		"properties": {
-			"Desa": "PASIRMULYA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.545672,
-			-7.064366]
-		},
-		"properties": {
-			"Desa": "JATISARI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.5485,
-			-7.055323]
-		},
-		"properties": {
-			"Desa": "NAGRAK",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.530369,
-			-7.071956]
-		},
-		"properties": {
-			"Desa": "BANDASARI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.52869,
-			-7.06391]
-		},
-		"properties": {
-			"Desa": "PANANJUNG",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.550179,
-			-7.039744]
-		},
-		"properties": {
-			"Desa": "CILUNCAT",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.560412,
-			-7.037726]
-		},
-		"properties": {
-			"Desa": "CANGKUANG",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.575811,
-			-7.03711]
-		},
-		"properties": {
-			"Desa": "TANJUNGSARI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.616562,
-			-7.046954]
-		},
-		"properties": {
-			"Desa": "BOJONGMANGGU",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.60434,
-			-7.20245]
-		},
-		"properties": {
-			"Desa": "LANGONSARI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.596081,
-			-7.035871]
-		},
-		"properties": {
-			"Desa": "SUKASARI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.602676,
-			-7.01495]
-		},
-		"properties": {
-			"Desa": "RANCAMULYA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.58881,
-			-7.020839]
-		},
-		"properties": {
-			"Desa": "RANCATUNGKU",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.57407,
-			-7.01963]
-		},
-		"properties": {
-			"Desa": "BOJONGKUNCI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.553287,
-			-7.024953]
-		},
-		"properties": {
-			"Desa": "GANDASARI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.549705,
-			-7.006043]
-		},
-		"properties": {
-			"Desa": "KATAPANG",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.555614,
-			-6.98837]
-		},
-		"properties": {
-			"Desa": "CILAMPENI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.559635,
-			-6.999519]
-		},
-		"properties": {
-			"Desa": "PANGAUBAN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.5606,
-			-7.018394]
-		},
-		"properties": {
-			"Desa": "BANYUSARI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.571258,
-			-6.999658]
-		},
-		"properties": {
-			"Desa": "SANGKANHURIP",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.583191,
-			-7.003435]
-		},
-		"properties": {
-			"Desa": "SUKAMUKTI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.510139,
-			-7.03466]
-		},
-		"properties": {
-			"Desa": "SADU",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.511959,
-			-7.065642]
-		},
-		"properties": {
-			"Desa": "SUKAJADI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.519054,
-			-7.067275]
-		},
-		"properties": {
-			"Desa": "SUKANAGARA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.522903,
-			-7.050087]
-		},
-		"properties": {
-			"Desa": "PANYIRAPAN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.516823,
-			-7.041206]
-		},
-		"properties": {
-			"Desa": "KARAMATMULYA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.530605,
-			-7.038333]
-		},
-		"properties": {
-			"Desa": "SOREANG",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.526705,
-			-7.025026]
-		},
-		"properties": {
-			"Desa": "PAMEKARAN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.526705,
-			-7.025026]
-		},
-		"properties": {
-			"Desa": "PARUNGSERAB",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.526705,
-			-7.025026]
-		},
-		"properties": {
-			"Desa": "SEKARWANGI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.526705,
-			-7.025026]
-		},
-		"properties": {
-			"Desa": "CINGCIN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.503917,
-			-7.024973]
-		},
-		"properties": {
-			"Desa": "CILAME",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.503917,
-			-7.024973]
-		},
-		"properties": {
-			"Desa": "BUNINAGARA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.503917,
-			-7.024973]
-		},
-		"properties": {
-			"Desa": "PADASUKA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.503917,
-			-7.024973]
-		},
-		"properties": {
-			"Desa": "SUKAMULYA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.503917,
-			-7.024973]
-		},
-		"properties": {
-			"Desa": "KUTAWARINGIN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.503917,
-			-7.024973]
-		},
-		"properties": {
-			"Desa": "KOPO",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.503917,
-			-7.024973]
-		},
-		"properties": {
-			"Desa": "CIBODAS",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.503917,
-			-7.024973]
-		},
-		"properties": {
-			"Desa": "JATISARI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.503917,
-			-7.024973]
-		},
-		"properties": {
-			"Desa": "JELEGONG",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.503917,
-			-7.024973]
-		},
-		"properties": {
-			"Desa": "GAJAHMEKAR",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.503917,
-			-7.024973]
-		},
-		"properties": {
-			"Desa": "PAMEUNTASAN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.543869,
-			-6.954384]
-		},
-		"properties": {
-			"Desa": "NANJUNG",
-			"URL": "nanjung.desa.id"
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.558185,
-			-6.975428]
-		},
-		"properties": {
-			"Desa": "MEKAR RAHAYU",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.565995,
-			-6.962049]
-		},
-		"properties": {
-			"Desa": "RAHAYU",
-			"URL": "rahayu.desa.id"
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.558666,
-			-6.957755]
-		},
-		"properties": {
-			"Desa": "CIGONDEWAH HILIR",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.554805,
-			-6.944483]
-		},
-		"properties": {
-			"Desa": "MARGAASIH",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.541564,
-			-6.933812]
-		},
-		"properties": {
-			"Desa": "LAGADAR",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.585029,
-			-6.975129]
-		},
-		"properties": {
-			"Desa": "SUKAMENAK",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.57883,
-			-6.974401]
-		},
-		"properties": {
-			"Desa": "SAYATI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.57302,
-			-6.978427]
-		},
-		"properties": {
-			"Desa": "MARGAHAYU SELATAN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.5685216,
-			-6.9599938]
-		},
-		"properties": {
-			"Desa": "MARGAHAYU TENGAH",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.594402,
-			-6.97603]
-		},
-		"properties": {
-			"Desa": "CANGKUANG KULON",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.604339,
-			-6.974978]
-		},
-		"properties": {
-			"Desa": "CANGKUANG WETAN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.623779,
-			-6.98602]
-		},
-		"properties": {
-			"Desa": "DAYEUHKOLOT",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.6175577,
-			-6.9811354]
-		},
-		"properties": {
-			"Desa": "CITEUREUP",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.628841,
-			-6.971236]
-		},
-		"properties": {
-			"Desa": "SUKAPURA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.650726,
-			-7.005545]
-		},
-		"properties": {
-			"Desa": "BOJONGSARI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.644344,
-			-6.993959]
-		},
-		"properties": {
-			"Desa": "BOJONGSOANG",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.657756,
-			-6.986858]
-		},
-		"properties": {
-			"Desa": "LENGKONG",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.649128,
-			-6.975674]
-		},
-		"properties": {
-			"Desa": "CIPAGALO",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.669166,
-			-6.983426]
-		},
-		"properties": {
-			"Desa": "BUAHBATU",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.687202,
-			-6.98383]
-		},
-		"properties": {
-			"Desa": "TEGALLUAR",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.714344,
-			-6.960694]
-		},
-		"properties": {
-			"Desa": "CIBIRU HILIR",
-			"URL": "cibiruhilir.desa.id"
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.729187,
-			-6.939135]
-		},
-		"properties": {
-			"Desa": "CINUNUK",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.737289,
-			-6.942128]
-		},
-		"properties": {
-			"Desa": "CIMEKAR",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.7201944,
-			-6.9364452]
-		},
-		"properties": {
-			"Desa": "CILEUNYI KULON",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.753927,
-			-6.933059]
-		},
-		"properties": {
-			"Desa": "CILEUNYI WETAN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.735087,
-			-6.922763]
-		},
-		"properties": {
-			"Desa": "CIBIRU WETAN",
-			"URL": "cibiruwetan.desa.id"
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.69926,
-			-6.886135]
-		},
-		"properties": {
-			"Desa": "GIRIMEKAR",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.693306,
-			-6.90987]
-		},
-		"properties": {
-			"Desa": "JATIENDAH",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.713482,
-			-6.884706]
-		},
-		"properties": {
-			"Desa": "MELATIWANGI",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.6934055,
-			-6.856896]
-		},
-		"properties": {
-			"Desa": "CIPANJALU",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.729141,
-			-6.890203]
-		},
-		"properties": {
-			"Desa": "CIPOREAT",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.737453,
-			-6.895061]
-		},
-		"properties": {
-			"Desa": "CILENGKRANG",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.670875,
-			-6.885459]
-		},
-		"properties": {
-			"Desa": "MANDALAMEKAR",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.674217,
-			-6.888838]
-		},
-		"properties": {
-			"Desa": "CIKADUT",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.683376,
-			-6.893634]
-		},
-		"properties": {
-			"Desa": "SINDANGLAYA",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.69598,
-			-6.867503]
-		},
-		"properties": {
-			"Desa": "MEKARMANIK",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.675552,
-			-6.863832]
-		},
-		"properties": {
-			"Desa": "CIMENYAN",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.651054,
-			-6.871759]
-		},
-		"properties": {
-			"Desa": "MEKARSALUYU",
-			"URL": ""
-		}
-	},
-	{
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [107.648698,
-			-6.850098]
-		},
-		"properties": {
-			"Desa": "CIBURIAL",
-			"URL": "ciburial.desa.id"
-		}
-	}]
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.440124,-7.120412 ]
+    },
+    "properties": {
+    "Desa":"PANUNDAAN",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.45631,-7.105863 ]
+    },
+    "properties": {
+    "Desa":"CIWIDEY",
+    "URL":"ciwidey.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.457924,-7.086463 ]
+    },
+    "properties": {
+    "Desa":"PANYOCOKAN",
+    "URL":"panyocokan.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.430053,-7.101418 ]
+    },
+    "properties": {
+    "Desa":"LEBAKMUNCANG",
+    "URL":"lebakmuncang.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.442234,-7.059138 ]
+    },
+    "properties": {
+    "Desa":"RAWABOGO",
+    "URL":"rawabogo.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.46471,-7.063518 ]
+    },
+    "properties": {
+    "Desa":"NENGKELAN",
+    "URL":"negkelan.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.475964,-7.069168 ]
+    },
+    "properties": {
+    "Desa":"SUKAWENING",
+    "URL":"sukawening.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.286617,-7.162106 ]
+    },
+    "properties": {
+    "Desa":"CIPELAH",
+    "URL":"cipelah.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.341209,-7.162685 ]
+    },
+    "properties": {
+    "Desa":"SUKARESMI",
+    "URL":"sukaresmi-rancabali.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.353649,-7.114093 ]
+    },
+    "properties": {
+    "Desa":"INDRAGIRI",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.389171,-7.148774 ]
+    },
+    "properties": {
+    "Desa":"PATENGAN",
+    "URL":"patengan.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.424011,-7.145632 ]
+    },
+    "properties": {
+    "Desa":"ALAMENDAH",
+    "URL":"alamendah.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.407795,-7.19077 ]
+    },
+    "properties": {
+    "Desa":"SUGIHMUKTI",
+    "URL":"sugihmukti.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.460441,-7.133406 ]
+    },
+    "properties": {
+    "Desa":"MARGAMULYA",
+    "URL":"margamulya.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.481033,-7.17709 ]
+    },
+    "properties": {
+    "Desa":"TENJOLAYA",
+    "URL":"tenjolaya-pasirjambu.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.480286,-7.093101 ]
+    },
+    "properties": {
+    "Desa":"CISONDARI",
+    "URL":"cisondari.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.505489,-7.141027 ]
+    },
+    "properties": {
+    "Desa":"MEKARSARI",
+    "URL":"mekarsari.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.511673,-7.102233 ]
+    },
+    "properties": {
+    "Desa":"CIBODAS",
+    "URL":"cibodas.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.502395,-7.074721 ]
+    },
+    "properties": {
+    "Desa":"CUKANGGENTENG",
+    "URL":"cukanggenteng.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.48674,-7.088757 ]
+    },
+    "properties": {
+    "Desa":"PASIRJAMBU",
+    "URL":"pasirjambu.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.476154,-7.091674 ]
+    },
+    "properties": {
+    "Desa":"MEKARMAJU",
+    "URL":"mekarmaju.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.482475,-7.064575 ]
+    },
+    "properties": {
+    "Desa":"CIKONENG",
+    "URL":"cikoneng.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.560558,-7.115803 ]
+    },
+    "properties": {
+    "Desa":"CIKALONG",
+    "URL":"cikalong.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.610531,-7.125114 ]
+    },
+    "properties": {
+    "Desa":"MEKARSARI ",
+    "URL":"mekarsari-cimaung.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.558487,-7.105562 ]
+    },
+    "properties": {
+    "Desa":"CIPINANG",
+    "URL":"cipinang.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.572639,-7.101701 ]
+    },
+    "properties": {
+    "Desa":"CIMAUNG",
+    "URL":"cimaung.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.594334,-7.105829 ]
+    },
+    "properties": {
+    "Desa":"CAMPAKAMULYA",
+    "URL":"campakamulya.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.575977,-7.085813 ]
+    },
+    "properties": {
+    "Desa":"PASIRHUNI",
+    "URL":"pasirhuni.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.562679,-7.072114 ]
+    },
+    "properties": {
+    "Desa":"JAGABAYA",
+    "URL":"jagabaya.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.540538,-7.083242 ]
+    },
+    "properties": {
+    "Desa":"MALASARI ",
+    "URL":"malasari-cimaung.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.531974,-7.109825 ]
+    },
+    "properties": {
+    "Desa":"SUKAMAJU",
+    "URL":"sukamaju-bandung.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.566,-7.128 ]
+    },
+    "properties": {
+    "Desa":"WARJABAKTI",
+    "URL":"warjabakti.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.566,-7.128 ]
+    },
+    "properties": {
+    "Desa":"WANASUKA",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.59571,-7.236889 ]
+    },
+    "properties": {
+    "Desa":"BANJARSARI",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.559986,-7.224268 ]
+    },
+    "properties": {
+    "Desa":"MARGALUYU",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.520336,-7.219053 ]
+    },
+    "properties": {
+    "Desa":"SUKALUYU",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.523163,-7.17949 ]
+    },
+    "properties": {
+    "Desa":"WARNASARI",
+    "URL":"warnasari.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.5396,-7.168702 ]
+    },
+    "properties": {
+    "Desa":"PULOSARI",
+    "URL":"pulosari.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.574928,-7.188449 ]
+    },
+    "properties": {
+    "Desa":"MARGAMEKAR",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.594344,-7.190618 ]
+    },
+    "properties": {
+    "Desa":"SUKAMANAH",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.610069,-7.182963 ]
+    },
+    "properties": {
+    "Desa":"MARGAMUKTI",
+    "URL":"margamukti.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.610109,-7.163416 ]
+    },
+    "properties": {
+    "Desa":"PANGALENGAN",
+    "URL":"pangalengan.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.585212,-7.158166 ]
+    },
+    "properties": {
+    "Desa":"MARGAMULYA",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.59325,-7.141364 ]
+    },
+    "properties": {
+    "Desa":"TRIBAKTIMULYA",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.542179,-7.123632 ]
+    },
+    "properties": {
+    "Desa":"LAMAJANG",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.69474,-7.275229 ]
+    },
+    "properties": {
+    "Desa":"NEGLAWANGI",
+    "URL":"neglawangi.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.635406,-7.270023 ]
+    },
+    "properties": {
+    "Desa":"SANTOSA",
+    "URL":"santosa.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.66674,-7.229394 ]
+    },
+    "properties": {
+    "Desa":"TARUMAJAYA",
+    "URL":"tarumajaya.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.688709,-7.211685 ]
+    },
+    "properties": {
+    "Desa":"CIKEMBANG",
+    "URL":"cikembang.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.657497,-7.18952 ]
+    },
+    "properties": {
+    "Desa":"CIBEUREUM",
+    "URL":"cibeureum.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.70504,-7.199879 ]
+    },
+    "properties": {
+    "Desa":"CIHAWUK",
+    "URL":"cihawuk.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.683044,-7.164603 ]
+    },
+    "properties": {
+    "Desa":"SUKAPURA",
+    "URL":"sukapura-kertasari.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.683044,-7.164603 ]
+    },
+    "properties": {
+    "Desa":"Resmi Tingal",
+    "URL":"resmi tingal.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.692182,-7.142642 ]
+    },
+    "properties": {
+    "Desa":"CIKITU",
+    "URL":"cikitu.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.672092,-7.156669 ]
+    },
+    "properties": {
+    "Desa":"GIRIMULYA",
+    "URL":"girimulya.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.716144,-7.161855 ]
+    },
+    "properties": {
+    "Desa":"SUKARAME",
+    "URL":"sukarame-pacet.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.730129,-7.115849 ]
+    },
+    "properties": {
+    "Desa":"CIKAWAO",
+    "URL":"cikawao.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.720043,-7.11621 ]
+    },
+    "properties": {
+    "Desa":"NAGRAK",
+    "URL":"nagrak.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.707162,-7.11854 ]
+    },
+    "properties": {
+    "Desa":"MANDALAHAJI",
+    "URL":"mandalahaji.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.696606,-7.106769 ]
+    },
+    "properties": {
+    "Desa":"MARUYUNG",
+    "URL":"maruyung.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.664165,-7.139962 ]
+    },
+    "properties": {
+    "Desa":"PANGAUBAN",
+    "URL":"pangauban.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.658348,-7.131857 ]
+    },
+    "properties": {
+    "Desa":"CINANGGELA",
+    "URL":"cinanggela.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.663811,-7.117605 ]
+    },
+    "properties": {
+    "Desa":"MEKARJAYA",
+    "URL":"mekarjaya.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.698973,-7.093209 ]
+    },
+    "properties": {
+    "Desa":"MEKARSARI",
+    "URL":"mekarsari-pacet.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.704791,-7.094505 ]
+    },
+    "properties": {
+    "Desa":"CIPEUJEUH",
+    "URL":"cipeujeuh.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.714138,-7.091851 ]
+    },
+    "properties": {
+    "Desa":"TANJUNGWANGI",
+    "URL":"tanjungwangi-pacet.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.741415,-7.141203 ]
+    },
+    "properties": {
+    "Desa":"NEGLASARI",
+    "URL":"neglasari.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.749969,-7.135469 ]
+    },
+    "properties": {
+    "Desa":"DUKUH",
+    "URL":"dukuh.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.760338,-7.129879 ]
+    },
+    "properties": {
+    "Desa":"IBUN",
+    "URL":"ibun.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.779896,-7.132247 ]
+    },
+    "properties": {
+    "Desa":"LAKSANA",
+    "URL":"laksana.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.772392,-7.106945 ]
+    },
+    "properties": {
+    "Desa":"MEKARWANGI",
+    "URL":"mekarwangi-ibun.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.771091,-7.08656 ]
+    },
+    "properties": {
+    "Desa":"SUDI",
+    "URL":"sudi.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.754051,-7.095347 ]
+    },
+    "properties": {
+    "Desa":"CIBEET",
+    "URL":"cibeet.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.740055,-7.10438 ]
+    },
+    "properties": {
+    "Desa":"PANGGUH",
+    "URL":"pangguh.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.744541,-7.088761 ]
+    },
+    "properties": {
+    "Desa":"KARYALAKSANA",
+    "URL":"karyalaksana.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.748514,-7.08058 ]
+    },
+    "properties": {
+    "Desa":"LAMPEGAN",
+    "URL":"lampegan-ibun.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.762516,-7.075882 ]
+    },
+    "properties": {
+    "Desa":"TALUN",
+    "URL":"talun.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.756871,-7.069692 ]
+    },
+    "properties": {
+    "Desa":"TANGGULUN",
+    "URL":"tanggulun.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.792633,-7.107722 ]
+    },
+    "properties": {
+    "Desa":"LOA",
+    "URL":"loa.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.804829,-7.081416 ]
+    },
+    "properties": {
+    "Desa":"DRAWATI",
+    "URL":"drawati.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.781448,-7.064669 ]
+    },
+    "properties": {
+    "Desa":"CIPAKU",
+    "URL":"cipaku.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.777471,-7.072394 ]
+    },
+    "properties": {
+    "Desa":"SINDANGSARI",
+    "URL":"sindangsari.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.768207,-7.061034 ]
+    },
+    "properties": {
+    "Desa":"SUKAMANTRI",
+    "URL":"sukamantri.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.765338,-7.048601 ]
+    },
+    "properties": {
+    "Desa":"SUKAMANAH",
+    "URL":"sukamanah-paseh.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.775505,-7.03924 ]
+    },
+    "properties": {
+    "Desa":"MEKARPAWITAN",
+    "URL":"mekarpawitan.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.775896,-7.035685 ]
+    },
+    "properties": {
+    "Desa":"CIJAGRA",
+    "URL":"cijagra.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.776977,-7.029091 ]
+    },
+    "properties": {
+    "Desa":"TANGSIMEKAR",
+    "URL":"tangsimekar.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.784712,-7.029633 ]
+    },
+    "properties": {
+    "Desa":"CIPEDES",
+    "URL":"cipedes.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.791837,-7.051013 ]
+    },
+    "properties": {
+    "Desa":"KARANGTUNGGAL",
+    "URL":"karangtunggal.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.786136,-7.019929 ]
+    },
+    "properties": {
+    "Desa":"CIGENTUR",
+    "URL":"cigentur.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.801794,-7.054929 ]
+    },
+    "properties": {
+    "Desa":"SRIRAHAYU",
+    "URL":"srirahayu.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.804203,-7.038097 ]
+    },
+    "properties": {
+    "Desa":"CILULUK",
+    "URL":"ciluluk.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.825527,-7.065618 ]
+    },
+    "properties": {
+    "Desa":"MEKARLAKSANA",
+    "URL":"mekarlaksana-cikancung.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.811931,-7.032851 ]
+    },
+    "properties": {
+    "Desa":"CIHANYIR",
+    "URL":"cihanyir.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.826847,-7.040069 ]
+    },
+    "properties": {
+    "Desa":"CIKANCUNG",
+    "URL":"cikancung.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.826847,-7.040069 ]
+    },
+    "properties": {
+    "Desa":"MANDALASARI",
+    "URL":"mandalasari.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.820866,-7.011346 ]
+    },
+    "properties": {
+    "Desa":"HEGARMANAH",
+    "URL":"hegarmanah-cikancung.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.811908,-7.013017 ]
+    },
+    "properties": {
+    "Desa":"CIKASUNGKA",
+    "URL":"cikasungka.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.802845,-7.004793 ]
+    },
+    "properties": {
+    "Desa":"TANJUNGLAYA",
+    "URL":"tanjunglaya.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.863373,-7.001113 ]
+    },
+    "properties": {
+    "Desa":"NAGROG",
+    "URL":"nagrog.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.8446,-7.029436 ]
+    },
+    "properties": {
+    "Desa":"NARAWITA",
+    "URL":"narawita.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.839973,-7.018341 ]
+    },
+    "properties": {
+    "Desa":"MARGAASIH",
+    "URL":"margaasih-cicalengka.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.840743,-7.00182 ]
+    },
+    "properties": {
+    "Desa":"CICALENGKA WETAN",
+    "URL":"cicalengkawetan.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.833776,-7.003326 ]
+    },
+    "properties": {
+    "Desa":"CIKUYA",
+    "URL":"cikuya.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.833776,-7.003326 ]
+    },
+    "properties": {
+    "Desa":"WALUYA",
+    "URL":"waluya.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.815815,-6.975701 ]
+    },
+    "properties": {
+    "Desa":"PANENJOAN",
+    "URL":"panenjoan.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.836258,-6.98247 ]
+    },
+    "properties": {
+    "Desa":"TENJOLAYA",
+    "URL":"tenjolaya-cicalengka.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.836258,-6.98247 ]
+    },
+    "properties": {
+    "Desa":"CICALENGKA KULON",
+    "URL":"cicalengkakulon.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.849625,-6.991004 ]
+    },
+    "properties": {
+    "Desa":"BABAKANPEUTEUY",
+    "URL":"babakanpeuteuy.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.857237,-6.974957 ]
+    },
+    "properties": {
+    "Desa":"DAMPIT",
+    "URL":"dampit.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.893476,-6.969566 ]
+    },
+    "properties": {
+    "Desa":"TANJUNGWANGI",
+    "URL":"tanjungwangi-cicalengka.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.851261,-7.038352 ]
+    },
+    "properties": {
+    "Desa":"MANDALAWANGI",
+    "URL":"mandalawangi-nagreg.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.866317,-7.039678 ]
+    },
+    "properties": {
+    "Desa":"BOJONG",
+    "URL":"bojong-nagreg.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.890377,-7.032489 ]
+    },
+    "properties": {
+    "Desa":"CIHERANG",
+    "URL":"ciherang-nagreg.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.913593,-7.040175 ]
+    },
+    "properties": {
+    "Desa":"CIARO",
+    "URL":"ciaro.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.889919,-7.011486 ]
+    },
+    "properties": {
+    "Desa":"NAGREG",
+    "URL":"nagreg.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.880287,-7.009495 ]
+    },
+    "properties": {
+    "Desa":"CITAMAN",
+    "URL":"citaman.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.876789,-7.222825 ]
+    },
+    "properties": {
+    "Desa":"GANJAR SABAR",
+    "URL":"ganjarsabar.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.895357,-7.012784 ]
+    },
+    "properties": {
+    "Desa":"KENDAN",
+    "URL":"nagregkendan.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.724476,-6.99314 ]
+    },
+    "properties": {
+    "Desa":"SUKAMANAH",
+    "URL":"sukamanah-rancaekek.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.716129,-6.981577 ]
+    },
+    "properties": {
+    "Desa":"TEGALSUMEDANG",
+    "URL":"tegalsumedang.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.738605,-6.974466 ]
+    },
+    "properties": {
+    "Desa":"RANCAEKEK KULON",
+    "URL":"rancaekekkulon.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.747962,-6.9693 ]
+    },
+    "properties": {
+    "Desa":"RANCAEKEK WETAN",
+    "URL":"rancaekekwetan.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.753937,-6.977509 ]
+    },
+    "properties": {
+    "Desa":"BOJONGLOA",
+    "URL":"bojongload.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.764087,-6.980484 ]
+    },
+    "properties": {
+    "Desa":"JELEGONG",
+    "URL":"bojongsalam.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.7747368,-6.9747786 ]
+    },
+    "properties": {
+    "Desa":"LINGGAR",
+    "URL":"linggar.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.776049,-6.990207 ]
+    },
+    "properties": {
+    "Desa":"SUKAMULYA",
+    "URL":"sukamulya-rancaekek.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.77911,-6.993786 ]
+    },
+    "properties": {
+    "Desa":"HAURPUGUR",
+    "URL":"haurpugur.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.784725,-7.003098 ]
+    },
+    "properties": {
+    "Desa":"SANGIANG",
+    "URL":"sangiang.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.803112,-6.993878 ]
+    },
+    "properties": {
+    "Desa":"BOJONGSALAM",
+    "URL":"bojongsalam.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.792339,-6.972774 ]
+    },
+    "properties": {
+    "Desa":"CANGKUANG",
+    "URL":"cangkuang.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.808479,-6.970665 ]
+    },
+    "properties": {
+    "Desa":"NANJUNGMEKAR",
+    "URL":"nanjungmekar.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.720121,-7.078719 ]
+    },
+    "properties": {
+    "Desa":"NEGLASARI",
+    "URL":"neglasari-majalaya.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.737019,-7.07597 ]
+    },
+    "properties": {
+    "Desa":"WANGISAGARA",
+    "URL":"wangisagara.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.742777,-7.05836 ]
+    },
+    "properties": {
+    "Desa":"PADAMULYA",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.734641,-7.063912 ]
+    },
+    "properties": {
+    "Desa":"SUKAMUKTI",
+    "URL":"sukamukti.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.727985,-7.054971 ]
+    },
+    "properties": {
+    "Desa":"PADAULUN",
+    "URL":"padaulun.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.71909,-7.056324 ]
+    },
+    "properties": {
+    "Desa":"BIRU",
+    "URL":"biru.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.743446,-7.05397 ]
+    },
+    "properties": {
+    "Desa":"SUKAMAJU",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.747016,-7.042592 ]
+    },
+    "properties": {
+    "Desa":"MAJASETRA",
+    "URL":"majasetra.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.750561,-7.058031 ]
+    },
+    "properties": {
+    "Desa":"MAJALAYA",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.76288,-7.041468 ]
+    },
+    "properties": {
+    "Desa":"MAJAKERTA",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.767288,-7.039586 ]
+    },
+    "properties": {
+    "Desa":"BOJONG",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.759487,-7.032269 ]
+    },
+    "properties": {
+    "Desa":"PANYADAP",
+    "URL":"panyadap.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.761844,-7.016687 ]
+    },
+    "properties": {
+    "Desa":"PADAMUKTI",
+    "URL":"padamukti.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.752544,-7.023706 ]
+    },
+    "properties": {
+    "Desa":"CIBODAS",
+    "URL":"cibodas-solokanjeruk.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.745437,-7.016889 ]
+    },
+    "properties": {
+    "Desa":"LANGENSARI",
+    "URL":"langensari.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.734172,-7.013142 ]
+    },
+    "properties": {
+    "Desa":"SOLOKANJERUK",
+    "URL":"solokanjeruk.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.728275,-7.025259 ]
+    },
+    "properties": {
+    "Desa":"RANCAKASUMBA",
+    "URL":"rancakasumba.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.713123,-7.00311 ]
+    },
+    "properties": {
+    "Desa":"BOJONGEMAS",
+    "URL":"bojongemas.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.68993,-7.074324 ]
+    },
+    "properties": {
+    "Desa":"BABAKAN",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.706272,-7.075108 ]
+    },
+    "properties": {
+    "Desa":"CIKONENG",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.704338,-7.064206 ]
+    },
+    "properties": {
+    "Desa":"SIGARACIPTA",
+    "URL":"sagaracipta.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.700985,-7.047443 ]
+    },
+    "properties": {
+    "Desa":"PAKUTANDANG",
+    "URL":"pakutandang.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.710697,-7.043444 ]
+    },
+    "properties": {
+    "Desa":"MANGGUNGHARJA",
+    "URL":"manggungharja.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.723724,-7.032727 ]
+    },
+    "properties": {
+    "Desa":"MEKARSARI",
+    "URL":"mekarsari-ciparay.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.711258,-7.029027 ]
+    },
+    "properties": {
+    "Desa":"CIPARAY",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.696037,-7.011453 ]
+    },
+    "properties": {
+    "Desa":"SUMBERSARI",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.701765,-7.024256 ]
+    },
+    "properties": {
+    "Desa":"SARIMAHI",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.691921,-7.02447 ]
+    },
+    "properties": {
+    "Desa":"SERANGMEKAR",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.697513,-7.03891 ]
+    },
+    "properties": {
+    "Desa":"GUNUNGLEUTIK",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.686531,-7.031549 ]
+    },
+    "properties": {
+    "Desa":"CIHEULANG",
+    "URL":"ciheulang.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.686531,-7.031549 ]
+    },
+    "properties": {
+    "Desa":"MEKARLAKSANA",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.686531,-7.031549 ]
+    },
+    "properties": {
+    "Desa":"BUMIWANGI",
+    "URL":"bumiwangi.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.606239,-7.081892 ]
+    },
+    "properties": {
+    "Desa":"MALAKASARI",
+    "URL":"malakasari.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.616481,-6.998034 ]
+    },
+    "properties": {
+    "Desa":"BOJONGMALAKA",
+    "URL":"bojongmalaka.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.599928,-6.994849 ]
+    },
+    "properties": {
+    "Desa":"RANCAMANYAR",
+    "URL":"rancamanyar.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.609424,-7.067591 ]
+    },
+    "properties": {
+    "Desa":"BATUKARUT",
+    "URL":"batukarut.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.623088,-7.097001 ]
+    },
+    "properties": {
+    "Desa":"MANGUNJAYA",
+    "URL":"mangunjaya.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.630008,-7.095989 ]
+    },
+    "properties": {
+    "Desa":"MEKARJAYA",
+    "URL":"mekarjaya-arjasari.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.626837,-7.083952 ]
+    },
+    "properties": {
+    "Desa":"BAROS",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.613235,-7.061639 ]
+    },
+    "properties": {
+    "Desa":"LEBAKWANGI",
+    "URL":"lebakwangi.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.617038,-7.061639 ]
+    },
+    "properties": {
+    "Desa":"WARGALUYU",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.638397,-7.084083 ]
+    },
+    "properties": {
+    "Desa":"ARJASARI",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.654716,-7.081385 ]
+    },
+    "properties": {
+    "Desa":"PINGGIRSARI",
+    "URL":"pinggirsari.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.672443,-7.05484 ]
+    },
+    "properties": {
+    "Desa":"PATROLSARI",
+    "URL":"patrolsari.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.675644,-7.069035 ]
+    },
+    "properties": {
+    "Desa":"RANCAKOLE",
+    "URL":"rancakole-arjasari.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.665797,-7.094988 ]
+    },
+    "properties": {
+    "Desa":"ANCOLMEKAR",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.600357,-7.093495 ]
+    },
+    "properties": {
+    "Desa":"MEKARJAYA",
+    "URL":"mekarjaya-banjaran.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.602642,-7.070993 ]
+    },
+    "properties": {
+    "Desa":"BANJARAN WETAN",
+    "URL":"banjaranwetan.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.595638,-7.071829 ]
+    },
+    "properties": {
+    "Desa":"CIAPUS",
+    "URL":"ciapus.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.584307,-7.079154 ]
+    },
+    "properties": {
+    "Desa":"SINDANGPANON",
+    "URL":"sindangpanon.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.575061,-7.059199 ]
+    },
+    "properties": {
+    "Desa":"NEGLASARI",
+    "URL":"neglasari.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.565929,-7.053062 ]
+    },
+    "properties": {
+    "Desa":"MARGAHURIP",
+    "URL":"margahurip.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.568569,-7.046427 ]
+    },
+    "properties": {
+    "Desa":"KIANGROKE",
+    "URL":"kiangroke.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.577522,-7.050468 ]
+    },
+    "properties": {
+    "Desa":"KAMASAN",
+    "URL":"kamasan-banjaran.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.593995,-7.061434 ]
+    },
+    "properties": {
+    "Desa":"BANJARAN",
+    "URL":"banjaran.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.585529,-7.038923 ]
+    },
+    "properties": {
+    "Desa":"TARAJUSARI",
+    "URL":"tarajusari.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.585529,-7.038923 ]
+    },
+    "properties": {
+    "Desa":"PASIRMULYA",
+    "URL":"pasirmulya.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.545672,-7.064366 ]
+    },
+    "properties": {
+    "Desa":"JATISARI",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.5485,-7.055323 ]
+    },
+    "properties": {
+    "Desa":"NAGRAK",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.530369,-7.071956 ]
+    },
+    "properties": {
+    "Desa":"BANDASARI",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.52869,-7.06391 ]
+    },
+    "properties": {
+    "Desa":"PANANJUNG",
+    "URL":"pananjung.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.550179,-7.039744 ]
+    },
+    "properties": {
+    "Desa":"CILUNCAT",
+    "URL":"ciluncat.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.560412,-7.037726 ]
+    },
+    "properties": {
+    "Desa":"CANGKUANG",
+    "URL":"cangkuang.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.575811,-7.03711 ]
+    },
+    "properties": {
+    "Desa":"TANJUNGSARI",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.616562,-7.046954 ]
+    },
+    "properties": {
+    "Desa":"BOJONGMANGGU",
+    "URL":"bojongmanggu.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.60434,-7.20245 ]
+    },
+    "properties": {
+    "Desa":"LANGONSARI",
+    "URL":"langonsari.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.596081,-7.035871 ]
+    },
+    "properties": {
+    "Desa":"SUKASARI",
+    "URL":"sukasari.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.602676,-7.01495 ]
+    },
+    "properties": {
+    "Desa":"RANCAMULYA",
+    "URL":"rancamulya.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.58881,-7.020839 ]
+    },
+    "properties": {
+    "Desa":"RANCATUNGKU",
+    "URL":"rancatungku.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.57407,-7.01963 ]
+    },
+    "properties": {
+    "Desa":"BOJONGKUNCI",
+    "URL":"bojongkunci.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.553287,-7.024953 ]
+    },
+    "properties": {
+    "Desa":"GANDASARI",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.549705,-7.006043 ]
+    },
+    "properties": {
+    "Desa":"KATAPANG",
+    "URL":"katapang.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.555614,-6.98837 ]
+    },
+    "properties": {
+    "Desa":"CILAMPENI",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.559635,-6.999519 ]
+    },
+    "properties": {
+    "Desa":"PANGAUBAN",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.5606,-7.018394 ]
+    },
+    "properties": {
+    "Desa":"BANYUSARI",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.571258,-6.999658 ]
+    },
+    "properties": {
+    "Desa":"SANGKANHURIP",
+    "URL":"sangkanhurip.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.583191,-7.003435 ]
+    },
+    "properties": {
+    "Desa":"SUKAMUKTI",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.510139,-7.03466 ]
+    },
+    "properties": {
+    "Desa":"SADU",
+    "URL":"sadu.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.511959,-7.065642 ]
+    },
+    "properties": {
+    "Desa":"SUKAJADI",
+    "URL":"sukajadi.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.519054,-7.067275 ]
+    },
+    "properties": {
+    "Desa":"SUKANAGARA",
+    "URL":"sukanagara.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.522903,-7.050087 ]
+    },
+    "properties": {
+    "Desa":"PANYIRAPAN",
+    "URL":"panyirapan.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.516823,-7.041206 ]
+    },
+    "properties": {
+    "Desa":"KARAMATMULYA",
+    "URL":"karamatmulya.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.530605,-7.038333 ]
+    },
+    "properties": {
+    "Desa":"SOREANG",
+    "URL":"soreang.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.526705,-7.025026 ]
+    },
+    "properties": {
+    "Desa":"PAMEKARAN",
+    "URL":"pamekaran.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.526705,-7.025026 ]
+    },
+    "properties": {
+    "Desa":"PARUNGSERAB",
+    "URL":"prungserab.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.526705,-7.025026 ]
+    },
+    "properties": {
+    "Desa":"SEKARWANGI",
+    "URL":"sekarwangi.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.526705,-7.025026 ]
+    },
+    "properties": {
+    "Desa":"CINGCIN",
+    "URL":"cingcin.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.503917,-7.024973 ]
+    },
+    "properties": {
+    "Desa":"CILAME",
+    "URL":"cilame.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.503917,-7.024973 ]
+    },
+    "properties": {
+    "Desa":"BUNINAGARA",
+    "URL":"buninagara.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.503917,-7.024973 ]
+    },
+    "properties": {
+    "Desa":"PADASUKA",
+    "URL":"padasuka.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.503917,-7.024973 ]
+    },
+    "properties": {
+    "Desa":"SUKAMULYA",
+    "URL":"sukamulya.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.503917,-7.024973 ]
+    },
+    "properties": {
+    "Desa":"KUTAWARINGIN",
+    "URL":"kutawaringin.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.503917,-7.024973 ]
+    },
+    "properties": {
+    "Desa":"KOPO",
+    "URL":"kopo.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.503917,-7.024973 ]
+    },
+    "properties": {
+    "Desa":"CIBODAS",
+    "URL":"cibodas-kutawaringin.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.503917,-7.024973 ]
+    },
+    "properties": {
+    "Desa":"JATISARI",
+    "URL":"jatisari-kutawaringin.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.503917,-7.024973 ]
+    },
+    "properties": {
+    "Desa":"JELEGONG",
+    "URL":"jelegong-kutawaringin.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.503917,-7.024973 ]
+    },
+    "properties": {
+    "Desa":"GAJAHMEKAR",
+    "URL":"gajahmekar.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.503917,-7.024973 ]
+    },
+    "properties": {
+    "Desa":"PAMEUNTASAN",
+    "URL":"pameuntasan.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.543869,-6.954384 ]
+    },
+    "properties": {
+    "Desa":"NANJUNG",
+    "URL":"nanjung.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.558185,-6.975428 ]
+    },
+    "properties": {
+    "Desa":"MEKAR RAHAYU",
+    "URL":"mekarrahayu.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.565995,-6.962049 ]
+    },
+    "properties": {
+    "Desa":"RAHAYU",
+    "URL":"rahayu.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.558666,-6.957755 ]
+    },
+    "properties": {
+    "Desa":"CIGONDEWAH HILIR",
+    "URL":"cigondewahhilir.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.554805,-6.944483 ]
+    },
+    "properties": {
+    "Desa":"MARGAASIH",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.541564,-6.933812 ]
+    },
+    "properties": {
+    "Desa":"LAGADAR",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.585029,-6.975129 ]
+    },
+    "properties": {
+    "Desa":"SUKAMENAK",
+    "URL":"sukamenak.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.57883,-6.974401 ]
+    },
+    "properties": {
+    "Desa":"SAYATI",
+    "URL":"sayati.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.57302,-6.978427 ]
+    },
+    "properties": {
+    "Desa":"MARGAHAYU SELATAN",
+    "URL":"margahayuselatan.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.5685216,-6.9599938 ]
+    },
+    "properties": {
+    "Desa":"MARGAHAYU TENGAH",
+    "URL":"margahayutengah.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.594402,-6.97603 ]
+    },
+    "properties": {
+    "Desa":"CANGKUANG KULON",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.604339,-6.974978 ]
+    },
+    "properties": {
+    "Desa":"CANGKUANG WETAN",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.623779,-6.98602 ]
+    },
+    "properties": {
+    "Desa":"DAYEUHKOLOT",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.6175577,-6.9811354 ]
+    },
+    "properties": {
+    "Desa":"CITEUREUP",
+    "URL":"citeureup.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.628841,-6.971236 ]
+    },
+    "properties": {
+    "Desa":"SUKAPURA",
+    "URL":"sukapura.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.650726,-7.005545 ]
+    },
+    "properties": {
+    "Desa":"BOJONGSARI",
+    "URL":"bojongsari.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.644344,-6.993959 ]
+    },
+    "properties": {
+    "Desa":"BOJONGSOANG",
+    "URL":"bojongsoang.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.657756,-6.986858 ]
+    },
+    "properties": {
+    "Desa":"LENGKONG",
+    "URL":"lengkong.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.649128,-6.975674 ]
+    },
+    "properties": {
+    "Desa":"CIPAGALO",
+    "URL":"cipagalo.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.669166,-6.983426 ]
+    },
+    "properties": {
+    "Desa":"BUAHBATU",
+    "URL":"buahbatu.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.687202,-6.98383 ]
+    },
+    "properties": {
+    "Desa":"TEGALLUAR",
+    "URL":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.714344,-6.960694 ]
+    },
+    "properties": {
+    "Desa":"CIBIRU HILIR",
+    "URL":"cibiruhilir.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.729187,-6.939135 ]
+    },
+    "properties": {
+    "Desa":"CINUNUK",
+    "URL":"cinunuk.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.737289,-6.942128 ]
+    },
+    "properties": {
+    "Desa":"CIMEKAR",
+    "URL":"cimekar.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.7201944,-6.9364452 ]
+    },
+    "properties": {
+    "Desa":"CILEUNYI KULON",
+    "URL":"cileunyikulon.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.753927,-6.933059 ]
+    },
+    "properties": {
+    "Desa":"CILEUNYI WETAN",
+    "URL":"cileunyiwetan.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.735087,-6.922763 ]
+    },
+    "properties": {
+    "Desa":"CIBIRU WETAN",
+    "URL":"cibiruwetan.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.69926,-6.886135 ]
+    },
+    "properties": {
+    "Desa":"GIRIMEKAR",
+    "URL":"girimekar.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.693306,-6.90987 ]
+    },
+    "properties": {
+    "Desa":"JATIENDAH",
+    "URL":"jatiendah.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.713482,-6.884706 ]
+    },
+    "properties": {
+    "Desa":"MELATIWANGI",
+    "URL":"melatiwangi.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.6934055,-6.856896 ]
+    },
+    "properties": {
+    "Desa":"CIPANJALU",
+    "URL":"cipanjalu.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.729141,-6.890203 ]
+    },
+    "properties": {
+    "Desa":"CIPOREAT",
+    "URL":"ciporeat.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.737453,-6.895061 ]
+    },
+    "properties": {
+    "Desa":"CILENGKRANG",
+    "URL":"cilengkrang.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.670875,-6.885459 ]
+    },
+    "properties": {
+    "Desa":"MANDALAMEKAR",
+    "URL":"mandalamekar-cimenyan.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.674217,-6.888838 ]
+    },
+    "properties": {
+    "Desa":"CIKADUT",
+    "URL":"cikadut.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.683376,-6.893634 ]
+    },
+    "properties": {
+    "Desa":"SINDANGLAYA",
+    "URL":"sindanglaya.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.69598,-6.867503 ]
+    },
+    "properties": {
+    "Desa":"MEKARMANIK",
+    "URL":"mekarmanik.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.675552,-6.863832 ]
+    },
+    "properties": {
+    "Desa":"CIMENYAN",
+    "URL":"cimenyan.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.651054,-6.871759 ]
+    },
+    "properties": {
+    "Desa":"MEKARSALUYU",
+    "URL":"mekarsaluyu.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.648698,-6.850098 ]
+    },
+    "properties": {
+    "Desa":"CIBURIAL",
+    "URL":"ciburial.desa.id"
+    }
+  }
+]
 }
