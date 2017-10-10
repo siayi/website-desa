@@ -1099,13 +1099,6 @@
 	"provinsi": "Jawa Barat"
 },
 {
-	"title": "BAROS",
-	"url": "",
-	"kecamatan": "Arjasari",
-	"kabkot": "Bandung",
-	"provinsi": "Jawa Barat"
-},
-{
 	"title": "LEBAKWANGI",
 	"url": "http://lebakwangi.desa.id",
 	"kecamatan": "Arjasari",
@@ -1113,15 +1106,8 @@
 	"provinsi": "Jawa Barat"
 },
 {
-	"title": "WARGALUYU",
-	"url": "",
-	"kecamatan": "Arjasari",
-	"kabkot": "Bandung",
-	"provinsi": "Jawa Barat"
-},
-{
 	"title": "ARJASARI",
-	"url": "",
+	"url": "http://arjasari-bandung.desa.id/",
 	"kecamatan": "Arjasari",
 	"kabkot": "Bandung",
 	"provinsi": "Jawa Barat"
@@ -1149,7 +1135,7 @@
 },
 {
 	"title": "ANCOLMEKAR",
-	"url": "",
+	"url": "http://ancolmekar.desa.id",
 	"kecamatan": "Arjasari",
 	"kabkot": "Bandung",
 	"provinsi": "Jawa Barat"
