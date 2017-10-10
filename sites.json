@@ -1281,13 +1281,6 @@
 	"provinsi": "Jawa Barat"
 },
 {
-	"title": "GANDASARI",
-	"url": "",
-	"kecamatan": "Katapang",
-	"kabkot": "Bandung",
-	"provinsi": "Jawa Barat"
-},
-{
 	"title": "KATAPANG",
 	"url": "http://katapang.desa.id",
 	"kecamatan": "Katapang",
@@ -1295,22 +1288,15 @@
 	"provinsi": "Jawa Barat"
 },
 {
-	"title": "CILAMPENI",
-	"url": "",
-	"kecamatan": "Katapang",
-	"kabkot": "Bandung",
-	"provinsi": "Jawa Barat"
-},
-{
 	"title": "PANGAUBAN",
-	"url": "",
+	"url": "http://pangauban-katapang.desa.id",
 	"kecamatan": "Katapang",
 	"kabkot": "Bandung",
 	"provinsi": "Jawa Barat"
 },
 {
 	"title": "BANYUSARI",
-	"url": "",
+	"url": "http://banyusari.desa.id",
 	"kecamatan": "Katapang",
 	"kabkot": "Bandung",
 	"provinsi": "Jawa Barat"
@@ -1324,7 +1310,7 @@
 },
 {
 	"title": "SUKAMUKTI",
-	"url": "",
+	"url": "http://sukamukti-katapang.desa.id",
 	"kecamatan": "Katapang",
 	"kabkot": "Bandung",
 	"provinsi": "Jawa Barat"
