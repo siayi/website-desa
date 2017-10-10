@@ -981,7 +981,7 @@
 },
 {
 	"title": "CIKONENG",
-	"url": "",
+	"url": "http://cikoneng-ciparay.desa.id",
 	"kecamatan": "Ciparay",
 	"kabkot": "Bandung",
 	"provinsi": "Jawa Barat"
@@ -1016,35 +1016,28 @@
 },
 {
 	"title": "CIPARAY",
-	"url": "",
+	"url": "http://ciparay.desa.id",
 	"kecamatan": "Ciparay",
 	"kabkot": "Bandung",
 	"provinsi": "Jawa Barat"
 },
 {
 	"title": "SUMBERSARI",
-	"url": "",
+	"url": "http://sumbersari-ciparay.desa.id",
 	"kecamatan": "Ciparay",
 	"kabkot": "Bandung",
 	"provinsi": "Jawa Barat"
 },
 {
 	"title": "SARIMAHI",
-	"url": "",
+	"url": "http://sarimahi.desa.id",
 	"kecamatan": "Ciparay",
 	"kabkot": "Bandung",
 	"provinsi": "Jawa Barat"
 },
 {
 	"title": "SERANGMEKAR",
-	"url": "",
-	"kecamatan": "Ciparay",
-	"kabkot": "Bandung",
-	"provinsi": "Jawa Barat"
-},
-{
-	"title": "GUNUNGLEUTIK",
-	"url": "",
+	"url": "http://serangmekar.desa.id",
 	"kecamatan": "Ciparay",
 	"kabkot": "Bandung",
 	"provinsi": "Jawa Barat"
@@ -1052,13 +1045,6 @@
 {
 	"title": "CIHEULANG",
 	"url": "http://ciheulang.desa.id",
-	"kecamatan": "Ciparay",
-	"kabkot": "Bandung",
-	"provinsi": "Jawa Barat"
-},
-{
-	"title": "MEKARLAKSANA",
-	"url": "",
 	"kecamatan": "Ciparay",
 	"kabkot": "Bandung",
 	"provinsi": "Jawa Barat"
