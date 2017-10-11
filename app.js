@@ -3,7 +3,7 @@ $.getJSON(url, function (json) {
     count = new WebsiteCounter(json);
     $("#total").html(count.count);
     $("#kecamatan").html(count.kecamatan);
-    $("#provinsi").html(count.provinsi);
+    $("#kabkot").html(count.kabkot);
     console.log(count);
     $(".render-bar").toggle();
     tables = new WebsiteTable(json);
@@ -17,41 +17,41 @@ function WebsiteTable(data) {
   var tables = [];
   var headers = ["Desa", "Kecamatan", "Kabupaten/Kota"]
   var formatted = {
-"Aceh": [],
-"Sumatera Utara": [],
-"Sumatera Barat": [],
-"Riau": [],
-"Jambi": [],
-"Sumatera Selatan": [],
-"Bengkulu": [],
-"Lampung": [],
-"Kepulauan Bangka Belitung": [],
-"Kepulauan Riau": [],
-"DKI Jakarta": [],
-"Jawa Barat": [],
-"Jawa Tengah": [],
-"DI Yogyakarta": [],
-"Jawa Timur": [],
-"Banten": [],
-"Bali": [],
-"Nusa Tenggara Barat": [],
-"Nusa Tenggara Timur": [],
-"Kalimantan Barat": [],
-"Kalimantan Tengah": [],
-"Kalimantan Selatan": [],
-"Kalimantan Timur": [],
-"Kalimantan Utara": [],
-"Sulawesi Utara": [],
-"Sulawesi Tengah": [],
-"Sulawesi Selatan": [],
-"Sulawesi Tenggara": [],
-"Gorontalo": [],
-"Sulawesi Barat": [],
-"Maluku": [],
-"Maluku Utara": [],
-"Papua": [],
-"Papua Barat": []
-};
+  "Aceh": [],
+  "Sumatera Utara": [],
+  "Sumatera Barat": [],
+  "Riau": [],
+  "Jambi": [],
+  "Sumatera Selatan": [],
+  "Bengkulu": [],
+  "Lampung": [],
+  "Kepulauan Bangka Belitung": [],
+  "Kepulauan Riau": [],
+  "DKI Jakarta": [],
+  "Jawa Barat": [],
+  "Jawa Tengah": [],
+  "DI Yogyakarta": [],
+  "Jawa Timur": [],
+  "Banten": [],
+  "Bali": [],
+  "Nusa Tenggara Barat": [],
+  "Nusa Tenggara Timur": [],
+  "Kalimantan Barat": [],
+  "Kalimantan Tengah": [],
+  "Kalimantan Selatan": [],
+  "Kalimantan Timur": [],
+  "Kalimantan Utara": [],
+  "Sulawesi Utara": [],
+  "Sulawesi Tengah": [],
+  "Sulawesi Selatan": [],
+  "Sulawesi Tenggara": [],
+  "Gorontalo": [],
+  "Sulawesi Barat": [],
+  "Maluku": [],
+  "Maluku Utara": [],
+  "Papua": [],
+  "Papua Barat": []
+  };
 
   $.each(data, function(key,site) {
     formatted[site.provinsi].push([site.title, site.kecamatan, site.kabkot, site.url])
@@ -76,15 +76,15 @@ function WebsiteTable(data) {
 function WebsiteCounter(data) {
 
   var count= 0;
-  var kecamatan = [];
-  var agencies= [];
-  var provinsi = [];
+  var kecamatanc = [];
+  var kabupatenc = [];
+  var provinsic = [];
 
   $.each(data, function(key,site) {
     count = count + 1;
-    kecamatan = counter(kecamatan, site.kecamatan);
-    provinsi = counter(provinsi, site.provinsi);
-    agencies = counter(agencies, site.agency);
+    kecamatanc = counter(kecamatanc, site.kecamatan);
+    kabupatenc = counter(kabupatenc, site.kabkot);
+    provinsic = counter(provinsic, site.provinsi);
   });
 
   function counter(array, item) {
@@ -96,9 +96,9 @@ function WebsiteCounter(data) {
 
   return {
     'count' : count,
-    'agencies' : agencies.length,
-    'provinsi' : provinsi.length,
-    'kecamatan' : kecamatan.length
+    'kabupatenc' : kabupatenc.length,
+    'kecamatanc' : kecamatanc.length,
+    'provinsic' : provinsi.length
   }
 
 }
