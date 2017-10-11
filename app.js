@@ -50,7 +50,7 @@ function WebsiteTable(data) {
 "Maluku": [],
 "Maluku Utara": [],
 "Papua": [],
-"Papua Barat": [],
+"Papua Barat": []
 };
 
   $.each(data, function(key,site) {
