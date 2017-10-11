@@ -1,4 +1,4 @@
-url = 'http://192.168.1.1/website-desa/sites.json';
+url = 'https://siayi.github.io/website-desa/sites.json';
 $.getJSON(url, function (json) {
     count = new WebsiteCounter(json);
     $("#total").html(count.count);
