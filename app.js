@@ -83,7 +83,7 @@ function WebsiteCounter(data) {
   $.each(data, function(key,site) {
     count = count + 1;
     kecamatan = counter(kecamatan, site.kecamatan);
-    provinsi = counter(provinsi, site.kabkot);
+    provinsi = counter(provinsi, site.provinsi);
     agencies = counter(agencies, site.agency);
   });
 
