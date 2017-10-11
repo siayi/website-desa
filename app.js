@@ -1,4 +1,4 @@
-url = 'https://siayi.github.io/website-desa/sites.json';
+url = 'http://192.168.1.1/website-desa/sites.json';
 $.getJSON(url, function (json) {
     count = new WebsiteCounter(json);
     $("#total").html(count.count);
@@ -98,7 +98,7 @@ function WebsiteCounter(data) {
     'count' : count,
     'kabupatenc' : kabupatenc.length,
     'kecamatanc' : kecamatanc.length,
-    'provinsic' : provinsi.length
+    'provinsic' : provinsic.length
   }
 
 }
