@@ -2959,6 +2959,552 @@
     "kabkot": "MALINAU",
     "provinsi": "Kalimantan Utara"
   },
+  {
+    "title": "Cabang",
+    "url": "http://cabang.desa.id",
+    "kecamatan": "Bandar Surabaya",
+    "kabkot": "Lampung Tengah",
+    "provinsi": "Lampung"
+  },
+  {
+    "title": "SINDANG MARGA",
+    "url": "http://languagetechnologies.com",
+    "kecamatan": "Pulaupanggung",
+    "kabkot": "Tanggamus",
+    "provinsi": "Lampung"
+  },
+  {
+    "title": "Bali Sadhar Selatan",
+    "url": "http://banjitdesain.web.id",
+    "kecamatan": "Banjit",
+    "kabkot": "Way Kanan",
+    "provinsi": "Lampung"
+  },
+  {
+    "title": "Geser",
+    "url": "http://sem.my.id",
+    "kecamatan": "Seram Timur",
+    "kabkot": "Seram Bagian Timur",
+    "provinsi": "Maluku"
+  },
+  {
+    "title": "Desa Sawadai",
+    "url": "http://sawadaihalsel.malut.web.id",
+    "kecamatan": "Bacan Selatan",
+    "kabkot": "Halmahera Selatan",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "title": "DESA GOENG",
+    "url": "http://goenghalteng.malut.web.id",
+    "kecamatan": "Weda",
+    "kabkot": "Halmahera Tengah",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "title": "Biang",
+    "url": "http://bianghalut.malut.web.id",
+    "kecamatan": "Kao",
+    "kabkot": "Halmahera Utara",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "title": "Halmahera Utara",
+    "url": "http://kusuhalut.malut.web.id",
+    "kecamatan": "Kao",
+    "kabkot": "Halmahera Utara",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "title": "Kusu Lovra",
+    "url": "http://kusulofrahalut.malut.web.id",
+    "kecamatan": "Kao",
+    "kabkot": "Halmahera Utara",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "title": "Sasur",
+    "url": "http://sasurhalut.malut.web.id",
+    "kecamatan": "Kao",
+    "kabkot": "Halmahera Utara",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "title": "Sumber Agung",
+    "url": "http://sumberagunghalut.malut.web.id",
+    "kecamatan": "Kao",
+    "kabkot": "Halmahera Utara",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "title": "Waringin Lelewi",
+    "url": "http://waringinlelewihalut.malut.web.id",
+    "kecamatan": "Kao",
+    "kabkot": "Halmahera Utara",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "title": "Kelurahan Makassar Barat",
+    "url": "http://mksbaratternate.malut.web.id",
+    "kecamatan": "Kota Ternate Tengah",
+    "kabkot": "Ternate",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "title": "Kelurahan Takoma",
+    "url": "http://takomaternate.malut.web.id",
+    "kecamatan": "Ternate Tengah",
+    "kabkot": "Ternate",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "title": "Kelurahan Salero",
+    "url": "http://saleroternate.malut.web.id",
+    "kecamatan": "Ternate Utara",
+    "kabkot": "Ternate",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "title": "Bontokape",
+    "url": "http://bontokape.desa.id",
+    "kecamatan": "Bolo",
+    "kabkot": "Bima",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Darussalam",
+    "url": "http://infodarussalam.web.id",
+    "kecamatan": "Bolo",
+    "kabkot": "Bima",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Leu",
+    "url": "http://bontokape.desa.id",
+    "kecamatan": "Bolo",
+    "kabkot": "Bima",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Rasabou",
+    "url": "http://inforasabou.web.id",
+    "kecamatan": "Bolo",
+    "kabkot": "Bima",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Timu",
+    "url": "http://infotimu.web.id",
+    "kecamatan": "Bolo",
+    "kabkot": "Bima",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Nunggi",
+    "url": "http://desanunggi.mahadhika.or.id",
+    "kecamatan": "Wera",
+    "kabkot": "Bima",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "NISA",
+    "url": "http://desanisa.web.id",
+    "kecamatan": "Woha",
+    "kabkot": "Bima",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Pandai",
+    "url": "http://desapandai.web.id",
+    "kecamatan": "Woha",
+    "kabkot": "Bima",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Penapali",
+    "url": "http://penapali.web.id",
+    "kecamatan": "Woha",
+    "kabkot": "Bima",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Rabakodo",
+    "url": "http://rabakodo.web.id",
+    "kecamatan": "Woha",
+    "kabkot": "Bima",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Sakuru",
+    "url": "http://desasakuru.web.id",
+    "kecamatan": "Woha",
+    "kabkot": "Bima",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Tenga",
+    "url": "http://tenga.web.id",
+    "kecamatan": "Woha",
+    "kabkot": "Bima",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Tente",
+    "url": "http://desatente.web.id",
+    "kecamatan": "Woha",
+    "kabkot": "Bima",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Waduwani",
+    "url": "http://demo.sampari.net",
+    "kecamatan": "Woha",
+    "kabkot": "Bima",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "DESA NISA",
+    "url": "http://desanisa.web.id",
+    "kecamatan": "Woha",
+    "kabkot": "Bima",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Nisa",
+    "url": "http://desanisa.web.id",
+    "kecamatan": "Woha",
+    "kabkot": "Bima",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Senggigi",
+    "url": "http://senggigi.desa.id",
+    "kecamatan": "Batu Layar",
+    "kabkot": "Lombok Barat",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Senggigi",
+    "url": "http://mppldesasenggigi.byethost24.com",
+    "kecamatan": "Batulayar",
+    "kabkot": "Lombok Barat",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Gelangsar",
+    "url": "http://gelangsar.desa.id",
+    "kecamatan": "Gunungsari",
+    "kabkot": "Lombok Barat",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Ranjok",
+    "url": "http://ranjok.desa.id",
+    "kecamatan": "Gunungsari",
+    "kabkot": "Lombok Barat",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Jagaraga",
+    "url": "http://jagaraga-kuripan.com",
+    "kecamatan": "Kuripan",
+    "kabkot": "Lombok Barat",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Mekar Bersatu",
+    "url": "http://desamekarbersatu.hol.es",
+    "kecamatan": "Batukliang",
+    "kabkot": "Lombok Tengah",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Aikmel Utara",
+    "url": "http://aikmelutara.desa.id",
+    "kecamatan": "Aikmel",
+    "kabkot": "Lombok Timur",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Kalijaga Timur",
+    "url": "http://kalijagatimur.desa.id",
+    "kecamatan": "Aikmel",
+    "kabkot": "Lombok Timur",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Sukarema",
+    "url": "http://sukarema.desa.id",
+    "kecamatan": "Aikmel",
+    "kabkot": "Lombok Timur",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "TOYA",
+    "url": "http://desatoya.web.id",
+    "kecamatan": "Aikmel",
+    "kabkot": "Lombok Timur",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Masbagik Utara Baru",
+    "url": "http://masbagikutarabaru.desa.id",
+    "kecamatan": "Masbagik",
+    "kabkot": "Lombok Timur",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Montong Beter",
+    "url": "http://montongbeter.web.id",
+    "kecamatan": "Sakra Barat",
+    "kabkot": "Lombok Timur",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Embung Raja",
+    "url": "http://embungraja.desa.id",
+    "kecamatan": "Terara",
+    "kabkot": "Lombok Timur",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Rarang Selatan",
+    "url": "http://rarangselatan.desa.id",
+    "kecamatan": "Terara",
+    "kabkot": "Lombok Timur",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Sukadana",
+    "url": "http://sukadana-lomboktimur.web.id",
+    "kecamatan": "Terara",
+    "kabkot": "Lombok Timur",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "SURADADI",
+    "url": "http://suradadi.desa.id",
+    "kecamatan": "Terara",
+    "kabkot": "Lombok Timur",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Labuhan Sumbawa",
+    "url": "http://labuhansumbawa.com",
+    "kecamatan": "Labuhan Badas",
+    "kabkot": "Sumbawa",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Jorok",
+    "url": "http://jorok.desa.id",
+    "kecamatan": "Utan",
+    "kabkot": "Sumbawa",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "title": "Lewoawang",
+    "url": "http://desalewoawang.com",
+    "kecamatan": "Ile Bura",
+    "kabkot": "Flores Timur",
+    "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+    "title": "Hadakewa",
+    "url": "http://hadakewa.desa.id",
+    "kecamatan": "Lebatukan",
+    "kabkot": "Lembata",
+    "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+    "title": "Oelunggu",
+    "url": "http://desa.rnwebdev.com",
+    "kecamatan": "Lobalain",
+    "kabkot": "Rote Ndao",
+    "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+    "title": "Nambo Padang",
+    "url": "http://kelurahannambopadang.id",
+    "kecamatan": "Luwuk",
+    "kabkot": "Banggai",
+    "provinsi": "Sulawesi Tengah"
+  },
+  {
+    "title": "Yuwanain",
+    "url": "http://kampungyuwanain.com",
+    "kecamatan": "Arso",
+    "kabkot": "Keerom",
+    "provinsi": "Papua"
+  },
+  {
+    "title": "Jaifuri",
+    "url": "http://kampungjaifuri.com",
+    "kecamatan": "Skanto",
+    "kabkot": "Keerom",
+    "provinsi": "Papua"
+  },
+  {
+    "title": "Wulukubun",
+    "url": "http://kampungwulukubun.com",
+    "kecamatan": "Skanto",
+    "kabkot": "Keerom",
+    "provinsi": "Papua"
+  },
+  {
+    "title": "Padang Raharja",
+    "url": "http://exsa-computer.org",
+    "kecamatan": "Malind",
+    "kabkot": "Merauke",
+    "provinsi": "Papua"
+  },
+  {
+    "title": "Marga Mulya",
+    "url": "http://margamulya1.com",
+    "kecamatan": "Rambah Samo",
+    "kabkot": "Rokan Hulu",
+    "provinsi": "Riau"
+  },
+  {
+    "title": "Kalaena Kiri",
+    "url": "http://kalaena-kiri.daftarhosting.id",
+    "kecamatan": "Kalaena",
+    "kabkot": "Luwu Timur",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "title": "Bukit Jaya",
+    "url": "http://desabukitjayabanggai.id",
+    "kecamatan": "Toili",
+    "kabkot": "Banggai",
+    "provinsi": "Sulawesi Tengah"
+  },
+  {
+    "title": "Pongkalaero",
+    "url": "http://pongkalaerokabaena.com",
+    "kecamatan": "Kabaena Selatan",
+    "kabkot": "Bombana",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "title": "Tangkeno",
+    "url": "http://desawisatatangkeno.com",
+    "kecamatan": "Kabaena Tengah",
+    "kabkot": "Bombana",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "title": "Kalaero",
+    "url": "http://kalaerolantari.web.id",
+    "kecamatan": "Lantari Jaya",
+    "kabkot": "Bombana",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "title": "Tinabite",
+    "url": "http://tinabitelantari.web.id",
+    "kecamatan": "Lantari Jaya",
+    "kabkot": "Bombana",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "title": "Lamuru",
+    "url": "http://lamurumatausu.web.id",
+    "kecamatan": "Matausu",
+    "kabkot": "Bombana",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "title": "Barangka",
+    "url": "http://barangka.com",
+    "kecamatan": "Kapontori",
+    "kabkot": "Buton",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "title": "Sipakainge",
+    "url": "http://desa-sipakainge.com",
+    "kecamatan": "Pakue",
+    "kabkot": "Kolaka Utara",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "title": "Lahimbua",
+    "url": "http://lahimbua.web.id",
+    "kecamatan": "Andowia",
+    "kabkot": "Konawe Utara",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "title": "Motoling",
+    "url": "http://simdes.desasulut.net",
+    "kecamatan": "Motoling",
+    "kabkot": "Minahasa selatan",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "title": "Motoling Dua",
+    "url": "http://simdes.desasulut.net",
+    "kecamatan": "Motoling",
+    "kabkot": "Minahasa Selatan",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "title": "Motoling Mawale",
+    "url": "http://simdes.desasulut.net",
+    "kecamatan": "Motoling",
+    "kabkot": "Minahasa Selatan",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "title": "Padang Laweh",
+    "url": "http://nagaripadanglaweh.desaonline.web.id",
+    "kecamatan": "Sungai Puar",
+    "kabkot": "Agam",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "title": "Jiwa Baru",
+    "url": "http://jiwabaru.web.id",
+    "kecamatan": "Lubai",
+    "kabkot": "Muara Enim",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "title": "Pangkalan Tarum",
+    "url": "http://pangkalantarum.desa-id.com",
+    "kecamatan": "BTS Ulu",
+    "kabkot": "Musi Rawas",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "title": "Sungai Naik",
+    "url": "http://sungainaik.desa-id.com",
+    "kecamatan": "BTS Ulu",
+    "kabkot": "Musi Rawas",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "title": "Kulasar",
+    "url": "http://kulasar.com",
+    "kecamatan": "Silinda",
+    "kabkot": "Serdang Bedagai",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "title": "Pagar Manik",
+    "url": "http://pagarmanik.com",
+    "kecamatan": "Silinda",
+    "kabkot": "Serdang Bedagai",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "title": "Silinda",
+    "url": "http://desasilinda.com",
+    "kecamatan": "Silinda",
+    "kabkot": "Serdang Bedagai",
+    "provinsi": "Sumatera Utara"
+  },
 {
 	"title": "Tarean",
 	"url": "http://desatarean.com",
