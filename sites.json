@@ -2546,6 +2546,342 @@
 	"kabkot": "Wonosobo",
 	"provinsi": "Jawa Tengah"
 },
+  {
+    "title": "MACANPUTIH",
+    "url": "http://macanputihbanyuwangi.com",
+    "kecamatan": "Kabat",
+    "kabkot": "Banyuwangi",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "LOREJO",
+    "url": "http://lorejo.desa-tumpakoyot.com",
+    "kecamatan": "Bakung",
+    "kabkot": "Blitar",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "TUMPAK OYOT",
+    "url": "http://home.desa-tumpakoyot.com",
+    "kecamatan": "Bakung",
+    "kabkot": "Blitar",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Kauman",
+    "url": "http://kauman-bojonegoro.desa.id",
+    "kecamatan": "Bojonegoro",
+    "kabkot": "Bojonegoro",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Temayang",
+    "url": "http://temayang.desa.id",
+    "kecamatan": "Temayang",
+    "kabkot": "Bojonegoro",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Kalibendo",
+    "url": "http://demo-sid.lumajangkab.go.id",
+    "kecamatan": "Pasirian",
+    "kabkot": "Lumajang",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Ledok Tempuro",
+    "url": "http://demo-sid.lumajangkab.go.id",
+    "kecamatan": "Randuagung",
+    "kabkot": "Lumajang",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Dilem",
+    "url": "http://dilem.id",
+    "kecamatan": "Kepanjen",
+    "kabkot": "Malang",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Dempel",
+    "url": "http://desadempel.id",
+    "kecamatan": "Geneng",
+    "kabkot": "Ngawi",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "BENDO",
+    "url": "http://bendo.web.id",
+    "kecamatan": "PADAS",
+    "kabkot": "Ngawi",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "JATIMALANG",
+    "url": "http://desa-jatimalang.com",
+    "kecamatan": "Arjosari",
+    "kabkot": "Pacitan",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Kraton",
+    "url": "http://kraton.desaonline.web.id",
+    "kecamatan": "Kraton",
+    "kabkot": "Pasuruan",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Mlaten",
+    "url": "http://desamlaten.nguling.id",
+    "kecamatan": "Nguling",
+    "kabkot": "Pasuruan",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Nguling",
+    "url": "http://desa.nguling.id",
+    "kecamatan": "Nguling",
+    "kabkot": "Pasuruan",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Sedarum",
+    "url": "http://nguling.desaonline.web.id",
+    "kecamatan": "Nguling",
+    "kabkot": "Pasuruan",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Watestani",
+    "url": "http://desawatestani.nguling.id",
+    "kecamatan": "Nguling",
+    "kabkot": "Pasuruan",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Glinggang",
+    "url": "http://glinggang.desa.id",
+    "kecamatan": "Sampung",
+    "kabkot": "Ponorogo",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Tempuran",
+    "url": "http://sidtempuran.rf.gd",
+    "kecamatan": "Sawoo",
+    "kabkot": "Ponorogo",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "SEKETI",
+    "url": "http://seketi.web.id",
+    "kecamatan": "Balongbendo",
+    "kabkot": "Sidoarjo",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "WATESARI",
+    "url": "http://watesari.web.id",
+    "kecamatan": "Balongbendo",
+    "kabkot": "Sidoarjo",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "CANGKRINGTURI",
+    "url": "http://cangkringturi.com",
+    "kecamatan": "Prambon",
+    "kabkot": "Sidoarjo",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Bangilan",
+    "url": "http://bangilan.bangilan.com",
+    "kecamatan": "Bangilan",
+    "kabkot": "Tuban",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Banjarworo",
+    "url": "http://banjarworo.bangilan.com",
+    "kecamatan": "Bangilan",
+    "kabkot": "Tuban",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Bate",
+    "url": "http://bate.bangilan.com",
+    "kecamatan": "Bangilan",
+    "kabkot": "Tuban",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Kablukan",
+    "url": "http://kablukan.bangilan.com",
+    "kecamatan": "Bangilan",
+    "kabkot": "Tuban",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Kedungharjo",
+    "url": "http://kedungharjo.bangilan.com",
+    "kecamatan": "Bangilan",
+    "kabkot": "Tuban",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Kedungjambangan",
+    "url": "http://kedungjambangan.bangilan.com",
+    "kecamatan": "Bangilan",
+    "kabkot": "Tuban",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Kedungmulyo",
+    "url": "http://kedungmulyo.bangilan.com",
+    "kecamatan": "Bangilan",
+    "kabkot": "Tuban",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Klakeh",
+    "url": "http://klakeh.bangilan.com",
+    "kecamatan": "Bangilan",
+    "kabkot": "Tuban",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Kumpulrejo",
+    "url": "http://kumpulrejo.bangilan.com",
+    "kecamatan": "Bangilan",
+    "kabkot": "Tuban",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Ngrojo",
+    "url": "http://ngrojo.bangilan.com",
+    "kecamatan": "Bangilan",
+    "kabkot": "Tuban",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Sidodadi",
+    "url": "http://sidodadi.bangilan.com",
+    "kecamatan": "Bangilan",
+    "kabkot": "Tuban",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Sidokumpul",
+    "url": "http://sidokumpul.bangilan.com",
+    "kecamatan": "Bangilan",
+    "kabkot": "Tuban",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Sidotentrem",
+    "url": "http://sidotentrem.bangilan.com",
+    "kecamatan": "Bangilan",
+    "kabkot": "Tuban",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Weden",
+    "url": "http://weden.bangilan.com",
+    "kecamatan": "Bangilan",
+    "kabkot": "Tuban",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Bendonglateng",
+    "url": "http://bendonglateng.desa.id",
+    "kecamatan": "Kenduruan",
+    "kabkot": "Tuban",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Jamprong",
+    "url": "http://jamprong.desa.id",
+    "kecamatan": "Kenduruan",
+    "kabkot": "Tuban",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Jlodro",
+    "url": "http://jlodro.desa.id",
+    "kecamatan": "Kenduruan",
+    "kabkot": "Tuban",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Sidohasri",
+    "url": "http://sidohasri.desa.id",
+    "kecamatan": "Kenduruan",
+    "kabkot": "Tuban",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Sidomukti",
+    "url": "http://sidomukti.desa.id",
+    "kecamatan": "Kenduruan",
+    "kabkot": "Tuban",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Sidorejo",
+    "url": "http://sidorejo-kenduruan.desa.id",
+    "kecamatan": "Kenduruan",
+    "kabkot": "Tuban",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Sokogrenjeng",
+    "url": "http://sokogrenjeng.desa.id",
+    "kecamatan": "Kenduruan",
+    "kabkot": "Tuban",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "SOKOGUNUNG",
+    "url": "http://sokogunung.desa.id",
+    "kecamatan": "Kenduruan",
+    "kabkot": "Tuban",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Tawaran",
+    "url": "http://tawaran.desa.id",
+    "kecamatan": "Kenduruan",
+    "kabkot": "Tuban",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Leran Kulon",
+    "url": "http://lerankulon-palang.desa.id",
+    "kecamatan": "Palang",
+    "kabkot": "Tuban",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Kembangbilo",
+    "url": "http://kembangbilo.desa.id",
+    "kecamatan": "Tuban",
+    "kabkot": "Tuban",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Sumurgung",
+    "url": "http://sumurgung.desa.id",
+    "kecamatan": "Tuban",
+    "kabkot": "Tuban",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "title": "Mrutuk",
+    "url": "http://mrutuk-widang.desa.id",
+    "kecamatan": "Widang",
+    "kabkot": "Tuban",
+    "provinsi": "Jawa Timur"
+  },
 {
 	"title": "Tarean",
 	"url": "http://desatarean.com",
