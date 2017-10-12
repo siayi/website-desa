@@ -1,19 +1,18 @@
-url = 'https://siayi.github.io/website-desa/sites.json';
+  url = 'https://siayi.github.io/website-desa/sites.json';
 $.getJSON(url, function (json) {
-    count = new WebsiteCounter(json);
-    $("#total").html(count.count);
-    $("#kecamatan").html(count.kecamatan);
-    $("#kabkot").html(count.kabkot);
+    count = new WEBCounter(json);
+    $("#totalc").html(count.count);
+    $("#kecamatanc").html(count.kecamatanc);
+    $("#kabupatenc").html(count.kabupatenc);
     console.log(count);
     $(".render-bar").toggle();
-    tables = new WebsiteTable(json);
+    tables = new WEBTable(json);
     $.each(tables, function(key,table) {
       $("#tables").append(table);
     });
 });
 
-
-function WebsiteTable(data) {
+function WEBTable(data) {
   var tables = [];
   var headers = ["Desa", "Kecamatan", "Kabupaten/Kota"]
   var formatted = {
@@ -53,10 +52,10 @@ function WebsiteTable(data) {
   "Papua Barat": []
   };
 
-  $.each(data, function(key,site) {
+    $.each(data, function(key,site) {
     formatted[site.provinsi].push([site.title, site.kecamatan, site.kabkot, site.url])
   });
-
+  
   $.each(formatted, function(provinsi,rows) {
    var table = '<h3>' + provinsi + '</h3><table class="table table-bordered table-striped table-condensed">';
    table = table + '<tr>';
@@ -73,7 +72,7 @@ function WebsiteTable(data) {
 
   return tables;
 }
-function WebsiteCounter(data) {
+function WEBCounter(data) {
 
   var count= 0;
   var kecamatanc = [];
