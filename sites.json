@@ -2086,6 +2086,209 @@
     "provinsi": "Jawa Barat"
   },
   {
+    "title": "Wilanagara",
+    "url": "http://desawilanagara.com",
+    "kecamatan": "Luragung",
+    "kabkot": "Kuningan",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "title": "Jambar",
+    "url": "http://desajambar.com",
+    "kecamatan": "Nusaherang",
+    "kabkot": "Kuningan",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "title": "Sumbakeling",
+    "url": "http://desasumbakeling.com",
+    "kecamatan": "Pancalang",
+    "kabkot": "Kuningan",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "title": "Kadipaten",
+    "url": "http://languagetechnologies.com",
+    "kecamatan": "Kadipaten",
+    "kabkot": "Majalengka",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "title": "Cigelam",
+    "url": "http://cigelam.desa.id",
+    "kecamatan": "Babakancikao",
+    "kabkot": "Purwakarta",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "title": "Jagamukti",
+    "url": "http://desajagamukti.web.id",
+    "kecamatan": "Surade",
+    "kabkot": "Sukabumi",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "title": "SIGEBLOG",
+    "url": "http://sigeblog.desa.id",
+    "kecamatan": "BANJARMANGU",
+    "kabkot": "BANJARNEGARA",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "title": "Banjarnegara",
+    "url": "http://sid-2017.ga",
+    "kecamatan": "Banjarnegara",
+    "kabkot": "Banjarnegara",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "title": "Blambangan",
+    "url": "http://blambangan-banjarnegara.desa.id",
+    "kecamatan": "Bawang",
+    "kabkot": "Banjarnegara",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "title": "Sered",
+    "url": "http://sered-banjarnegara.desa.id",
+    "kecamatan": "Madukara",
+    "kabkot": "Banjarnegara",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "title": "Bantar",
+    "url": "http://desabantar.web.id",
+    "kecamatan": "Wanayasa",
+    "kabkot": "Banjarnegara",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "title": "Karanggatak",
+    "url": "http://karanggatak.desa.id",
+    "kecamatan": "Klego",
+    "kabkot": "Boyolali",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "title": "Blubuk",
+    "url": "http://blubuk.desaku.top",
+    "kecamatan": "Losari",
+    "kabkot": "Brebes",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "title": "Dukuh salam",
+    "url": "http://dukuhsalam.desaku.top",
+    "kecamatan": "Losari",
+    "kabkot": "Brebes",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "title": "Karang Dempel",
+    "url": "http://karangdempel.desaku.top",
+    "kecamatan": "Losari",
+    "kabkot": "Brebes",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "title": "Kedungneng",
+    "url": "http://opensid.kedungneng.desa.id",
+    "kecamatan": "Losari",
+    "kabkot": "Brebes",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "title": "Losari Lor",
+    "url": "http://desalosarilor.desaku.top",
+    "kecamatan": "Losari",
+    "kabkot": "Brebes",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "title": "Prapag Lor",
+    "url": "http://prapaglor.desaku.top",
+    "kecamatan": "Losari",
+    "kabkot": "Brebes",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "title": "Randusari",
+    "url": "http://randusari.desaku.top",
+    "kecamatan": "Losari",
+    "kabkot": "Brebes",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "title": "Cisumur",
+    "url": "http://cisumur.desa.id",
+    "kecamatan": "Gandrungmangu",
+    "kabkot": "Cilacap",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "title": "Mambak",
+    "url": "http://test.jeparakab.go.id",
+    "kecamatan": "Pakis Aji",
+    "kabkot": "Jepara",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "title": "Kalijirek",
+    "url": "http://kalijirek-keckebumen.kebumenkab.go.id",
+    "kecamatan": "Kebumen",
+    "kabkot": "Kebumen",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "title": "Ketitang",
+    "url": "http://desaketitang.klatenkab.go.id",
+    "kecamatan": "Juwiring",
+    "kabkot": "Klaten",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "title": "Nglinggi",
+    "url": "http://desanglinggi.com",
+    "kecamatan": "Klaten Selatan",
+    "kabkot": "Klaten",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "title": "Pandes",
+    "url": "http://sid.pandeswedi.com",
+    "kecamatan": "Wedi",
+    "kabkot": "Klaten",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "title": "Banyuroto",
+    "url": "http://desabanyuroto.magelangkab.go.id",
+    "kecamatan": "Sawangan",
+    "kabkot": "Magelang",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "title": "Jati",
+    "url": "http://desajati.com",
+    "kecamatan": "Sawangan",
+    "kabkot": "Magelang",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "title": "Koripandriyo",
+    "url": "http://koripandriyo.net",
+    "kecamatan": "Gabus",
+    "kabkot": "Pati",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "title": "Kajen",
+    "url": "http://kajen.or.id",
+    "kecamatan": "Margoyoso",
+    "kabkot": "Pati",
+    "provinsi": "Jawa Tengah"
+  },
+  {
     "title": "Tarean",
     "url": "http://desatarean.com",
     "kecamatan": "Silinda",
