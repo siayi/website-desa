@@ -2981,6 +2981,17 @@
     "Desa":"Kampung Belakang",
     "URL":"kampungbelakang.desa.id"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.7687194,3.2363506 ]
+    },
+    "properties": {
+    "Desa":"Tarean",
+    "URL":"desatarean.com"
+    }
   }
 ]
 }
