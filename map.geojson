@@ -2992,6 +2992,17 @@
     "Desa":"Tarean",
     "URL":"desatarean.com"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.343332,-8.513407 ]
+    },
+    "properties": {
+    "Desa":"Bunutin",
+    "URL":"bunutin.web.id"
+    }
   }
 ]
 }
