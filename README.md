@@ -1,11 +1,7 @@
-# Website Desa
-Daftar Website Desa di seluruh Indonesia. Jangan ragu untuk [mengirimkan issue](https://github.com/siayi/website-desa/issues/new) agar bisa menambahkan Website Desa yang Anda ketahui yang masuk ke dalam daftar ini.
-
-## Daftar
-
 ### Aceh
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 | [Kampung Belakang](http://kampungbelakang.desa.id) | Johan Pahlawan | Aceh Barat |
 | [Geulumpang Payong](http://geulumpangpayong.desa.id) | Blangpidie | Aceh Barat Daya |
 | [Gudang](http://gudang.desa.id) | Blangpidie | Aceh Barat Daya |
@@ -20,6 +16,7 @@ Daftar Website Desa di seluruh Indonesia. Jangan ragu untuk [mengirimkan issue](
 ### Sumatera Utara
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 | [Kulasar](http://kulasar.com) | Silinda | Serdang Bedagai |
 | [Pagar Manik](http://pagarmanik.com) | Silinda | Serdang Bedagai |
 | [Silinda](http://desasilinda.com) | Silinda | Serdang Bedagai |
@@ -28,16 +25,19 @@ Daftar Website Desa di seluruh Indonesia. Jangan ragu untuk [mengirimkan issue](
 ### Sumatera Barat
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 | [Padang Laweh](http://nagaripadanglaweh.desaonline.web.id) | Sungai Puar | Agam |
 
 ### Riau
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 | [Marga Mulya](http://margamulya1.com) | Rambah Samo | Rokan Hulu |
 
 ### Jambi
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 | [Daya Murni](http://dayamurni.desa.id) | Pelepat Ilir | Bungo |
 | [Lembah Kuamang](http://lembahkuamang.desa.id) | Pelepat Ilir | Bungo |
 | [Purwasari](http://purwasari.desa.id) | Pelepat Ilir | Bungo |
@@ -45,6 +45,7 @@ Daftar Website Desa di seluruh Indonesia. Jangan ragu untuk [mengirimkan issue](
 ### Sumatera Selatan
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 | [Jiwa Baru](http://jiwabaru.web.id) | Lubai | Muara Enim |
 | [Pangkalan Tarum](http://pangkalantarum.desa-id.com) | BTS Ulu | Musi Rawas |
 | [Sungai Naik](http://sungainaik.desa-id.com) | BTS Ulu | Musi Rawas |
@@ -52,12 +53,14 @@ Daftar Website Desa di seluruh Indonesia. Jangan ragu untuk [mengirimkan issue](
 ### Bengkulu
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 | [Tangsi Duren](http://desa-tangsiduren.com) | Kabawetan | Kepahiang |
 | [Gajah Mati](http://desagajahmati.com) | Sungai Rumbai | Mukomuko |
 
 ### Lampung
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 | [Cabang](http://cabang.desa.id) | Bandar Surabaya | Lampung Tengah |
 | [SINDANG MARGA](http://languagetechnologies.com) | Pulaupanggung | Tanggamus |
 | [Bali Sadhar Selatan](http://banjitdesain.web.id) | Banjit | Way Kanan |
@@ -65,18 +68,22 @@ Daftar Website Desa di seluruh Indonesia. Jangan ragu untuk [mengirimkan issue](
 ### Kepulauan Bangka Belitung
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 
 ### Kepulauan Riau
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 
 ### DKI Jakarta
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 
 ### Jawa Barat
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 | [PANUNDAAN](http://panundaan.desa.id) | Ciwidey | Bandung |
 | [CIWIDEY](http://ciwidey.desa.id) | Ciwidey | Bandung |
 | [PANYOCOKAN](http://panyocokan.desa.id) | Ciwidey | Bandung |
@@ -358,6 +365,7 @@ Daftar Website Desa di seluruh Indonesia. Jangan ragu untuk [mengirimkan issue](
 ### Jawa Tengah
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 | [SIGEBLOG](http://sigeblog.desa.id) | BANJARMANGU | BANJARNEGARA |
 | [Banjarnegara](http://sid-2017.ga) | Banjarnegara | Banjarnegara |
 | [Blambangan](http://blambangan-banjarnegara.desa.id) | Bawang | Banjarnegara |
@@ -422,12 +430,14 @@ Daftar Website Desa di seluruh Indonesia. Jangan ragu untuk [mengirimkan issue](
 ### DI Yogyakarta
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 | [Tawangsari](http://tawangsari.desa.id) | Pengasih | Kulonprogo |
 | [Karang Taruna Desa Sardonoharjo](http://karangtarunasardonoharjo.id) | Ngaglik | Sleman |
 
 ### Jawa Timur
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 | [MACANPUTIH](http://macanputihbanyuwangi.com) | Kabat | Banyuwangi |
 | [LOREJO](http://lorejo.desa-tumpakoyot.com) | Bakung | Blitar |
 | [TUMPAK OYOT](http://home.desa-tumpakoyot.com) | Bakung | Blitar |
@@ -480,6 +490,7 @@ Daftar Website Desa di seluruh Indonesia. Jangan ragu untuk [mengirimkan issue](
 ### Banten
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 | [Desa Citeras](http://sidciteras.16mb.com) | Rangkasbitung | Lebak |
 | [Nambo Ilir](http://sid.desanamboilir.info) | Kibin | Serang |
 | [Barugbug](http://desabarugbug.com) | Padarincang | Serang |
@@ -487,6 +498,7 @@ Daftar Website Desa di seluruh Indonesia. Jangan ragu untuk [mengirimkan issue](
 ### Bali
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 | [Bunutin](http://bunutin.web.id) | Bangli | Bangli |
 | [TAMANBALI](http://guliangkangin.or.id) | Bangli | Bangli |
 | [Demulih](http://gayafusion.com) | Susut | Bangli |
@@ -497,6 +509,7 @@ Daftar Website Desa di seluruh Indonesia. Jangan ragu untuk [mengirimkan issue](
 ### Nusa Tenggara Barat
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 | [Bontokape](http://bontokape.desa.id) | Bolo | Bima |
 | [Darussalam](http://infodarussalam.web.id) | Bolo | Bima |
 | [Leu](http://bontokape.desa.id) | Bolo | Bima |
@@ -535,6 +548,7 @@ Daftar Website Desa di seluruh Indonesia. Jangan ragu untuk [mengirimkan issue](
 ### Nusa Tenggara Timur
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 | [Lewoawang](http://desalewoawang.com) | Ile Bura | Flores Timur |
 | [Hadakewa](http://hadakewa.desa.id) | Lebatukan | Lembata |
 | [Oelunggu](http://desa.rnwebdev.com) | Lobalain | Rote Ndao |
@@ -542,6 +556,7 @@ Daftar Website Desa di seluruh Indonesia. Jangan ragu untuk [mengirimkan issue](
 ### Kalimantan Barat
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 | [Miau Merah](http://miaumerah.desa.id) | Silat Hilir | Kapuas Hulu |
 | [Semelagi Besar](http://semelagibesar.cu.cc) | Selakau | Sambas |
 | [Sejiram](http://desasejiram.id) | Tebas | Sambas |
@@ -549,10 +564,12 @@ Daftar Website Desa di seluruh Indonesia. Jangan ragu untuk [mengirimkan issue](
 ### Kalimantan Tengah
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 
 ### Kalimantan Selatan
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 | [Awang Bangkal Barat](http://awangbangkalbarat.info) | Karang Intan | Banjar |
 | [Simpang Empat](http://simpang4kh.info) | Kertak Hanyar | Banjar |
 | [Lok Baintan](http://lokbaintan.info) | Sungai Tabuk | Banjar |
@@ -561,6 +578,7 @@ Daftar Website Desa di seluruh Indonesia. Jangan ragu untuk [mengirimkan issue](
 ### Kalimantan Timur
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 | [Merancang Ilir](http://merancangilir.com) | Gunung Tabur | Berau |
 | [Karangan Hilir](http://karanganhilir.desa.id) | Karangan | Kutai Timur |
 | [Pasir Belengkong](http://pasirbelengkong.desa.id) | Paser Belengkong | Paser |
@@ -568,11 +586,13 @@ Daftar Website Desa di seluruh Indonesia. Jangan ragu untuk [mengirimkan issue](
 ### Kalimantan Utara
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 | [LIDUNG KEMENCI](http://semi-webdesain.com) | MENTARANG | MALINAU |
 
 ### Sulawesi Utara
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 | [Motoling](http://simdes.desasulut.net) | Motoling | Minahasa selatan |
 | [Motoling Dua](http://simdes.desasulut.net) | Motoling | Minahasa Selatan |
 | [Motoling Mawale](http://simdes.desasulut.net) | Motoling | Minahasa Selatan |
@@ -580,17 +600,20 @@ Daftar Website Desa di seluruh Indonesia. Jangan ragu untuk [mengirimkan issue](
 ### Sulawesi Tengah
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 | [Nambo Padang](http://kelurahannambopadang.id) | Luwuk | Banggai |
 | [Bukit Jaya](http://desabukitjayabanggai.id) | Toili | Banggai |
 
 ### Sulawesi Selatan
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 | [Kalaena Kiri](http://kalaena-kiri.daftarhosting.id) | Kalaena | Luwu Timur |
 
 ### Sulawesi Tenggara
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 | [Pongkalaero](http://pongkalaerokabaena.com) | Kabaena Selatan | Bombana |
 | [Tangkeno](http://desawisatatangkeno.com) | Kabaena Tengah | Bombana |
 | [Kalaero](http://kalaerolantari.web.id) | Lantari Jaya | Bombana |
@@ -603,20 +626,24 @@ Daftar Website Desa di seluruh Indonesia. Jangan ragu untuk [mengirimkan issue](
 ### Gorontalo
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 | [Titidu](http://sidekatitidu.com) | Kwandang | Gorontalo Utara |
 
 ### Sulawesi Barat
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 
 ### Maluku
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 | [Geser](http://sem.my.id) | Seram Timur | Seram Bagian Timur |
 
 ### Maluku Utara
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 | [Desa Sawadai](http://sawadaihalsel.malut.web.id) | Bacan Selatan | Halmahera Selatan |
 | [DESA GOENG](http://goenghalteng.malut.web.id) | Weda | Halmahera Tengah |
 | [Biang](http://bianghalut.malut.web.id) | Kao | Halmahera Utara |
@@ -632,6 +659,7 @@ Daftar Website Desa di seluruh Indonesia. Jangan ragu untuk [mengirimkan issue](
 ### Papua
 
 | Desa | Kecamatan | Kabupaten/Kota |
+|----|----|----|
 | [Yuwanain](http://kampungyuwanain.com) | Arso | Keerom |
 | [Jaifuri](http://kampungjaifuri.com) | Skanto | Keerom |
 | [Wulukubun](http://kampungwulukubun.com) | Skanto | Keerom |
@@ -640,7 +668,4 @@ Daftar Website Desa di seluruh Indonesia. Jangan ragu untuk [mengirimkan issue](
 ### Papua Barat
 
 | Desa | Kecamatan | Kabupaten/Kota |
-
-
-
-
+|----|----|----|
