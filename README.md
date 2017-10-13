@@ -1,3 +1,7 @@
+-# Website Desa		
+ -Daftar Website Desa di seluruh Indonesia. Jangan ragu untuk [mengirimkan issue](https://github.com/siayi/website-desa/issues/new) agar bisa menambahkan Website Desa yang Anda ketahui yang masuk ke dalam daftar ini.
+
+ 
 ### Aceh
 
 | Desa | Kecamatan | Kabupaten/Kota |
@@ -129,7 +133,7 @@
 | [CIBEUREUM](http://cibeureum.desa.id) | Kertasari | Bandung |
 | [CIHAWUK](http://cihawuk.desa.id) | Kertasari | Bandung |
 | [SUKAPURA](http://sukapura-kertasari.desa.id) | Kertasari | Bandung |
-| [Resmi Tingal](http://resmi tingal.desa.id) | Kertasari | Bandung |
+| [Resmi Tingal](http://resmitingal.desa.id/) | Kertasari | Bandung |
 | [CIKITU](http://cikitu.desa.id) | Pacet | Bandung |
 | [GIRIMULYA](http://girimulya.desa.id) | Pacet | Bandung |
 | [SUKARAME](http://sukarame-pacet.desa.id) | Pacet | Bandung |
