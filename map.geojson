@@ -3003,6 +3003,3018 @@
     "Desa":"Bunutin",
     "URL":"bunutin.web.id"
     }
-  }
+  },
+  {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [107.669166,
+			-6.983426]
+		},
+		"properties": {
+			"Desa": "Geulumpang Payong",
+			"URL": "geulumpangpayong.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [107.687202,
+			-6.98383]
+		},
+		"properties": {
+			"Desa": "Gudang",
+			"URL": "gudang.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [107.714344,
+			-6.960694]
+		},
+		"properties": {
+			"Desa": "Kuta Bahagia",
+			"URL": "kutabahagia.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [107.729187,
+			-6.939135]
+		},
+		"properties": {
+			"Desa": "Alue Pisang",
+			"URL": "aluepisang.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [107.737289,
+			-6.942128]
+		},
+		"properties": {
+			"Desa": "Lhueng Geulumpang",
+			"URL": "lhuenggeulumpang.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [107.7201944,
+			-6.9364452]
+		},
+		"properties": {
+			"Desa": "Kuta Bak Drien",
+			"URL": "kutabakdrien.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [107.753927,
+			-6.933059]
+		},
+		"properties": {
+			"Desa": "Blang Kolak II",
+			"URL": "blangkolakdua.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [107.735087,
+			-6.922763]
+		},
+		"properties": {
+			"Desa": "Tunong Ulee Gajah",
+			"URL": "tunonguleegajah.desaonline.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [107.69926,
+			-6.886135]
+		},
+		"properties": {
+			"Desa": "Gampong Mulia",
+			"URL": "gampongmulia.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [107.713482,
+			-6.884706]
+		},
+		"properties": {
+			"Desa": "TAMANBALI",
+			"URL": "guliangkangin.or.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [107.6934055,
+			-6.856896]
+		},
+		"properties": {
+			"Desa": "Demulih",
+			"URL": "gayafusion.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [107.729141,
+			-6.890203]
+		},
+		"properties": {
+			"Desa": "Banyupoh",
+			"URL": "banyupoh.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [107.737453,
+			-6.895061]
+		},
+		"properties": {
+			"Desa": "Bengkala",
+			"URL": "kem-kolokbengkala.net"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [107.670875,
+			-6.885459]
+		},
+		"properties": {
+			"Desa": "Galungan",
+			"URL": "sid-latihan.16mb.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [107.674217,
+			-6.888838]
+		},
+		"properties": {
+			"Desa": "Desa Citeras",
+			"URL": "sidciteras.16mb.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [107.683376,
+			-6.893634]
+		},
+		"properties": {
+			"Desa": "Nambo Ilir",
+			"URL": "sid.desanamboilir.info"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [107.69598,
+			-6.867503]
+		},
+		"properties": {
+			"Desa": "Barugbug",
+			"URL": "desabarugbug.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [107.675552,
+			-6.863832]
+		},
+		"properties": {
+			"Desa": "Tangsi Duren",
+			"URL": "desa-tangsiduren.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [107.651054,
+			-6.871759]
+		},
+		"properties": {
+			"Desa": "Gajah Mati",
+			"URL": "desagajahmati.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [107.648698,
+			-6.850098]
+		},
+		"properties": {
+			"Desa": "Tawangsari",
+			"URL": "tawangsari.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [96.12884,
+			4.136898]
+		},
+		"properties": {
+			"Desa": "Karang Taruna Desa Sardonoharjo",
+			"URL": "karangtarunasardonoharjo.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [98.7687194,
+			3.2363506]
+		},
+		"properties": {
+			"Desa": "Titidu",
+			"URL": "sidekatitidu.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [115.343332,
+			-8.513407]
+		},
+		"properties": {
+			"Desa": "Daya Murni",
+			"URL": "dayamurni.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [102.3399875,
+			-1.6555338]
+		},
+		"properties": {
+			"Desa": "Lembah Kuamang",
+			"URL": "lembahkuamang.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [102.3021454,
+			-1.6273134]
+		},
+		"properties": {
+			"Desa": "Purwasari",
+			"URL": "purwasari.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [107.5974322,
+			-6.8319066]
+		},
+		"properties": {
+			"Desa": "Gudangkahuripan",
+			"URL": "gudangkahuripan.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.383031,
+			-7.2917939]
+		},
+		"properties": {
+			"Desa": "Pusakanagara",
+			"URL": "desa.schmyweb.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.4114973,
+			-7.4079997]
+		},
+		"properties": {
+			"Desa": "Cimande",
+			"URL": "tasikdev.xyz"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.3293099,
+			-7.2482175]
+		},
+		"properties": {
+			"Desa": "Jalatrang",
+			"URL": "jalatrang.ciamisdesa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.3642469,
+			-7.2516967]
+		},
+		"properties": {
+			"Desa": "Sagalaherang",
+			"URL": "sagalaherang.ciamisdesa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.3885617,
+			-7.1275841]
+		},
+		"properties": {
+			"Desa": "Sagalaherang",
+			"URL": "sagalaherang.ciamisdesa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.2077757,
+			-7.1507396]
+		},
+		"properties": {
+			"Desa": "Sukakerta",
+			"URL": "galuhnetwork.co.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.5669192,
+			-6.7624146]
+		},
+		"properties": {
+			"Desa": "Banjarwangunan",
+			"URL": "sid.banjarwangunan.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [107.8981405,
+			-7.2318035]
+		},
+		"properties": {
+			"Desa": "Garut Kota",
+			"URL": "garutkota.garutkab.go.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.3415902,
+			-6.3119085]
+		},
+		"properties": {
+			"Desa": "karangsong",
+			"URL": "karangsong.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [107.3157754,
+			-6.3801021]
+		},
+		"properties": {
+			"Desa": "Kutamekar",
+			"URL": "kutamekar.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [107.2290463,
+			-6.4001386]
+		},
+		"properties": {
+			"Desa": "Wanajaya",
+			"URL": "desawanajaya.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.4913478,
+			-6.9451897]
+		},
+		"properties": {
+			"Desa": "Cilowa",
+			"URL": "desacilowa.kramatmulya.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.4436883,
+			-6.8703151]
+		},
+		"properties": {
+			"Desa": "Cilimus",
+			"URL": "desa-cilimus.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.5064882,
+			-7.0017793]
+		},
+		"properties": {
+			"Desa": "Tembong",
+			"URL": "tembong.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.5006622,
+			-6.9090649]
+		},
+		"properties": {
+			"Desa": "GARATENGAH",
+			"URL": "desa-garatengah.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.5040426,
+			-6.9436073]
+		},
+		"properties": {
+			"Desa": "Bojong",
+			"URL": "desabojong.kramatmulya.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.4739756,
+			-6.9403793]
+		},
+		"properties": {
+			"Desa": "Cibentang",
+			"URL": "desacibentang.kramatmulya.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.5067612,
+			-6.9497568]
+		},
+		"properties": {
+			"Desa": "CILAJA",
+			"URL": "desacilaja.kramatmulya.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.4684513,
+			-6.9408541]
+		},
+		"properties": {
+			"Desa": "Kramatmulya",
+			"URL": "desakramatmulya.kramatmulya.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.4497216,
+			-6.9385629]
+		},
+		"properties": {
+			"Desa": "Pajambon",
+			"URL": "desapajambon.kramatmulya.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.4555646,
+			-6.9419816]
+		},
+		"properties": {
+			"Desa": "Ragawacana",
+			"URL": "desaragawacana.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.6426866,
+			-7.0265888]
+		},
+		"properties": {
+			"Desa": "LURAGUNGTONGGOH",
+			"URL": "desa-luragungtonggoh.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.6112327,
+			-7.0366016]
+		},
+		"properties": {
+			"Desa": "Wilanagara",
+			"URL": "desawilanagara.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.4203887,
+			-6.9919941]
+		},
+		"properties": {
+			"Desa": "Jambar",
+			"URL": "desajambar.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.4947926,
+			-6.8243903]
+		},
+		"properties": {
+			"Desa": "Sumbakeling",
+			"URL": "desasumbakeling.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.0745113,
+			-7.1223876]
+		},
+		"properties": {
+			"Desa": "Kadipaten",
+			"URL": "languagetechnologies.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [107.4216254,
+			-6.4776992]
+		},
+		"properties": {
+			"Desa": "Cigelam",
+			"URL": "cigelam.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.5667398,
+			-7.3458627]
+		},
+		"properties": {
+			"Desa": "Jagamukti",
+			"URL": "desajagamukti.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.6536274,
+			-7.3246371]
+		},
+		"properties": {
+			"Desa": "SIGEBLOG",
+			"URL": "sigeblog.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.4941877,
+			-7.4467555]
+		},
+		"properties": {
+			"Desa": "Banjarnegara",
+			"URL": "sid-2017.ga"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.6341458,
+			-7.3900056]
+		},
+		"properties": {
+			"Desa": "Blambangan",
+			"URL": "blambangan-banjarnegara.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.7039983,
+			-7.3687741]
+		},
+		"properties": {
+			"Desa": "Sered",
+			"URL": "sered-banjarnegara.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.7353347,
+			-7.2957146]
+		},
+		"properties": {
+			"Desa": "Bantar",
+			"URL": "desabantar.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [110.6960398,
+			-7.3373551]
+		},
+		"properties": {
+			"Desa": "Karanggatak",
+			"URL": "karanggatak.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.8247476,
+			-6.8766468]
+		},
+		"properties": {
+			"Desa": "Blubuk",
+			"URL": "blubuk.desaku.top"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.7845582,
+			-6.9033631]
+		},
+		"properties": {
+			"Desa": "Dukuh salam",
+			"URL": "dukuhsalam.desaku.top"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.8342379,
+			-6.8217952]
+		},
+		"properties": {
+			"Desa": "Karang Dempel",
+			"URL": "karangdempel.desaku.top"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.7971773,
+			-6.8798306]
+		},
+		"properties": {
+			"Desa": "Kedungneng",
+			"URL": "opensid.kedungneng.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.7908892,
+			-6.836639]
+		},
+		"properties": {
+			"Desa": "Losari Lor",
+			"URL": "desalosarilor.desaku.top"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.8431012,
+			-6.8132646]
+		},
+		"properties": {
+			"Desa": "Prapag Lor",
+			"URL": "prapaglor.desaku.top"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.8065007,
+			-6.8734326]
+		},
+		"properties": {
+			"Desa": "Randusari",
+			"URL": "randusari.desaku.top"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.789046,
+			-7.536457]
+		},
+		"properties": {
+			"Desa": "Cisumur",
+			"URL": "cisumur.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [110.6794132,
+			-6.5566081]
+		},
+		"properties": {
+			"Desa": "Mambak",
+			"URL": "test.jeparakab.go.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [110.6794132,
+			-6.5566081]
+		},
+		"properties": {
+			"Desa": "Kalijirek",
+			"URL": "kalijirek-keckebumen.kebumenkab.go.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [110.7507071,
+			-7.6729678]
+		},
+		"properties": {
+			"Desa": "Ketitang",
+			"URL": "desaketitang.klatenkab.go.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [110.5740141,
+			-7.7030638]
+		},
+		"properties": {
+			"Desa": "Nglinggi",
+			"URL": "desanglinggi.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [110.5766313,
+			-7.7505781]
+		},
+		"properties": {
+			"Desa": "Pandes",
+			"URL": "sid.pandeswedi.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [110.3854774,
+			-7.4724561]
+		},
+		"properties": {
+			"Desa": "Banyuroto",
+			"URL": "desabanyuroto.magelangkab.go.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [110.3231103,
+			-7.5087271]
+		},
+		"properties": {
+			"Desa": "Jati",
+			"URL": "desajati.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.0492051,
+			-6.7964154]
+		},
+		"properties": {
+			"Desa": "Koripandriyo",
+			"URL": "koripandriyo.net"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [110.9745782,
+			-6.8999785]
+		},
+		"properties": {
+			"Desa": "Kajen",
+			"URL": "kajen.or.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.6463386,
+			-6.9540743]
+		},
+		"properties": {
+			"Desa": "Ambokembang",
+			"URL": "ambokembang.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.6217922,
+			-6.9548088]
+		},
+		"properties": {
+			"Desa": "Bugangan",
+			"URL": "bugangan.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.6298237,
+			-6.9544338]
+		},
+		"properties": {
+			"Desa": "Karangdowo",
+			"URL": "karangdowo.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.6408156,
+			-6.9770458]
+		},
+		"properties": {
+			"Desa": "Kedungpatangewu",
+			"URL": "kedungpatangewu.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.6309383,
+			-6.9608947]
+		},
+		"properties": {
+			"Desa": "Kedungwuni Barat",
+			"URL": "kedungwunibarat.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.655779,
+			-6.9707663]
+		},
+		"properties": {
+			"Desa": "Kwayangan",
+			"URL": "kwayangan.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.6585521,
+			-6.9781926]
+		},
+		"properties": {
+			"Desa": "Pajomblangan",
+			"URL": "pajomblangan.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.6512476,
+			-6.9825298]
+		},
+		"properties": {
+			"Desa": "Pakisputih",
+			"URL": "pakisputih.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.6484616,
+			-6.9466943]
+		},
+		"properties": {
+			"Desa": "Pekajangan",
+			"URL": "pekajangan.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.6478855,
+			-6.9604833]
+		},
+		"properties": {
+			"Desa": "Podo",
+			"URL": "podo.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.6650474,
+			-6.9657037]
+		},
+		"properties": {
+			"Desa": "Proto",
+			"URL": "proto.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.6202882,
+			-6.9462079]
+		},
+		"properties": {
+			"Desa": "Rengas",
+			"URL": "rengas.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.6553312,
+			-6.9962753]
+		},
+		"properties": {
+			"Desa": "Rowocacing",
+			"URL": "rowocacing.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.6297701,
+			-6.9461433]
+		},
+		"properties": {
+			"Desa": "TANGKIL KULON",
+			"URL": "tangkilkulon.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.6388816,
+			-6.9454824]
+		},
+		"properties": {
+			"Desa": "Tangkil Tengah",
+			"URL": "tangkiltengah.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.6593271,
+			-6.9823834]
+		},
+		"properties": {
+			"Desa": "Tosaran",
+			"URL": "tosaran.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.8976246,
+			-7.7453438]
+		},
+		"properties": {
+			"Desa": "Kuwurejo",
+			"URL": "kuwurejo.co.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [110.0941807,
+			-7.6609568]
+		},
+		"properties": {
+			"Desa": "Banyuasin Kembaran",
+			"URL": "sid.banyuasinkembaran.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [110.0721566,
+			-7.6645999]
+		},
+		"properties": {
+			"Desa": "Guyangan",
+			"URL": "sid.guyangan-purworejo.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [110.0184561,
+			-7.6663643]
+		},
+		"properties": {
+			"Desa": "Jetis",
+			"URL": "sid.jetis.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [110.0488342,
+			-7.6693486]
+		},
+		"properties": {
+			"Desa": "Kalisemo",
+			"URL": "sid.kalisemo.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [110.0372822,
+			-7.6857921]
+		},
+		"properties": {
+			"Desa": "Karangrejo",
+			"URL": "sid.karangrejo.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [110.0452856,
+			-7.6550053]
+		},
+		"properties": {
+			"Desa": "Kebon Gunung",
+			"URL": "kebon-gunung.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [110.0190686,
+			-7.6733547]
+		},
+		"properties": {
+			"Desa": "Loano",
+			"URL": "sid.loano.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [110.0943231,
+			-7.6515338]
+		},
+		"properties": {
+			"Desa": "Ngargosari",
+			"URL": "sid.ngargosari.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [110.1085937,
+			-7.6626511]
+		},
+		"properties": {
+			"Desa": "Sedayu",
+			"URL": "sid.sedayu.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [110.0694618,
+			-7.6763526]
+		},
+		"properties": {
+			"Desa": "Tepansari",
+			"URL": "sid.tepansari.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [110.0236237,
+			-7.6941751]
+		},
+		"properties": {
+			"Desa": "Trirejo",
+			"URL": "sid.trirejo.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.9836717,
+			-7.8590519]
+		},
+		"properties": {
+			"Desa": "Nampu",
+			"URL": "nampu.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.3216687,
+			-6.6990473]
+		},
+		"properties": {
+			"Desa": "Gegunung Wetan",
+			"URL": "gegunungwetan.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.4074102,
+			-6.6945776]
+		},
+		"properties": {
+			"Desa": "PUNJULHARJO",
+			"URL": "punjulharjo-rembang.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.3527809,
+			-6.7056327]
+		},
+		"properties": {
+			"Desa": "Sukoharjo",
+			"URL": "sukoharjo-rembang.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.3280897,
+			-6.7140486]
+		},
+		"properties": {
+			"Desa": "Sumberjo",
+			"URL": "sumberjo.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.3618902,
+			-6.7104676]
+		},
+		"properties": {
+			"Desa": "Tireman",
+			"URL": "tireman.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.2677282,
+			-6.8069581]
+		},
+		"properties": {
+			"Desa": "Polbayem",
+			"URL": "polbayem-rembang.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [110.3058983,
+			-7.1989146]
+		},
+		"properties": {
+			"Desa": "kemawi",
+			"URL": "sid.kemawi.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.7858597,
+			-7.3820731]
+		},
+		"properties": {
+			"Desa": "Gumiwang",
+			"URL": "gumiwang2.hol.es"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [114.2607229,
+			-8.2518172]
+		},
+		"properties": {
+			"Desa": "MACANPUTIH",
+			"URL": "macanputihbanyuwangi.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.0932004,
+			-8.2525371]
+		},
+		"properties": {
+			"Desa": "LOREJO",
+			"URL": "lorejo.desa-tumpakoyot.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.0377903,
+			-8.2953807]
+		},
+		"properties": {
+			"Desa": "TUMPAK OYOT",
+			"URL": "home.desa-tumpakoyot.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.0981702,
+			-7.1105036]
+		},
+		"properties": {
+			"Desa": "Kauman",
+			"URL": "kauman-bojonegoro.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.8527699,
+			-7.3571957]
+		},
+		"properties": {
+			"Desa": "Temayang",
+			"URL": "temayang.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.0808151,
+			-8.2249598]
+		},
+		"properties": {
+			"Desa": "Kalibendo",
+			"URL": "demo-sid.lumajangkab.go.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.2847277,
+			-8.0553387]
+		},
+		"properties": {
+			"Desa": "Ledok Tempuro",
+			"URL": "demo-sid.lumajangkab.go.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.5606817,
+			-8.1156636]
+		},
+		"properties": {
+			"Desa": "Dilem",
+			"URL": "dilem.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.4404862,
+			-7.4543316]
+		},
+		"properties": {
+			"Desa": "Dempel",
+			"URL": "desadempel.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.4934377,
+			-7.4667056]
+		},
+		"properties": {
+			"Desa": "BENDO",
+			"URL": "bendo.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.1437621,
+			-8.1086407]
+		},
+		"properties": {
+			"Desa": "JATIMALANG",
+			"URL": "desa-jatimalang.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.8727522,
+			-7.6228564]
+		},
+		"properties": {
+			"Desa": "Kraton",
+			"URL": "kraton.desaonline.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.0794568,
+			-7.7038917]
+		},
+		"properties": {
+			"Desa": "Mlaten",
+			"URL": "desamlaten.nguling.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.0736376,
+			-7.7137088]
+		},
+		"properties": {
+			"Desa": "Nguling",
+			"URL": "desa.nguling.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.0489453,
+			-7.7189887]
+		},
+		"properties": {
+			"Desa": "Sedarum",
+			"URL": "nguling.desaonline.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.0565458,
+			-7.7287036]
+		},
+		"properties": {
+			"Desa": "Watestani",
+			"URL": "desawatestani.nguling.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.3478433,
+			-7.8670357]
+		},
+		"properties": {
+			"Desa": "Glinggang",
+			"URL": "glinggang.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.6225404,
+			-7.9992127]
+		},
+		"properties": {
+			"Desa": "Tempuran",
+			"URL": "sidtempuran.rf.gd"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.5568295,
+			-7.4292613]
+		},
+		"properties": {
+			"Desa": "SEKETI",
+			"URL": "seketi.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.5444783,
+			-7.4231836]
+		},
+		"properties": {
+			"Desa": "WATESARI",
+			"URL": "watesari.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.5921786,
+			-7.4515683]
+		},
+		"properties": {
+			"Desa": "CANGKRINGTURI",
+			"URL": "cangkringturi.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.6981787,
+			-6.9638446]
+		},
+		"properties": {
+			"Desa": "Bangilan",
+			"URL": "bangilan.bangilan.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.7139062,
+			-6.9442976]
+		},
+		"properties": {
+			"Desa": "Banjarworo",
+			"URL": "banjarworo.bangilan.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.6565333,
+			-7.005425]
+		},
+		"properties": {
+			"Desa": "Bate",
+			"URL": "bate.bangilan.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.6936573,
+			-6.9858141]
+		},
+		"properties": {
+			"Desa": "Kablukan",
+			"URL": "kablukan.bangilan.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.7230727,
+			-6.9735118]
+		},
+		"properties": {
+			"Desa": "Kedungharjo",
+			"URL": "kedungharjo.bangilan.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.6823122,
+			-6.9447052]
+		},
+		"properties": {
+			"Desa": "Kedungjambangan",
+			"URL": "kedungjambangan.bangilan.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.7251498,
+			-6.9574732]
+		},
+		"properties": {
+			"Desa": "Kedungmulyo",
+			"URL": "kedungmulyo.bangilan.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.6649617,
+			-6.9874171]
+		},
+		"properties": {
+			"Desa": "Klakeh",
+			"URL": "klakeh.bangilan.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.7267174,
+			-6.9283185]
+		},
+		"properties": {
+			"Desa": "Kumpulrejo",
+			"URL": "kumpulrejo.bangilan.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.7194991,
+			-6.9880453]
+		},
+		"properties": {
+			"Desa": "Ngrojo",
+			"URL": "ngrojo.bangilan.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.6952668,
+			-6.9435722]
+		},
+		"properties": {
+			"Desa": "Sidodadi",
+			"URL": "sidodadi.bangilan.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.7034322,
+			-6.9770433]
+		},
+		"properties": {
+			"Desa": "Sidokumpul",
+			"URL": "sidokumpul.bangilan.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.6691511,
+			-6.9688296]
+		},
+		"properties": {
+			"Desa": "Sidotentrem",
+			"URL": "sidotentrem.bangilan.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.7226732,
+			-6.9833118]
+		},
+		"properties": {
+			"Desa": "Weden",
+			"URL": "weden.bangilan.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.6323989,
+			-6.9624616]
+		},
+		"properties": {
+			"Desa": "Bendonglateng",
+			"URL": "bendonglateng.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.6040793,
+			-6.962886]
+		},
+		"properties": {
+			"Desa": "Jamprong",
+			"URL": "jamprong.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.5662369,
+			-6.9384885]
+		},
+		"properties": {
+			"Desa": "Jlodro",
+			"URL": "jlodro.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.6328309,
+			-6.9123206]
+		},
+		"properties": {
+			"Desa": "Sidohasri",
+			"URL": "sidohasri.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.6112783,
+			-6.9221121]
+		},
+		"properties": {
+			"Desa": "Sidomukti",
+			"URL": "sidomukti.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.6563054,
+			-6.9416265]
+		},
+		"properties": {
+			"Desa": "Sidorejo",
+			"URL": "sidorejo-kenduruan.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.6592317,
+			-6.9270621]
+		},
+		"properties": {
+			"Desa": "Sokogrenjeng",
+			"URL": "sokogrenjeng.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.5768134,
+			-6.9480031]
+		},
+		"properties": {
+			"Desa": "SOKOGUNUNG",
+			"URL": "sokogunung.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.5840673,
+			-6.9049655]
+		},
+		"properties": {
+			"Desa": "Tawaran",
+			"URL": "tawaran.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.1323608,
+			-6.9239361]
+		},
+		"properties": {
+			"Desa": "Leran Kulon",
+			"URL": "lerankulon-palang.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.0205527,
+			-6.9046141]
+		},
+		"properties": {
+			"Desa": "Kembangbilo",
+			"URL": "kembangbilo.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.9999537,
+			-6.8967646]
+		},
+		"properties": {
+			"Desa": "Sumurgung",
+			"URL": "sumurgung.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.1550103,
+			-7.0254342]
+		},
+		"properties": {
+			"Desa": "Mrutuk",
+			"URL": "mrutuk-widang.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.7208765,
+			0.2643412]
+		},
+		"properties": {
+			"Desa": "Miau Merah",
+			"URL": "miaumerah.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.9942765,
+			1.0025611]
+		},
+		"properties": {
+			"Desa": "Semelagi Besar",
+			"URL": "semelagibesar.cu.cc"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.1616017,
+			1.2201374]
+		},
+		"properties": {
+			"Desa": "Sejiram",
+			"URL": "desasejiram.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [114.9737669,
+			-3.4914265]
+		},
+		"properties": {
+			"Desa": "Awang Bangkal Barat",
+			"URL": "awangbangkalbarat.info"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [114.6340428,
+			-3.3698371]
+		},
+		"properties": {
+			"Desa": "Simpang Empat",
+			"URL": "simpang4kh.info"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [114.6848686,
+			-3.2899843]
+		},
+		"properties": {
+			"Desa": "Lok Baintan",
+			"URL": "lokbaintan.info"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [114.6830024,
+			-3.2705021]
+		},
+		"properties": {
+			"Desa": "Lok Baintan Dalam",
+			"URL": "lokbaintandalam.info"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [117.6280498,
+			2.2626243]
+		},
+		"properties": {
+			"Desa": "Merancang Ilir",
+			"URL": "merancangilir.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [117.6060948,
+			1.3585921]
+		},
+		"properties": {
+			"Desa": "Karangan Hilir",
+			"URL": "karanganhilir.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [116.1869439,
+			-1.9990643]
+		},
+		"properties": {
+			"Desa": "Pasir Belengkong",
+			"URL": "pasirbelengkong.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [116.5077893,
+			3.4987921]
+		},
+		"properties": {
+			"Desa": "LIDUNG KEMENCI",
+			"URL": "semi-webdesain.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [105.8079122,
+			-4.6499785]
+		},
+		"properties": {
+			"Desa": "Cabang",
+			"URL": "cabang.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [104.7731747,
+			-5.3409808]
+		},
+		"properties": {
+			"Desa": "SINDANG MARGA",
+			"URL": "languagetechnologies.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [104.4842332,
+			-4.7788906]
+		},
+		"properties": {
+			"Desa": "Bali Sadhar Selatan",
+			"URL": "banjitdesain.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [130.8871437,
+			-3.8880795]
+		},
+		"properties": {
+			"Desa": "Geser",
+			"URL": "sem.my.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [127.4706655,
+			-0.7352301]
+		},
+		"properties": {
+			"Desa": "Desa Sawadai",
+			"URL": "sawadaihalsel.malut.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [127.8715973,
+			0.3139874]
+		},
+		"properties": {
+			"Desa": "DESA GOENG",
+			"URL": "goenghalteng.malut.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [127.9272737,
+			1.2497209]
+		},
+		"properties": {
+			"Desa": "Biang",
+			"URL": "bianghalut.malut.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [127.861465,
+			1.2159516]
+		},
+		"properties": {
+			"Desa": "Halmahera Utara",
+			"URL": "kusuhalut.malut.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [127.8605713,
+			1.2023704]
+		},
+		"properties": {
+			"Desa": "Kusu Lovra",
+			"URL": "kusulofrahalut.malut.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [127.8480802,
+			1.236016]
+		},
+		"properties": {
+			"Desa": "Sasur",
+			"URL": "sasurhalut.malut.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [127.9038914,
+			1.2633323]
+		},
+		"properties": {
+			"Desa": "Sumber Agung",
+			"URL": "sumberagunghalut.malut.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [127.8485633,
+			1.1879139]
+		},
+		"properties": {
+			"Desa": "Waringin Lelewi",
+			"URL": "waringinlelewihalut.malut.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [127.3768299,
+			0.7960614]
+		},
+		"properties": {
+			"Desa": "Kelurahan Makassar Barat",
+			"URL": "mksbaratternate.malut.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [127.3806218,
+			0.7812034]
+		},
+		"properties": {
+			"Desa": "Kelurahan Takoma",
+			"URL": "takomaternate.malut.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [127.3835682,
+			0.8023331]
+		},
+		"properties": {
+			"Desa": "Kelurahan Salero",
+			"URL": "saleroternate.malut.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [118.6422961,
+			-8.5130112]
+		},
+		"properties": {
+			"Desa": "Bontokape",
+			"URL": "bontokape.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [118.6522148,
+			-8.5123769]
+		},
+		"properties": {
+			"Desa": "Darussalam",
+			"URL": "infodarussalam.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [118.6050599,
+			-8.5265902]
+		},
+		"properties": {
+			"Desa": "Leu",
+			"URL": "bontokape.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [118.5938237,
+			-8.4949556]
+		},
+		"properties": {
+			"Desa": "Rasabou",
+			"URL": "inforasabou.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [118.6278806,
+			-8.5078438]
+		},
+		"properties": {
+			"Desa": "Timu",
+			"URL": "infotimu.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [118.8900319,
+			-8.3688547]
+		},
+		"properties": {
+			"Desa": "Nunggi",
+			"URL": "desanunggi.mahadhika.or.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [118.6951213,
+			-8.5933102]
+		},
+		"properties": {
+			"Desa": "NISA",
+			"URL": "desanisa.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [118.6040029,
+			-8.5706756]
+		},
+		"properties": {
+			"Desa": "Pandai",
+			"URL": "desapandai.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [118.6644113,
+			-8.5512542]
+		},
+		"properties": {
+			"Desa": "Penapali",
+			"URL": "penapali.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [118.6828717,
+			-8.5689812]
+		},
+		"properties": {
+			"Desa": "Rabakodo",
+			"URL": "rabakodo.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [118.6599194,
+			-8.6404487]
+		},
+		"properties": {
+			"Desa": "Sakuru",
+			"URL": "desasakuru.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [118.6808941,
+			-8.6072451]
+		},
+		"properties": {
+			"Desa": "Tenga",
+			"URL": "tenga.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [118.6924226,
+			-8.5859573]
+		},
+		"properties": {
+			"Desa": "Tente",
+			"URL": "desatente.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [118.6898027,
+			-8.5946823]
+		},
+		"properties": {
+			"Desa": "Waduwani",
+			"URL": "demo.sampari.net"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [118.6951213,
+			-8.5933102]
+		},
+		"properties": {
+			"Desa": "DESA NISA",
+			"URL": "desanisa.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [118.6951213,
+			-8.5933102]
+		},
+		"properties": {
+			"Desa": "Nisa",
+			"URL": "desanisa.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [116.0344448,
+			-8.4851477]
+		},
+		"properties": {
+			"Desa": "Senggigi",
+			"URL": "senggigi.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [116.0344448,
+			-8.4851477]
+		},
+		"properties": {
+			"Desa": "Senggigi",
+			"URL": "mppldesasenggigi.byethost24.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [115.9819143,
+			-8.4849288]
+		},
+		"properties": {
+			"Desa": "Gelangsar",
+			"URL": "gelangsar.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [115.9819142,
+			-8.4845767]
+		},
+		"properties": {
+			"Desa": "Ranjok",
+			"URL": "ranjok.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [116.1541167,
+			-8.6555301]
+		},
+		"properties": {
+			"Desa": "Jagaraga",
+			"URL": "jagaraga-kuripan.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [116.292604,
+			-8.604972]
+		},
+		"properties": {
+			"Desa": "Mekar Bersatu",
+			"URL": "desamekarbersatu.hol.es"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [116.4188833,
+			-8.4905745]
+		},
+		"properties": {
+			"Desa": "Aikmel Utara",
+			"URL": "aikmelutara.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [116.5454137,
+			-8.5825636]
+		},
+		"properties": {
+			"Desa": "Kalijaga Timur",
+			"URL": "kalijagatimur.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [116.5409287,
+			-8.6023704]
+		},
+		"properties": {
+			"Desa": "Sukarema",
+			"URL": "sukarema.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [116.5146639,
+			-8.6022626]
+		},
+		"properties": {
+			"Desa": "TOYA",
+			"URL": "desatoya.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [116.4712382,
+			-8.6174023]
+		},
+		"properties": {
+			"Desa": "Masbagik Utara Baru",
+			"URL": "masbagikutarabaru.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [116.4611241,
+			-8.7223692]
+		},
+		"properties": {
+			"Desa": "Montong Beter",
+			"URL": "montongbeter.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [116.4173563,
+			-8.6841452]
+		},
+		"properties": {
+			"Desa": "Embung Raja",
+			"URL": "embungraja.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [116.3836192,
+			-8.6687942]
+		},
+		"properties": {
+			"Desa": "Rarang Selatan",
+			"URL": "rarangselatan.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [116.3982627,
+			-8.6295827]
+		},
+		"properties": {
+			"Desa": "Sukadana",
+			"URL": "sukadana-lomboktimur.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [116.4003967,
+			-8.6539275]
+		},
+		"properties": {
+			"Desa": "SURADADI",
+			"URL": "suradadi.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [117.3975792,
+			-8.4747449]
+		},
+		"properties": {
+			"Desa": "Labuhan Sumbawa",
+			"URL": "labuhansumbawa.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [117.1252839,
+			-8.3954487]
+		},
+		"properties": {
+			"Desa": "Jorok",
+			"URL": "jorok.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [122.7826464,
+			-8.5837177]
+		},
+		"properties": {
+			"Desa": "Lewoawang",
+			"URL": "desalewoawang.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [123.5475187,
+			-8.3805443]
+		},
+		"properties": {
+			"Desa": "Hadakewa",
+			"URL": "hadakewa.desa.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [123.0584544,
+			-10.7403283]
+		},
+		"properties": {
+			"Desa": "Oelunggu",
+			"URL": "desa.rnwebdev.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [122.7420654,
+			-0.915097]
+		},
+		"properties": {
+			"Desa": "Nambo Padang",
+			"URL": "kelurahannambopadang.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [140.6039962,
+			-2.9948582]
+		},
+		"properties": {
+			"Desa": "Yuwanain",
+			"URL": "kampungyuwanain.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [140.5904104,
+			-2.7604133]
+		},
+		"properties": {
+			"Desa": "Jaifuri",
+			"URL": "kampungjaifuri.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [140.4853447,
+			-2.7599758]
+		},
+		"properties": {
+			"Desa": "Wulukubun",
+			"URL": "kampungwulukubun.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [140.2055032,
+			-8.2800421]
+		},
+		"properties": {
+			"Desa": "Padang Raharja",
+			"URL": "exsa-computer.org"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [100.400973,
+			0.7583727]
+		},
+		"properties": {
+			"Desa": "Marga Mulya",
+			"URL": "margamulya1.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [120.8515083,
+			-2.448553]
+		},
+		"properties": {
+			"Desa": "Kalaena Kiri",
+			"URL": "kalaena-kiri.daftarhosting.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [122.0967543,
+			-1.3462334]
+		},
+		"properties": {
+			"Desa": "Bukit Jaya",
+			"URL": "desabukitjayabanggai.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.8733639,
+			-5.4080981]
+		},
+		"properties": {
+			"Desa": "Pongkalaero",
+			"URL": "pongkalaerokabaena.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.9401239,
+			-5.2643385]
+		},
+		"properties": {
+			"Desa": "Tangkeno",
+			"URL": "desawisatatangkeno.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.9808338,
+			-4.626955]
+		},
+		"properties": {
+			"Desa": "Kalaero",
+			"URL": "kalaerolantari.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.8771469,
+			-4.520546]
+		},
+		"properties": {
+			"Desa": "Tinabite",
+			"URL": "tinabitelantari.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.787035,
+			-4.4464111]
+		},
+		"properties": {
+			"Desa": "Lamuru",
+			"URL": "lamurumatausu.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [122.7137309,
+			-5.3031526]
+		},
+		"properties": {
+			"Desa": "Barangka",
+			"URL": "barangka.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.0526338,
+			-3.2074295]
+		},
+		"properties": {
+			"Desa": "Sipakainge",
+			"URL": "desa-sipakainge.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [122.0419811,
+			-3.5923262]
+		},
+		"properties": {
+			"Desa": "Lahimbua",
+			"URL": "lahimbua.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [124.4650462,
+			1.0272664]
+		},
+		"properties": {
+			"Desa": "Motoling",
+			"URL": "simdes.desasulut.net"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [124.4679427,
+			1.0396357]
+		},
+		"properties": {
+			"Desa": "Motoling Dua",
+			"URL": "simdes.desasulut.net"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [124.4779001,
+			1.0330617]
+		},
+		"properties": {
+			"Desa": "Motoling Mawale",
+			"URL": "simdes.desasulut.net"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [101.7055958,
+			-1.0348691]
+		},
+		"properties": {
+			"Desa": "Padang Laweh",
+			"URL": "nagaripadanglaweh.desaonline.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [104.3371255,
+			-3.6563222]
+		},
+		"properties": {
+			"Desa": "Jiwa Baru",
+			"URL": "jiwabaru.web.id"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [103.2900804,
+			-3.39546]
+		},
+		"properties": {
+			"Desa": "Pangkalan Tarum",
+			"URL": "pangkalantarum.desa-id.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [103.2509755,
+			-3.4615262]
+		},
+		"properties": {
+			"Desa": "Sungai Naik",
+			"URL": "sungainaik.desa-id.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [98.7888171,
+			3.2834868]
+		},
+		"properties": {
+			"Desa": "Kulasar",
+			"URL": "kulasar.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [98.7812307,
+			3.2709589]
+		},
+		"properties": {
+			"Desa": "Pagar Manik",
+			"URL": "pagarmanik.com"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [98.774114,
+			3.266791]
+		},
+		"properties": {
+			"Desa": "Silinda",
+			"URL": "desasilinda.com"
+		}
+	}
 ]
 }
