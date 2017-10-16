@@ -2997,6 +2997,17 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 107.669166,-6.983426 ]
+    },
+    "properties": {
+    "Desa":"Geulumpang Payong",
+    "URL":"geulumpangpayong.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 115.343332,-8.513407 ]
     },
     "properties": {
