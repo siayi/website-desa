@@ -3008,6 +3008,17 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 107.687202,-6.98383 ]
+    },
+    "properties": {
+    "Desa":"Gudang",
+    "URL":"gudang.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 115.343332,-8.513407 ]
     },
     "properties": {
