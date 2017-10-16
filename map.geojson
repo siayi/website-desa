@@ -3019,6 +3019,193 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 107.714344,-6.960694 ]
+    },
+    "properties": {
+    "Desa":"Kuta Bahagia",
+    "URL":"kutabahagia.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.729187,-6.939135 ]
+    },
+    "properties": {
+    "Desa":"Alue Pisang",
+    "URL":"aluepisang.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.737289,-6.942128 ]
+    },
+    "properties": {
+    "Desa":"Lhueng Geulumpang",
+    "URL":"lhuenggeulumpang.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.7201944,-6.9364452 ]
+    },
+    "properties": {
+    "Desa":"Kuta Bak Drien",
+    "URL":"kutabakdrien.desa.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.753927,-6.933059 ]
+    },
+    "properties": {
+    "Desa":"Blang Kolak II",
+    "URL":"blangkolakdua.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.735087,-6.922763 ]
+    },
+    "properties": {
+    "Desa":"Tunong Ulee Gajah",
+    "URL":"tunonguleegajah.desaonline.web.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.69926,-6.886135 ]
+    },
+    "properties": {
+    "Desa":"Gampong Mulia",
+    "URL":"gampongmulia.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.713482,-6.884706 ]
+    },
+    "properties": {
+    "Desa":"TAMANBALI",
+    "URL":"guliangkangin.or.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.6934055,-6.856896 ]
+    },
+    "properties": {
+    "Desa":"Demulih",
+    "URL":"gayafusion.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.729141,-6.890203 ]
+    },
+    "properties": {
+    "Desa":"Banyupoh",
+    "URL":"banyupoh.web.id"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.737453,-6.895061 ]
+    },
+    "properties": {
+    "Desa":"Bengkala",
+    "URL":"kem-kolokbengkala.net"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.670875,-6.885459 ]
+    },
+    "properties": {
+    "Desa":"Galungan",
+    "URL":"sid-latihan.16mb.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.674217,-6.888838 ]
+    },
+    "properties": {
+    "Desa":"Desa Citeras",
+    "URL":"sidciteras.16mb.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.683376,-6.893634 ]
+    },
+    "properties": {
+    "Desa":"Nambo Ilir",
+    "URL":"sid.desanamboilir.info"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.69598,-6.867503 ]
+    },
+    "properties": {
+    "Desa":"Barugbug",
+    "URL":"desabarugbug.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.675552,-6.863832 ]
+    },
+    "properties": {
+    "Desa":"Tangsi Duren",
+    "URL":"desa-tangsiduren.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.651054,-6.871759 ]
+    },
+    "properties": {
+    "Desa":"Gajah Mati",
+    "URL":"desagajahmati.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 115.343332,-8.513407 ]
     },
     "properties": {
