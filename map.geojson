@@ -6015,6 +6015,18 @@
 			"Desa": "Silinda",
 			"URL": "desasilinda.com"
 		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [102.094889,
+			1.500664]
+		},
+		"properties": {
+			"Desa": "Pedekik",
+			"URL": "pedekik.desa.id"
+		}
 	}
 ]
 }

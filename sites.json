@@ -3505,10 +3505,17 @@
     "kabkot": "Serdang Bedagai",
     "provinsi": "Sumatera Utara"
   },
-{
+  {
 	"title": "Tarean",
 	"url": "http://desatarean.com",
 	"kecamatan": "Silinda",
 	"kabkot": "Serdang Bedagai",
 	"provinsi": "Sumatera Utara"
-}]
+  },
+  {
+	"title": "Pedekik",
+	"url": "http://pedekik.desa.id/",
+	"kecamatan": "Bengkalis",
+	"kabkot": "Bengkalis",
+	"provinsi": "Riau"
+  }]

@@ -37,6 +37,7 @@ Daftar Website Desa di seluruh Indonesia. Jangan ragu untuk [mengirimkan issue](
 | Desa | Kecamatan | Kabupaten/Kota |
 |----|----|----|
 | [Marga Mulya](http://margamulya1.com) | Rambah Samo | Rokan Hulu |
+| [Pedekik](http://pedekik.desa.id/ | Bengkalis | Bengkalis |
 
 ### Jambi
 
