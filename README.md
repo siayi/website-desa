@@ -587,6 +587,7 @@ Daftar Website Desa di seluruh Indonesia. Jangan ragu untuk [mengirimkan issue](
 | [Merancang Ilir](http://merancangilir.com) | Gunung Tabur | Berau |
 | [Karangan Hilir](http://karanganhilir.desa.id) | Karangan | Kutai Timur |
 | [Pasir Belengkong](http://pasirbelengkong.desa.id) | Paser Belengkong | Paser |
+| [Suka Bumi](https://desasukabumi.netlify.com/) | Kota Bangun | Kutai Kartanegara
 
 ### Kalimantan Utara
 
