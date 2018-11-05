@@ -6027,6 +6027,18 @@
 			"Desa": "Pedekik",
 			"URL": "pedekik.desa.id"
 		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [110.8873002,
+			-7.7747037]
+		},
+		"properties": {
+			"Desa": "Gemantar",
+			"URL": "gemantar.desa.id"
+		}
 	}
 ]
 }
