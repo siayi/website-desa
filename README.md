@@ -94,7 +94,7 @@ Daftar Website Desa di seluruh Indonesia. Jangan ragu untuk [mengirimkan issue](
 | [PANYOCOKAN](http://panyocokan.desa.id) | Ciwidey | Bandung |
 | [LEBAKMUNCANG](http://lebakmuncang.desa.id) | Ciwidey | Bandung |
 | [RAWABOGO](http://rawabogo.desa.id) | Ciwidey | Bandung |
-| [NENGKELAN](http://negkelan.desa.id) | Ciwidey | Bandung |
+| [NENGKELAN](http://nengkelan.desa.id) | Ciwidey | Bandung |
 | [SUKAWENING](http://sukawening.desa.id) | Ciwidey | Bandung |
 | [CIPELAH](http://cipelah.desa.id) | Rancabali | Bandung |
 | [SUKARESMI](http://sukaresmi-rancabali.desa.id) | Rancabali | Bandung |
