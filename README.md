@@ -105,7 +105,7 @@ Daftar Website Desa di seluruh Indonesia. Jangan ragu untuk [mengirimkan issue](
 | [MARGAMULYA](http://margamulya.desa.id) | Pasirjambu | Bandung |
 | [TENJOLAYA](http://tenjolaya-pasirjambu.desa.id) | Pasirjambu | Bandung |
 | [CISONDARI](http://cisondari.desa.id) | Pasirjambu | Bandung |
-| [MEKARSARI](http://mekarsari.desa.id) | Pasirjambu | Bandung |
+| [MEKARSARI](http://mekarsari-pasirjambu.desa.id) | Pasirjambu | Bandung |
 | [CIBODAS](http://cibodas.desa.id) | Pasirjambu | Bandung |
 | [CUKANGGENTENG](http://cukanggenteng.desa.id) | Pasirjambu | Bandung |
 | [PASIRJAMBU](http://pasirjambu.desa.id) | Pasirjambu | Bandung |
